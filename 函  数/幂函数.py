@@ -1,3 +1,4 @@
+# 定义一个计算n次方的函数
 def power(x, n):
     s = 1
     while n > 0:
