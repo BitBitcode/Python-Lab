@@ -8,15 +8,15 @@
     <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
 
     
-<meta name="keywords" content="force"/>
+<meta name="keywords" content="excel"/>
 
-<title>【force】什么意思_英语force的翻译_音标_读音_用法_例句_在线翻译_有道词典</title>
+<title>【excel】什么意思_英语excel的翻译_音标_读音_用法_例句_在线翻译_有道词典</title>
 <link rel="shortcut icon" href="https://shared-https.ydstatic.com/images/favicon.ico" type="image/x-icon"/>
 
 
 <link href="https://shared.ydstatic.com/dict/v2016/result/160621/result-min.css" rel="stylesheet" type="text/css"/>
 <link href="https://shared.ydstatic.com/dict/v2016/result/pad.css" media="screen and (orientation: portrait), screen and (orientation: landscape)" rel="stylesheet" type="text/css">
-<link rel="canonical" href="http://dict.youdao.com/w/force/"/>
+<link rel="canonical" href="http://dict.youdao.com/w/excel/"/>
 <link rel="search" type="application/opensearchdescription+xml" title="Yodao Dict" href="plugins/search-provider.xml"/>
 <script type='text/javascript' src='https://shared.ydstatic.com/js/jquery/jquery-1.8.2.min.js'></script>
 </head>
@@ -31,7 +31,7 @@
                         <div class="c-sust">
                                                 
 
-                                    <a hidefocus="true" class="login" href="http://account.youdao.com/login?service=dict&back_url=http%3A%2F%2Fdict.youdao.com%2Fsearch%3Fq%3Dforce%26tab%3D%23keyfrom%3D%24%7Bkeyfrom%7D" rel="nofollow">登录</a>
+                                    <a hidefocus="true" class="login" href="http://account.youdao.com/login?service=dict&back_url=http%3A%2F%2Fdict.youdao.com%2Fsearch%3Fq%3Dexcel%26tab%3D%23keyfrom%3D%24%7Bkeyfrom%7D" rel="nofollow">登录</a>
                             </div>
         </div>
         <div class="c-header">
@@ -42,7 +42,7 @@
                     <input type="hidden" id="le" name="le" value="eng" />
                 </div>
                 <span class="s-inpt-w">
-                    <input type="text" class="s-inpt" autocomplete="off" name="q" id="query" onmouseover="this.focus()" onfocus="this.select()" value="force"/>
+                    <input type="text" class="s-inpt" autocomplete="off" name="q" id="query" onmouseover="this.focus()" onfocus="this.select()" value="excel"/>
                     <input type="hidden" name="tab" value=""/>
                     <input type="hidden" name="keyfrom" value="dict2.top"/>
                     <span id="hnwBtn" class="hand-write"></span>
@@ -96,41 +96,34 @@
  
   					
 <div id="phrsListTab" class="trans-wrapper clearfix">
-                            <div class="img-list">
-        <a><img src="http://oimagea7.ydstatic.com/image?url=http%3A%2F%2Fmedia.moddb.com%2Fimages%2Fdownloads%2F1%2F24%2F23522%2Fstar_wars_the_force_unleashed.jpg&product=PICDICT_RD" alt="" data-link="http://oimagea7.ydstatic.com/image?url=http%3A%2F%2Fmedia.moddb.com%2Fimages%2Fdownloads%2F1%2F24%2F23522%2Fstar_wars_the_force_unleashed.jpg&product=PICDICT_RD" data-site=""></a>
-</div>
-
-                    <h2 class="wordbook-js">
-        <span class="keyword">force</span>
+                            <h2 class="wordbook-js">
+        <span class="keyword">excel</span>
                             <div class="baav">
                             <span class="pronounce">英
-                                    <span class="phonetic">[fɔːs]</span>
-                                                    <a href="#" title="真人发音" class="sp dictvoice voice-js log-js" data-rel="force&type=1" data-4log="dict.basic.ec.uk.voice"></a>
+                                    <span class="phonetic">[ɪkˈsel]</span>
+                                                    <a href="#" title="真人发音" class="sp dictvoice voice-js log-js" data-rel="excel&type=1" data-4log="dict.basic.ec.uk.voice"></a>
                                 </span>
                                       <span class="pronounce">美
-                                    <span class="phonetic">[fɔːrs]</span>
-                                                    <a href="#" title="真人发音" class="sp dictvoice voice-js log-js" data-rel="force&type=2" data-4log="dict.basic.ec.us.voice"></a>
+                                    <span class="phonetic">[ɪkˈsel]</span>
+                                                    <a href="#" title="真人发音" class="sp dictvoice voice-js log-js" data-rel="excel&type=2" data-4log="dict.basic.ec.us.voice"></a>
                                 </span>
                                   </div>
             </h2>
              <div class="trans-container">
 
    <ul>
-     <li>n. 力量；武力；军队；魄力</li>
-     <li>vt. 促使，推动；强迫；强加</li>
-     <li>n. (Force)人名；(意)福尔切；(英、法)福斯</li>
+     <li>vt. 超过；擅长</li>
+     <li>vi. (在某方面)胜过(或超过)别人</li>
     </ul>
               <p class="additional">[
                     过去式
-        forced
+        excelled
                      过去分词
-        forced
+        excelled
                      现在分词
-        forcing
-                     复数
-        forces
+        excelling
                      第三人称单数
-        forces
+        excels
                    ]</p>
       </div>
     </div>
@@ -159,143 +152,120 @@
     <div class="title">
         <a href="#" title="详细释义" rel="#rw1" class="sp do-detail">&nbsp;</a>
         <span>
-        	 	 <span class=gray>[力]</span>
-                 力</span>
+                电子表格</span>
     </div>
     <p class="collapse-content">
-    ...项在概念上“内在一致”且与“何人应负担损失”相一致的的分析模型，RichardEpstein提出了四组“因果范例”分别基于暴<b>力</b>（<b>force</b>）、惊吓（fright）、强迫（compulsion）及危险条件（dangerousconditions）而组成。 毕业论文网 基于暴<b>力</b>的范例是“甲打伤乙”。</p>
-            <p class="collapse-content via">基于2540个网页<span class="sl">-</span><a href="http://www.youdao.com/search?keyfrom=dict&q=Force+%E5%8A%9B&ue=utf8" target=_blank  rel="nofollow">相关网页</a></p>
+    3、<b>Excel</b>（<b>电子表格</b>）：<b>Excel</b>2010<b>电子表格</b>制作与编辑、数据库建立与管理；数据表的创建与查询、排序、筛选；公式与函数应用；立体图表的生成与修改、会...</p>
+            <p class="collapse-content via">基于1036个网页<span class="sl">-</span><a href="http://www.youdao.com/search?keyfrom=dict&q=EXCEL+%E7%94%B5%E5%AD%90%E8%A1%A8%E6%A0%BC&ue=utf8" target=_blank  rel="nofollow">相关网页</a></p>
     </div>
                 <div class="wt-container wt-collapse">
     <div class="title">
         <a href="#" title="详细释义" rel="#rw1" class="sp do-detail">&nbsp;</a>
         <span>
-                强制</span>
+                卓越</span>
     </div>
     <p class="collapse-content">
-    <b>强制</b>(<b>Force</b>)：在调试期间为了测试程序的正确性，可能需要<b>强制</b>某些具体变量，如为了测试一个特定的系统状态，模块的输入和输出变量被设置成具...</p>
-            <p class="collapse-content via">基于1340个网页<span class="sl">-</span><a href="http://www.youdao.com/search?keyfrom=dict&q=Force+%E5%BC%BA%E5%88%B6&ue=utf8" target=_blank  rel="nofollow">相关网页</a></p>
+    追求<b>卓越</b> (Excellency)：追求不断的精进与杰出，透过 SWOT 分析，有效地诊断、了解校内各行政部门、学院、系所的优势、弱势、机会、以及威胁，进而深入...</p>
+            <p class="collapse-content via">基于568个网页<span class="sl">-</span><a href="http://www.youdao.com/search?keyfrom=dict&q=EXCEL+%E5%8D%93%E8%B6%8A&ue=utf8" target=_blank  rel="nofollow">相关网页</a></p>
     </div>
                 <div class="wt-container wt-collapse">
     <div class="title">
         <a href="#" title="详细释义" rel="#rw1" class="sp do-detail">&nbsp;</a>
         <span>
-                力量</span>
+                胜过</span>
     </div>
     <p class="collapse-content">
-    肯承认错误则错已改了一半爱情的<b>力量</b>(<b>Force</b>)是无穷的，有了谢杏芳的陪伴，林丹硬朗的球风也融入了一丝细腻；在林丹的点拨下，原先气质柔弱的谢杏芳也注入了一股霸气，构成一...</p>
-            <p class="collapse-content via">基于1237个网页<span class="sl">-</span><a href="http://www.youdao.com/search?keyfrom=dict&q=Force+%E5%8A%9B%E9%87%8F&ue=utf8" target=_blank  rel="nofollow">相关网页</a></p>
+    09年英语考研大纲新增词汇附中南大学09年研究生招生简章 ... evade vt.逃避，躲避 <b>excel</b> v.<b>胜过</b> excerpt vt.摘录 ...</p>
+            <p class="collapse-content via">基于516个网页<span class="sl">-</span><a href="http://www.youdao.com/search?keyfrom=dict&q=EXCEL+%E8%83%9C%E8%BF%87&ue=utf8" target=_blank  rel="nofollow">相关网页</a></p>
     </div>
                 <div class="wt-container wt-collapse">
     <div class="title">
         <a href="#" title="详细释义" rel="#rw1" class="sp do-detail">&nbsp;</a>
         <span>
-                强迫</span>
+                配置</span>
     </div>
     <p class="collapse-content">
-    好像你做不到吧，而你在梦里<b>强迫</b>(<b>Force</b>)自己(Own)相信所有批评都是恶意的，并且但凡与明升客服好不好相关的都认定(Identified)是在骂明升客服好不好如何如何，但凡有人一...</p>
-            <p class="collapse-content via">基于1042个网页<span class="sl">-</span><a href="http://www.youdao.com/search?keyfrom=dict&q=Force+%E5%BC%BA%E8%BF%AB&ue=utf8" target=_blank  rel="nofollow">相关网页</a></p>
+    慎重许诺：我们店所售图书，所有保证质量，如有题目，无条件退换! ... <b>配置</b>客户端以运用IRM <b>配置Excel</b> 最常用的控件——命令按钮（CommandButton） ...</p>
+            <p class="collapse-content via">基于382个网页<span class="sl">-</span><a href="http://www.youdao.com/search?keyfrom=dict&q=EXCEL+%E9%85%8D%E7%BD%AE&ue=utf8" target=_blank  rel="nofollow">相关网页</a></p>
     </div>
             <div id="webPhrase" class="pr-container more-collapse">
     <div class="title">短语</div>
        <p class="wordGroup">
   
-      <span class="contentTitle"><a class="search-js" href="/w/eng/force_majeure/#keyfrom=dict.phrase.wordgroup">force majeure</a></span>
-                    	   	   <span class=gray>[保险]</span>
-                   不可抗力
+      <span class="contentTitle"><a class="search-js" href="/w/eng/microsoft_excel/#keyfrom=dict.phrase.wordgroup">Microsoft Excel</a></span>
+                          电子表格
                       ;
-                  人力不可抗力
+                  电子表格软件
                       ;
-                  不可抗力条款
+                  微软优越试算表
                       ;
-                  不成抗力
+                  试算表
               </p>
            <p class="wordGroup">
   
-      <span class="contentTitle"><a class="search-js" href="/w/eng/centripetal_force/#keyfrom=dict.phrase.wordgroup">centripetal force</a></span>
-                    	   	   <span class=gray>[力]</span>
-                   向心力
+      <span class="contentTitle"><a class="search-js" href="/w/eng/excel_word/#keyfrom=dict.phrase.wordgroup">EXCEL WORD</a></span>
+                          办公软件
                       ;
-                  向心力实验
+                  熟练使用计算机
                       ;
-                  向心力
-                      ;
-                  惯性离心力
+                  办公室软件
               </p>
            <p class="wordGroup">
   
-      <span class="contentTitle"><a class="search-js" href="/w/eng/tidal_force/#keyfrom=dict.phrase.wordgroup">tidal force</a></span>
-                    	   	   <span class=gray>[海洋]</span>
-                   潮汐力
+      <span class="contentTitle"><a class="search-js" href="/w/eng/excel_vba/#keyfrom=dict.phrase.wordgroup">Excel VBA</a></span>
+                          自学资料
                       ;
-            	   	   <span class=gray>[海洋]</span>
-                   引潮力
+                  配套光盘
                       ;
-                  水盾和潮汐之力
+                  自学收集资料第二部份
                       ;
-                  起潮力
+                  我的菜单代码生成器
               </p>
            <p class="wordGroup collapse">
   
-      <span class="contentTitle"><a class="search-js" href="/w/eng/task_force/#keyfrom=dict.phrase.wordgroup">Task Force</a></span>
-                          特遣队
+      <span class="contentTitle"><a class="search-js" href="/w/eng/ppt_excel/#keyfrom=dict.phrase.wordgroup">PPT Excel</a></span>
+                          办公技能
                       ;
-                  专案组
+                  企业白领核心办公技能
                       ;
-                  特遣部队
+                  具备良好的电脑
                       ;
-                  特战队
+                  核心办公技术
               </p>
            <p class="wordGroup collapse">
   
-      <span class="contentTitle"><a class="search-js" href="/w/eng/shining_force/#keyfrom=dict.phrase.wordgroup">Shining Force</a></span>
-                          光明力量
+      <span class="contentTitle"><a class="search-js" href="/w/eng/office_excel/#keyfrom=dict.phrase.wordgroup">office excel</a></span>
+                          电子表格
                       ;
-                  光明与黑暗
+                  办公软件
                       ;
-                  光明与黑暗续战篇
+                  数据统计
                       ;
-                  光明与黑暗众神的遗产
+                  文件
               </p>
            <p class="wordGroup collapse">
   
-      <span class="contentTitle"><a class="search-js" href="/w/eng/force_out/#keyfrom=dict.phrase.wordgroup">force out</a></span>
-                          封杀出局
-                      ;
-                  封杀
-                      ;
-                  最初指在体育的垒球运动中“封杀出局
-                      ;
-                  轰击
+      <span class="contentTitle"><a class="search-js" href="/w/eng/excel_art/#keyfrom=dict.phrase.wordgroup">Excel Art</a></span>
+                          Excel实战技巧精粹
               </p>
            <p class="wordGroup collapse">
   
-      <span class="contentTitle"><a class="search-js" href="/w/eng/by_force/#keyfrom=dict.phrase.wordgroup">by force</a></span>
-                          靠武力
-                      ;
-                  强迫地
-                      ;
-                  凭借暴力
-                      ;
-                  强行
+      <span class="contentTitle"><a class="search-js" href="/w/eng/excel%e6%95%99%e7%a8%8b/#keyfrom=dict.phrase.wordgroup">Excel教程</a></span>
+                          Microsoft Excel Automation Tutorials
               </p>
            <p class="wordGroup collapse">
   
-      <span class="contentTitle"><a class="search-js" href="/w/eng/euler_force/#keyfrom=dict.phrase.wordgroup">Euler force</a></span>
-                          欧拉力
+      <span class="contentTitle"><a class="search-js" href="/w/eng/excel_file/#keyfrom=dict.phrase.wordgroup">Excel file</a></span>
+                          入数户口
+                      ;
+                  台湾彩券历史开奖号码
               </p>
            <p class="wordGroup collapse">
   
-      <span class="contentTitle"><a class="search-js" href="/w/eng/attractive_force/#keyfrom=dict.phrase.wordgroup">attractive force</a></span>
-                    	   	   <span class=gray>[力]</span>
-                   引力
+      <span class="contentTitle"><a class="search-js" href="/w/eng/world_excel/#keyfrom=dict.phrase.wordgroup">world excel</a></span>
+                          办公软件问题
                       ;
-            	   	   <span class=gray>[力]</span>
-                   吸引力
-                      ;
-                  吸力
-                      ;
-                  引诱力
+                  熟练使用办公软件
               </p>
    
    <div class="more"><a href="#" class="sp more_sp">&nbsp;</a><span class="show_more">更多</span><span
@@ -304,89 +274,26 @@
     </div>
             <div id="tPETrans" class="trans-container tab-content">
                 <div id="tPETrans-type-list" class="type-list">
-                        <a class="p-type selected_link" href="#" rel="ptype_0" hidefocus="true">土木建筑工程</a>
+                        <a class="p-type selected_link" href="#" rel="ptype_0" hidefocus="true">经济学</a>
                             <ins> | </ins>
-                                <a class="p-type" href="" rel="ptype_1" hidefocus="true">计算机科学技术</a>
+                                <a class="p-type" href="" rel="ptype_1" hidefocus="true">交通运输工程</a>
                             <ins> | </ins>
-                                <a class="p-type" href="" rel="ptype_2" hidefocus="true">体育</a>
-                            <ins> | </ins>
-                                <a class="p-type" href="" rel="ptype_3" hidefocus="true">军事学</a>
-                            <ins> | </ins>
-                                <a class="p-type" href="" rel="ptype_4" hidefocus="true">机械工程</a>
-                            <ins> | </ins>
-                                <a class="p-type" href="" rel="ptype_5" hidefocus="true">地球科学</a>
-                            <ins> | </ins>
-                                <a class="p-type" href="" rel="ptype_6" hidefocus="true">物理学</a>
+                                <a class="p-type" href="" rel="ptype_2" hidefocus="true">计算机科学技术</a>
                         </div>
         <ul id="tPETrans-all-trans" class="all-trans">
                     <li class="ptype_0 types" style="display:list-item">
                                     <div class="items">
-                    <span class="title">力</span>
-                                            <span class="additional"> - 引用次数：1347</span>
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              <p class="source">The mean of <b>force</b>-finding analysis is how to calculate self-balance prestress of the structures.</p>
-                                                                                                                                                                                                                                                                           <p class="trans">找<b>力</b>分析是对给定的形状进行自平衡预应<b>力</b>的计算。</p>
-                                                                                                                                       <p></p>
-                                                                            <span class="additional">参考来源 - </span><a target="_blank" href="http://www.cnki.net/kcms/detail/detailall.aspx?dbcode=CDFD&dbname=CDFD2005&filename=2005086945.nh" rel="nofollow">索膜结构的构造理论和柔性天线的结构分析 </a>
-                                                            </div>
+                    <span class="title">胜过</span>
+                                                        </div>
                     </li>
                             <li class="ptype_1 types">
                                     <div class="items">
-                    <span class="title">力</span>
-                                            <span class="additional"> - 引用次数：1196</span>
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              <p class="source">At first, the discuss of cutting <b>force</b> analysis modeling is made.</p>
-                                                                                                                                                                                                                                                                           <p class="trans">首先对切削<b>力</b>的解析建模进行了探讨。</p>
-                                                                                                                                       <p></p>
-                                                                            <span class="additional">参考来源 - </span><a target="_blank" href="http://www.cnki.net/kcms/detail/detailall.aspx?dbcode=CMFD&dbname=CMFD2003&filename=2003114525.nh" rel="nofollow">面向虚拟制造中物理仿真单元技术研究 </a>
-                                                            </div>
-                            <div class="items">
-                    <span class="title">强制</span>
-                                            <span class="additional"> - 引用次数：5</span>
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              <p class="source">Our supervisory department of architecture is working on the foundation of the tower crane working status surveillance standards and will <b>force</b> tower crane equipping the monitoring system.</p>
-                                                                                                                                                                                                                                                                           <p class="trans">我国建筑安全监管部门正在制定塔机参数安全监测的相关标准,将<b>强制</b>要求塔机设备安装安全保护系统。</p>
-                                                                                                                                       <p></p>
-                                                                            <span class="additional">参考来源 - 一种塔机安全监控与数据传输系统的设计与实现
-                                                            </div>
-                            <div class="items">
-                    <span class="title">人工转移 程序强行置码</span>
-                                                        </div>
-                            <div class="items">
-                    <span class="title">强迫</span>
+                    <span class="title">卓越</span>
                                                         </div>
                     </li>
                             <li class="ptype_2 types">
                                     <div class="items">
-                    <span class="title">迫使(对手)出(王牌)；要求(自己的搭档)叫(或出)某牌</span>
-                                                        </div>
-                            <div class="items">
-                    <span class="title">(击球员在进行封杀打时)迫使(跑垒员)进垒；使(跑垒员)封杀出局</span>
-                                                        </div>
-                            <div class="items">
-                    <span class="title">逼打，逼叫</span>
-                                                        </div>
-                    </li>
-                            <li class="ptype_3 types">
-                                    <div class="items">
-                    <span class="title">部队</span>
-                                            <span class="additional"> - 引用次数：51</span>
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              <p class="source">The informatization of the armed forces command and control mechanism has been the important trend in the armed <b>force</b> information wave of each country.</p>
-                                                                                                                                                                                                                                                                           <p class="trans">在世界各国军队的信息化浪潮中，<b>部队</b>指挥控制机制的信息化一直是其中的重点发展方向。</p>
-                                                                                                                                       <p></p>
-                                                                            <span class="additional">参考来源 - </span><a target="_blank" href="http://www.cnki.net/kcms/detail/detailall.aspx?dbcode=CMFD&dbname=CMFD2005&filename=2005033035.nh" rel="nofollow">防空导弹基本作战单元作战效能评价与指挥决策支持系统 </a>
-                                                            </div>
-                    </li>
-                            <li class="ptype_4 types">
-                                    <div class="items">
-                    <span class="title">力</span>
-                                                        </div>
-                    </li>
-                            <li class="ptype_5 types">
-                                    <div class="items">
-                    <span class="title">力</span>
-                                                        </div>
-                    </li>
-                            <li class="ptype_6 types">
-                                    <div class="items">
-                    <span class="title">力</span>
+                    <span class="title">Excel试算表软体</span>
                                                         </div>
                     </li>
                 </ul>
@@ -396,243 +303,26 @@
                 <div class="trans-container">
 <!--eng eng result start-->
     <h4>
-        force
-            <span class= "phonetic">[ fɔ:s ]</span>
+        excel
+            <span class= "phonetic">[ ik'sel ]</span>
         </h4>
     <ul>
 		
 		
 				        <li>
-		<span class="pos">n.</span>
-                            <ul class="ol">
-        		
-			    		        											
-            		                    <li>
-            		    <span class="def">a unit that is part of some military service</span>
-
-						
-																				        				<p><em>&quot;he sent Caesar a force of six thousand men&quot;</em></p>
-						
-									   	<p class="gray">同义词：
-								                                  				    <a class="search-js" href='/w/military_unit/?tab=eng#keyfrom=dict.eesy'>military unit</a>
-				    				    				      				    				      				    				                                      				    <a class="search-js" href='/w/military_force/?tab=eng#keyfrom=dict.eesy'>military force</a>
-				    				    				      				    				      				    				                                      				    <a class="search-js" href='/w/military_group/?tab=eng#keyfrom=dict.eesy'>military group</a>
-				    				    				      				    				      				    				                                      				 			    	</p>
-			                         </li>
-            		
-			    		        											
-            		                    <li>
-            		    <span class="def">one possessing or exercising power or influence or authority</span>
-
-						
-																				        													        				<p><em>&quot;may the force be with you&quot;; &quot; the forces of evil&quot;</em></p>
-						
-									   	<p class="gray">同义词：
-								                                  				    <a class="search-js" href='/w/power/?tab=eng#keyfrom=dict.eesy'>power</a>
-				    				    				      				    				      				    				                                      				 			    	</p>
-			                         </li>
-            		
-			    		        											
-            		                    <li>
-            		    <span class="def">(physics) the influence that produces a change in a physical quantity</span>
-
-						
-																				        				<p><em>&quot;force equals mass times acceleration&quot;</em></p>
-						
-						                         </li>
-            		
-			    		        											
-            		                    <li>
-            		    <span class="def">group of people willing to obey orders</span>
-
-						
-																				        				<p><em>&quot;a public force is necessary to give security to the rights of citizens&quot;</em></p>
-						
-									   	<p class="gray">同义词：
-								                                  				    <a class="search-js" href='/w/personnel/?tab=eng#keyfrom=dict.eesy'>personnel</a>
-				    				    				      				    				      				    				                                      				 			    	</p>
-			                         </li>
-            		
-			    		        											
-            		                    <li>
-            		    <span class="def">a powerful effect or influence</span>
-
-						
-																				        				<p><em>&quot;the force of his eloquence easily persuaded them&quot;</em></p>
-						
-						                         </li>
-            		
-			    		        											
-            		                    <li>
-            		    <span class="def">an act of aggression (as one against a person who resists)</span>
-
-						
-																				        				<p><em>&quot;he may accomplish by craft in the long run what he cannot do by force and violence in the short one&quot;</em></p>
-						
-									   	<p class="gray">同义词：
-								                                  				    <a class="search-js" href='/w/violence/?tab=eng#keyfrom=dict.eesy'>violence</a>
-				    				    				      				    				      				    				                                      				 			    	</p>
-			                         </li>
-            		
-			    		        											
-            		                    <li>
-            		    <span class="def">physical energy or intensity</span>
-
-						
-																				        													        				<p><em>&quot;he hit with all the force he could muster&quot;; &quot; a government has not the vitality and forcefulness of a living man&quot;</em></p>
-						
-									   	<p class="gray">同义词：
-								                                  				    <a class="search-js" href='/w/forcefulness/?tab=eng#keyfrom=dict.eesy'>forcefulness</a>
-				    				    				      				    				      				    				                                      				    <a class="search-js" href='/w/strength/?tab=eng#keyfrom=dict.eesy'>strength</a>
-				    				    				      				    				      				    				                                      				 			    	</p>
-			                         </li>
-            		
-			    		        											
-            		                    <li>
-            		    <span class="def">a group of people having the power of effective action</span>
-
-						
-																				        				<p><em>&quot;he joined forces with a band of adventurers&quot;</em></p>
-						
-						                         </li>
-            		
-			    		        											
-            		                    <li>
-            		    <span class="def">(of a law) having legal validity</span>
-
-						
-						
-									   	<p class="gray">同义词：
-								                                  				    <a class="search-js" href='/w/effect/?tab=eng#keyfrom=dict.eesy'>effect</a>
-				    				    				      				    				      				    				                                      				 			    	</p>
-			                         </li>
-            		
-			    		        											
-            		                    <li>
-            		    <span class="def">a putout of a base runner who is required to run; the putout is accomplished by holding the ball while touching the base to which the runner must advance before the runner reaches that base</span>
-
-						
-																				        				<p><em>&quot;the shortstop got the runner at second on a force&quot;</em></p>
-						
-									   	<p class="gray">同义词：
-								                                  				    <a class="search-js" href='/w/force_out/?tab=eng#keyfrom=dict.eesy'>force out</a>
-				    				    				      				    				      				    				                                      				    <a class="search-js" href='/w/force-out/?tab=eng#keyfrom=dict.eesy'>force-out</a>
-				    				    				      				    				      				    				                                      				    <a class="search-js" href='/w/force_play/?tab=eng#keyfrom=dict.eesy'>force play</a>
-				    				    				      				    				      				    				                                      				 			    	</p>
-			                         </li>
-            		                      </ul>
-            </li>
-    
-				        <li>
 		<span class="pos">v.</span>
-                            <ul class="ol">
-        		
-			    		        											
-            		                    <li>
-            		    <span class="def">to cause to do through pressure or necessity, by physical, moral or intellectual means :</span>
+                                    		
+			    		        			
+            		                                		    <span class="def">distinguish oneself</span>
 
 						
-																				        				<p><em>&quot;She forced him to take a job in the city&quot;</em></p>
+																				        				<p><em>&quot;She excelled in math&quot;</em></p>
 						
 									   	<p class="gray">同义词：
-								                                  				    <a class="search-js" href='/w/coerce/?tab=eng#keyfrom=dict.eesy'>coerce</a>
-				    				    				      				    				      				    				                                      				    <a class="search-js" href='/w/hale/?tab=eng#keyfrom=dict.eesy'>hale</a>
-				    				    				      				    				      				    				                                      				    <a class="search-js" href='/w/squeeze/?tab=eng#keyfrom=dict.eesy'>squeeze</a>
-				    				    				      				    				      				    				                                      				    <a class="search-js" href='/w/pressure/?tab=eng#keyfrom=dict.eesy'>pressure</a>
+								                                  				    <a class="search-js" href='/w/stand_out/?tab=eng#keyfrom=dict.eesy'>stand out</a>
+				    				    				      				    				      				    				                                      				    <a class="search-js" href='/w/surpass/?tab=eng#keyfrom=dict.eesy'>surpass</a>
 				    				    				      				    				      				    				                                      				 			    	</p>
-			                         </li>
-            		
-			    		        											
-            		                    <li>
-            		    <span class="def">urge or force (a person) to an action; constrain or motivate</span>
-
-						
-						
-									   	<p class="gray">同义词：
-								                                  				    <a class="search-js" href='/w/impel/?tab=eng#keyfrom=dict.eesy'>impel</a>
-				    				    				      				    				      				    				                                      				 			    	</p>
-			                         </li>
-            		
-			    		        											
-            		                    <li>
-            		    <span class="def">move with force,</span>
-
-						
-						
-									   	<p class="gray">同义词：
-								                                  				    <a class="search-js" href='/w/push/?tab=eng#keyfrom=dict.eesy'>push</a>
-				    				    				      				    				      				    				                                      				 			    	</p>
-			                         </li>
-            		
-			    		        											
-            		                    <li>
-            		    <span class="def">impose or thrust urgently, importunately, or inexorably</span>
-
-						
-																				        				<p><em>&quot;She forced her diet fads on him&quot;</em></p>
-						
-									   	<p class="gray">同义词：
-								                                  				    <a class="search-js" href='/w/thrust/?tab=eng#keyfrom=dict.eesy'>thrust</a>
-				    				    				      				    				      				    				                                      				 			    	</p>
-			                         </li>
-            		
-			    		        											
-            		                    <li>
-            		    <span class="def">squeeze like a wedge into a tight space</span>
-
-						
-						
-									   	<p class="gray">同义词：
-								                                  				    <a class="search-js" href='/w/wedge/?tab=eng#keyfrom=dict.eesy'>wedge</a>
-				    				    				      				    				      				    				                                      				    <a class="search-js" href='/w/squeeze/?tab=eng#keyfrom=dict.eesy'>squeeze</a>
-				    				    				      				    				      				    				                                      				 			    	</p>
-			                         </li>
-            		
-			    		        											
-            		                    <li>
-            		    <span class="def">force into or from an action or state, either physically or metaphorically</span>
-
-						
-						
-									   	<p class="gray">同义词：
-								                                  				    <a class="search-js" href='/w/drive/?tab=eng#keyfrom=dict.eesy'>drive</a>
-				    				    				      				    				      				    				                                      				    <a class="search-js" href='/w/ram/?tab=eng#keyfrom=dict.eesy'>ram</a>
-				    				    				      				    				      				    				                                      				 			    	</p>
-			                         </li>
-            		
-			    		        											
-            		                    <li>
-            		    <span class="def">do forcibly; exert force</span>
-
-						
-																				        				<p><em>&quot;Don't force it!&quot;</em></p>
-						
-						                         </li>
-            		
-			    		        											
-            		                    <li>
-            		    <span class="def">cause to move by pulling</span>
-
-						
-						
-									   	<p class="gray">同义词：
-								                                  				    <a class="search-js" href='/w/pull/?tab=eng#keyfrom=dict.eesy'>pull</a>
-				    				    				      				    				      				    				                                      				    <a class="search-js" href='/w/draw/?tab=eng#keyfrom=dict.eesy'>draw</a>
-				    				    				      				    				      				    				                                      				 			    	</p>
-			                         </li>
-            		
-			    		        											
-            		                    <li>
-            		    <span class="def">take by force</span>
-
-						
-						
-									   	<p class="gray">同义词：
-								                                  				    <a class="search-js" href='/w/storm/?tab=eng#keyfrom=dict.eesy'>storm</a>
-				    				    				      				    				      				    				                                      				 			    	</p>
-			                         </li>
-            		                      </ul>
-            </li>
+			                                         		                                  </li>
      </ul>
 <p class="via ar">
 以上来源于:
@@ -664,38 +354,19 @@
                                                     <div id="collinsResult" class="tab-content">
         <div class="trans-container">
         <div class="trans-content">
-                                        <div id="" class="pr-container">
-                                                                <p class="wordGroup">
-                            <span class="contentTitle">1.</span>
-                            <a style="text-decoration: none;" class="nav-js" href="#COLNAMING11" rel="#NAMING1">VERB USES</a>
-                        </p>
-                                                                    <p class="wordGroup">
-                            <span class="contentTitle">2.</span>
-                            <a style="text-decoration: none;" class="nav-js" href="#COLNAMING22" rel="#NAMING2">NOUN USES: POWER OR STRENGTH</a>
-                        </p>
-                                                                    <p class="wordGroup">
-                            <span class="contentTitle">3.</span>
-                            <a style="text-decoration: none;" class="nav-js" href="#COLNAMING33" rel="#NAMING3">THE ARMY, POLICE, ETC.</a>
-                        </p>
-                                                            </div>
-                        <div class="collinsToggle trans-container">
+                                    <div class="collinsToggle trans-container">
 				                                                            <div class="wt-container">
-                                            							<div  id="COLNAMING11"  class="title trans-tip">
-								<a href="#" title="详细释义" rel="#NAMING1" class="sp do-detail">&nbsp;</a>
-								<span>VERB USES</span>
-                            </div>
-                            <div id="NAMING1" class="collapse-content trans-content">
-                                                                            <h4>
-                                <span class="title">force</span>
-                                                                    <em class="additional spell phonetic">/fɔːs/</em>
-                                                                                                                                            <span class="star star5" title="使用频率"></span>
+                                                                                                <h4>
+                                <span class="title">excel</span>
+                                                                    <em class="additional spell phonetic">/ɪkˈsɛl/</em>
+                                                                                                                                            <span class="star star1" title="使用频率"></span>
                                                                         								                                
-                                                                                                                                                                                <span class="via rank">CET4</span>
+                                                                                                                                                                                <span class="via rank">CET6+ TEM4</span>
                                                                                                     
                                                                                                     <span class="additional pattern">(
-                                                                                                                                                                            forcing,
-                                                                                                                                                                                                                            forced,
-                                                                                                                                                                            												forces
+                                                                                                                                                                            excelling,
+                                                                                                                                                                                                                            excelled,
+                                                                                                                                                                            												excels
                                                                                                                                                                         )</span>
 																
 							</h4>
@@ -711,475 +382,27 @@
     											    											    													<div class="collinsMajorTrans">
                                                             <span class="collinsOrder">1.&nbsp;</span>
                                                             <p>
-    														    															    														    														    														    														    															    															    															    															    															    																    																	<span class="additional" title="及物动词">V-T</span>
-    																    															    														    														If someone <b>forces</b> you <b>to</b> do something, they make you do it even though you do not want to, for example, by threatening you. 强迫
+    														    															    														    														    														    														    															    															    															    															    															    																    																	<span class="additional" title="及物动词/不及物动词">V-T/V-I</span>
+    																    															    														    														If someone <b>excels</b> <b>in</b> something or <b>excels</b> <b>at</b> it, they are very good at doing it. (在某方面) 擅长
     														    														    															    															                                                                        															    															    															    															    															    															    															    															    															    															                                                                                                                                                                                                                                                                                        										
                         										                                                                    													                                                                </p></div>
                                                                                                                                                                                                                                                                             <div class="exampleLists">
                                                                             <span class="collinsOrder">例：</span>
                                                                             <div class="examples">
-                                                                            <p> He took two women hostage and forced them to drive away from the area. </p>
-                                                                            <p>他劫持了两名女人质并强迫她们开车离开这个地区。</p>
+                                                                            <p> Mary was a better rider than either of them and she excelled at outdoor sports. </p>
+                                                                            <p>玛丽比他们俩骑得都好，她擅长户外运动。</p>
                                                                             </div>
                                                                         </div>
                                                                                                                                             <div class="exampleLists">
                                                                             <span class="collinsOrder">例：</span>
                                                                             <div class="examples">
-                                                                            <p> They were grabbed by three men who appeared to force them into a car. </p>
-                                                                            <p>他们被三名男子抓住，这些人看上去强使他们进入了一辆汽车。</p>
-                                                                            </div>
-                                                                        </div>
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        											</li>
-										                                									
-																															<li>
-    											    											    													<div class="collinsMajorTrans">
-                                                            <span class="collinsOrder">2.&nbsp;</span>
-                                                            <p>
-    														    															    														    														    														    														    															    															    															    															    															    																    																	<span class="additional" title="及物动词">V-T</span>
-    																    															    														    														If a situation or event <b>forces</b> you to do something, it makes it necessary for you to do something that you would not otherwise have done. 迫使
-    														    														    															    															                                                                        															    															    															    															    															    															    															    															    															    															                                                                                                                                                                                                                                                                                        										
-                        										                                                                    													                                                                </p></div>
-                                                                                                                                                                                                                                                                            <div class="exampleLists">
-                                                                            <span class="collinsOrder">例：</span>
-                                                                            <div class="examples">
-                                                                            <p> A back injury forced her to withdraw from Wimbledon. </p>
-                                                                            <p>一处背伤迫使她退出了温布尔登网球赛。</p>
-                                                                            </div>
-                                                                        </div>
-                                                                                                                                            <div class="exampleLists">
-                                                                            <span class="collinsOrder">例：</span>
-                                                                            <div class="examples">
-                                                                            <p> He turned right, down a dirt road that forced him into four-wheel drive. </p>
-                                                                            <p>他向右转弯，开上了一条土路，这迫使他开始四轮驱动行驶。</p>
-                                                                            </div>
-                                                                        </div>
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        											</li>
-										                                									
-																															<li>
-    											    											    													<div class="collinsMajorTrans">
-                                                            <span class="collinsOrder">3.&nbsp;</span>
-                                                            <p>
-    														    															    														    														    														    														    															    															    															    															    															    																    																	<span class="additional" title="及物动词">V-T</span>
-    																    															    														    														If someone <b>forces</b> something <b>on</b> or <b>upon</b> you, they make you accept or use it when you would prefer not to. 强加 
-    														    														    															    															                                                                        															    															    															    															    															    															    															    															    															    															                                                                                                                                                                                                                                                                                        										
-                        										                                                                    													                                                                </p></div>
-                                                                                                                                                                                                                                                                            <div class="exampleLists">
-                                                                            <span class="collinsOrder">例：</span>
-                                                                            <div class="examples">
-                                                                            <p> To force this agreement on the nation is wrong. </p>
-                                                                            <p>把这项协议强加于这个国家是错误的。</p>
-                                                                            </div>
-                                                                        </div>
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        											</li>
-										                                									
-																															<li>
-    											    											    													<div class="collinsMajorTrans">
-                                                            <span class="collinsOrder">4.&nbsp;</span>
-                                                            <p>
-    														    															    														    														    														    														    															    															    															    															    															    																    																	<span class="additional" title="及物动词">V-T</span>
-    																    															    														    														If you <b>force</b> something into a particular position, you use a lot of strength to make it move there. 用力压住
-    														    														    															    															                                                                        															    															    															    															    															    															    															    															    															    															                                                                                                                                                                                                                                                                                        										
-                        										                                                                    													                                                                </p></div>
-                                                                                                                                                                                                                                                                            <div class="exampleLists">
-                                                                            <span class="collinsOrder">例：</span>
-                                                                            <div class="examples">
-                                                                            <p> They were forcing her head under the icy waters, drowning her. </p>
-                                                                            <p>他们在用力把她的头按到冰冷的水中，淹她。</p>
-                                                                            </div>
-                                                                        </div>
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        											</li>
-										                                									
-																															<li>
-    											    											    													<div class="collinsMajorTrans">
-                                                            <span class="collinsOrder">5.&nbsp;</span>
-                                                            <p>
-    														    															    														    														    														    														    															    															    															    															    															    																    																	<span class="additional" title="及物动词">V-T</span>
-    																    															    														    														If someone <b>forces</b> a lock, a door, or a window, they break the lock or fastening in order to get into a building without using a key. 强行 (打开)
-    														    														    															    															                                                                        															    															    															    															    															    															    															    															    															    															                                                                                                                                                                                                                                                                                        										
-                        										                                                                    													                                                                </p></div>
-                                                                                                                                                                                                                                                                            <div class="exampleLists">
-                                                                            <span class="collinsOrder">例：</span>
-                                                                            <div class="examples">
-                                                                            <p> That evening police forced the door of the apartment and arrested Mr. Roberts. </p>
-                                                                            <p>那晚警察强行打开那公寓的门逮捕了罗伯茨先生。</p>
-                                                                            </div>
-                                                                        </div>
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        											</li>
-										                                									
-																															<li>
-    											    											    													<div class="collinsMajorTrans">
-                                                            <span class="collinsOrder">6.&nbsp;</span>
-                                                            <p>
-    														    															    														    														    														    														    															    															    															    															    															    																    																	<span class="additional" title="动词">V</span>
-    																    															    														    														to cause (plants or farm animals) to grow or fatten artificially at an increased rate 人工提速育肥(植物和家禽)
-    														    														    															    															                                                                        															    															    															    															    															    															    															    															    															    															                                                                                                                                                                                                                                                                                        										
-                        										                                                                    													                                                                </p></div>
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    											</li>
-										                                									
-																															<li>
-    											    											    													<div class="collinsMajorTrans">
-                                                            <span class="collinsOrder">7.&nbsp;</span>
-                                                            <p>
-    														    															    														    														    														    														    															    															    															    															    															    																    																	<span class="additional" title="习语">PHRASE</span>
-    																    															    														    														If you <b>force</b> your <b>way</b> <b>through</b> or <b>into</b> somewhere, you have to push or break things that are in your way in order to get there. 强行进入
-    														    														    															    															                                                                        															    															    															    															    															    															    															    															    															    															                                                                                                                                                                                                                                                                                        										
-                        										                                                                    													                                                                </p></div>
-                                                                                                                                                                                                                                                                            <div class="exampleLists">
-                                                                            <span class="collinsOrder">例：</span>
-                                                                            <div class="examples">
-                                                                            <p> The miners forced their way through a police cordon. </p>
-                                                                            <p>那些矿工们冲破了警察的封锁线。</p>
+                                                                            <p> Academically he began to excel. </p>
+                                                                            <p>他开始在学术上脱颖而出。</p>
                                                                             </div>
                                                                         </div>
                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                         											</li>
 										                                							</ul>
-																													    	</div>
-											</div>
-				                                            <div class="wt-container wt-collapse">
-                                            							<div  id="COLNAMING22"  class="title trans-tip">
-								<a href="#" title="详细释义" rel="#NAMING2" class="sp do-detail">&nbsp;</a>
-								<span>NOUN USES: POWER OR STRENGTH</span>
-                            </div>
-                            <div id="NAMING2" class="collapse-content trans-content">
-                                                                            <h4>
-                                <span class="title">force</span>
-                                                                    <em class="additional spell phonetic">/fɔːs/</em>
-                                                                                                                                            <span class="star star5" title="使用频率"></span>
-                                                                        								                                
-                                                                                                                                                                                                        
-                                                                                                    <span class="additional pattern">(
-                                                                                                                            												forces
-                                                                                                                                                                        )</span>
-																
-							</h4>
-																														<ul class="ol">
-										<li>
-											<p>
-                                                                                                            										            											<span class="additional" title="习语">PHRASE</span>
-            										            									            																				</p>
-										</li>
-									</ul>
-														
-																							                                																																																																																																																								
-																 
-															
-																																																																																			
-					
-					    													<ul class="ol">
-																	
-																															<li>
-    											    											    													<div class="collinsMajorTrans">
-                                                            <span class="collinsOrder">1.&nbsp;</span>
-                                                            <p>
-    														    															    														    														    														    														    															    															    															    															    															    																    																	<span class="additional" title="不可数名词">N-UNCOUNT</span>
-    																    															    														    														If someone uses <b>force</b> to do something, or if it is done by <b>force</b>, strong and violent physical action is taken in order to achieve it. 武力
-    														    														    															    															                                                                        															    															    															    															    															    															    															    															    															    															                                                                                                                                                                                                                                                                                        										
-                        										                                                                    													                                                                </p></div>
-                                                                                                                                                                                                                                                                            <div class="exampleLists">
-                                                                            <span class="collinsOrder">例：</span>
-                                                                            <div class="examples">
-                                                                            <p> The government decided against using force to break up the demonstrations. </p>
-                                                                            <p>政府决定不使用武力来驱散示威游行。</p>
-                                                                            </div>
-                                                                        </div>
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        											</li>
-										                                									
-																															<li>
-    											    											    													<div class="collinsMajorTrans">
-                                                            <span class="collinsOrder">2.&nbsp;</span>
-                                                            <p>
-    														    															    														    														    														    														    															    															    															    															    															    																    																	<span class="additional" title="不可数名词">N-UNCOUNT</span>
-    																    															    														    														<b>Force</b> is the power or strength which something has. 力量
-    														    														    															    															                                                                        															    															    															    															    															    															    															    															    															    															                                                                                                                                                                                                                                                                                        										
-                        										                                                                    													                                                                </p></div>
-                                                                                                                                                                                                                                                                            <div class="exampleLists">
-                                                                            <span class="collinsOrder">例：</span>
-                                                                            <div class="examples">
-                                                                            <p> The force of the explosion shattered the windows of several buildings. </p>
-                                                                            <p>那次爆炸的力量震碎了几栋建筑的窗子。</p>
-                                                                            </div>
-                                                                        </div>
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        											</li>
-										                                									
-																															<li>
-    											    											    													<div class="collinsMajorTrans">
-                                                            <span class="collinsOrder">3.&nbsp;</span>
-                                                            <p>
-    														    															    														    														    														    														    															    															    															    															    															    																    																	<span class="additional" title="不可数名词">N-UNCOUNT</span>
-    																    															    														    														The <b>force</b> <b>of</b> something is the powerful effect or quality that it has. 强大的效力; 高品质
-    														    														    															    															                                                                        															    															    															    															    															    															    															    															    															    															                                                                                                                                                                                                                                                                                        										
-                        										                                                                    													                                                                </p></div>
-                                                                                                                                                                                                                                                                            <div class="exampleLists">
-                                                                            <span class="collinsOrder">例：</span>
-                                                                            <div class="examples">
-                                                                            <p> He changed our world through the force of his ideas. </p>
-                                                                            <p>他以其思想的强大影响力改变了我们的世界。</p>
-                                                                            </div>
-                                                                        </div>
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        											</li>
-										                                									
-																															<li>
-    											    											    													<div class="collinsMajorTrans">
-                                                            <span class="collinsOrder">4.&nbsp;</span>
-                                                            <p>
-    														    															    														    														    														    														    															    															    															    															    															    																    																	<span class="additional" title="不可数名词">N-UNCOUNT</span>
-    																    															    														    														<b>Force</b> is used before a number to indicate a wind of a particular speed or strength, especially a very strong wind. 风力
-    														    														    															    															                                                                        															    															    															    															    															    															    															    															    															    															                                                                                                                                                                                                                                                                                        										
-                        										                                                                    													                                                                </p></div>
-                                                                                                                                                                                                                                                                            <div class="exampleLists">
-                                                                            <span class="collinsOrder">例：</span>
-                                                                            <div class="examples">
-                                                                            <p> The airlift was conducted in force ten winds. </p>
-                                                                            <p>空运是在10级大风中进行的。</p>
-                                                                            </div>
-                                                                        </div>
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        											</li>
-										                                									
-																															<li>
-    											    											    													<div class="collinsMajorTrans">
-                                                            <span class="collinsOrder">5.&nbsp;</span>
-                                                            <p>
-    														    															    														    														    														    														    															    															    															    															    															    																    																	<span class="additional" title="可数名词">N-COUNT</span>
-    																    															    														    														If you refer to someone or something as a <b>force</b> in a particular type of activity, you mean that they have a strong influence on it. 势力; 强大影响力
-    														    														    															    															                                                                        															    															    															    															    															    															    															    															    															    															                                                                                                                                                                                                                                                                                        										
-                        										                                                                    													                                                                </p></div>
-                                                                                                                                                                                                                                                                            <div class="exampleLists">
-                                                                            <span class="collinsOrder">例：</span>
-                                                                            <div class="examples">
-                                                                            <p> For years the army was the most powerful political force in the country. </p>
-                                                                            <p>多年来军队都是该国最强大的政治势力。</p>
-                                                                            </div>
-                                                                        </div>
-                                                                                                                                            <div class="exampleLists">
-                                                                            <span class="collinsOrder">例：</span>
-                                                                            <div class="examples">
-                                                                            <p> The band is still an innovative force in music. </p>
-                                                                            <p>该乐队仍是音乐界的一支创新力量。</p>
-                                                                            </div>
-                                                                        </div>
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        											</li>
-										                                									
-																															<li>
-    											    											    													<div class="collinsMajorTrans">
-                                                            <span class="collinsOrder">6.&nbsp;</span>
-                                                            <p>
-    														    															    														    														    														    														    															    															    															    															    															    																    																	<span class="additional" title="可数名词">N-COUNT</span>
-    																    															    														    														You can use <b>forces</b> to refer to processes and events that do not appear to be caused by human beings, and are therefore difficult to understand or control. (非人为的、非人类所能理解或控制的) 力量
-    														    														    															    															                                                                        															    															    															    															    															    															    															    															    															    															                                                                                                                                                                                                                                                                                        										
-                        										                                                                    													                                                                </p></div>
-                                                                                                                                                                                                                                                                            <div class="exampleLists">
-                                                                            <span class="collinsOrder">例：</span>
-                                                                            <div class="examples">
-                                                                            <p> ...the protection of mankind against the forces of nature: epidemics, predators, floods, hurricanes. </p>
-                                                                            <p>…使人类免受流行病、食肉动物、洪水和飓风等自然力伤害的保护。</p>
-                                                                            </div>
-                                                                        </div>
-                                                                                                                                            <div class="exampleLists">
-                                                                            <span class="collinsOrder">例：</span>
-                                                                            <div class="examples">
-                                                                            <p> The principle of market forces was applied to some of the country's most revered institutions. </p>
-                                                                            <p>市场力量的原理被应用在了该国一些最受尊崇的机构。</p>
-                                                                            </div>
-                                                                        </div>
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        											</li>
-										                                									
-																															<li>
-    											    											    													<div class="collinsMajorTrans">
-                                                            <span class="collinsOrder">7.&nbsp;</span>
-                                                            <p>
-    														    															    														    														    														    														    															    															    															    															    															    																    																	<span class="additional" title="有变体名词">N-VAR</span>
-    																    															    														    														In physics, a <b>force</b> is the pulling or pushing effect that something has on something else. (物理学中的) 力
-    														    														    															    															                                                                        															    															    															    															    															    															    															    															    															    															                                                                                                                                                                                                                                                                                        										
-                        										                                                                    													                                                                </p></div>
-                                                                                                                                                                                                                                                                            <div class="exampleLists">
-                                                                            <span class="collinsOrder">例：</span>
-                                                                            <div class="examples">
-                                                                            <p> ...the Earth's gravitational force. </p>
-                                                                            <p>…地球的引力。</p>
-                                                                            </div>
-                                                                        </div>
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        											</li>
-										                                									
-																															<li>
-    											    											    													<div class="collinsMajorTrans">
-                                                            <span class="collinsOrder">8.&nbsp;</span>
-                                                            <p>
-    														    															    														    														    														    														    															    															    															    															    															    																    																	<span class="additional" title="名词">N</span>
-    																    															    														    														(in northern England) a waterfall (英格兰北部的)瀑布
-    														    														    															    															                                                                        															    															    															    															    															    															    															    															    															    															                                                                                                                                                                                                                                                                                        										
-                        										                                                                    													                                                                </p></div>
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    											</li>
-										                                									
-																															<li>
-    											    											    													<div class="collinsMajorTrans">
-                                                            <span class="collinsOrder">9.&nbsp;</span>
-                                                            <p>
-    														    															    														    														    														    														    															    															    															    															    															    																    																	<span class="additional" title="习语">PHRASE</span>
-    																    															    														    														If you do something <b>from</b> <b>force of habit</b>, you do it because you have always done it in the past, rather than because you have thought carefully about it. 习惯做法
-    														    														    															    															                                                                        															    															    															    															    															    															    															    															    															    															                                                                                                                                                                                                                                                                                        										
-                        										                                                                    													                                                                </p></div>
-                                                                                                                                                                                                                                                                            <div class="exampleLists">
-                                                                            <span class="collinsOrder">例：</span>
-                                                                            <div class="examples">
-                                                                            <p> He looked around from force of habit, but nobody paid any attention to him. </p>
-                                                                            <p>他出于习惯环顾四周，但没人注意他。</p>
-                                                                            </div>
-                                                                        </div>
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        											</li>
-										                                									
-																															<li>
-    											    											    													<div class="collinsMajorTrans">
-                                                            <span class="collinsOrder">10.&nbsp;</span>
-                                                            <p>
-    														    															    														    														    														    														    															    															    															    															    															    																    																	<span class="additional" title="习语">PHRASE</span>
-    																    															    														    														A law, rule, or system that is <b>in force</b> exists or is being used. 在实施中
-    														    														    															    															                                                                        															    															    															    															    															    															    															    															    															    															                                                                                                                                                                                                                                                                                        										
-                        										                                                                    													                                                                </p></div>
-                                                                                                                                                                                                                                                                            <div class="exampleLists">
-                                                                            <span class="collinsOrder">例：</span>
-                                                                            <div class="examples">
-                                                                            <p> Although the new tax is already in force, you have until November to lodge an appeal. </p>
-                                                                            <p>尽管新税制已经实行，但你在11月之前仍可以提起上诉。</p>
-                                                                            </div>
-                                                                        </div>
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        											</li>
-										                                									
-																															<li>
-    											    											    													<div class="collinsMajorTrans">
-                                                            <span class="collinsOrder">11.&nbsp;</span>
-                                                            <p>
-    														    															    														    														    														    														    															    															    															    															    															    																    																	<span class="additional" title="习语">PHRASE</span>
-    																    															    														    														When people do something <b>in force</b>, they do it in large numbers. 大批地
-    														    														    															    															                                                                        															    															    															    															    															    															    															    															    															    															                                                                                                                                                                                                                                                                                        										
-                        										                                                                    													                                                                </p></div>
-                                                                                                                                                                                                                                                                            <div class="exampleLists">
-                                                                            <span class="collinsOrder">例：</span>
-                                                                            <div class="examples">
-                                                                            <p> Voters turned out in force for their first taste of multiparty elections. </p>
-                                                                            <p>选民大批到场初次体验多党选举。</p>
-                                                                            </div>
-                                                                        </div>
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        											</li>
-										                                									
-																															<li>
-    											    											    													<div class="collinsMajorTrans">
-                                                            <span class="collinsOrder">12.&nbsp;</span>
-                                                            <p>
-    														    															    														    														    														    														    															    															    															    															    															    																    																	<span class="additional" title="习语">PHRASE</span>
-    																    															    														    														If you <b>join forces</b> <b>with</b> someone, you work together in order to achieve a common aim or purpose. (与…) 联手
-    														    														    															    															                                                                        															    															    															    															    															    															    															    															    															    															                                                                                                                                                                                                                                                                                        										
-                        										                                                                    													                                                                </p></div>
-                                                                                                                                                                                                                                                                            <div class="exampleLists">
-                                                                            <span class="collinsOrder">例：</span>
-                                                                            <div class="examples">
-                                                                            <p> Both groups joined forces to persuade voters to approve a tax break for the industry. </p>
-                                                                            <p>两集团合力游说选民们同意给予这个行业减税。</p>
-                                                                            </div>
-                                                                        </div>
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        											</li>
-										                                							</ul>
-																													    	</div>
-											</div>
-				                                            <div class="wt-container wt-collapse">
-                                            							<div  id="COLNAMING33"  class="title trans-tip">
-								<a href="#" title="详细释义" rel="#NAMING3" class="sp do-detail">&nbsp;</a>
-								<span>THE ARMY, POLICE, ETC.</span>
-                            </div>
-                            <div id="NAMING3" class="collapse-content trans-content">
-                                                                            <h4>
-                                <span class="title">force</span>
-                                                                    <em class="additional spell phonetic">/fɔːs/</em>
-                                                                                                                                            <span class="star star5" title="使用频率"></span>
-                                                                        								                                
-                                                                                                                                                                                                        
-                                                                                                    <span class="additional pattern">(
-                                                                                                                            												forces
-                                                                                                                                                                        )</span>
-																
-							</h4>
-																														<ul class="ol">
-										<li>
-											<p>
-                                                                                                            										            											<span class="additional" title="习语">PHRASE</span>
-            										            									            																				</p>
-										</li>
-									</ul>
-														
-																							                                																																																																																																																								
-																 
-															
-																																																																																			
-					
-					    													<ul class="ol">
-																	
-																															<li>
-    											    											    													<div class="collinsMajorTrans">
-                                                            <span class="collinsOrder">1.&nbsp;</span>
-                                                            <p>
-    														    															    														    														    														    														    															    															    															    															    															    																    																	<span class="additional" title="可数名词">N-COUNT</span>
-    																    															    														    														<b>Forces</b> are groups of soldiers or military vehicles that are organized for a particular purpose. 军事力量
-    														    														    															    															                                                                        															    															    															    															    															    															    															    															    															    															                                                                                                                                                                                                                                                                                        										
-                        										                                                                    													                                                                </p></div>
-                                                                                                                                                                                                                                                                            <div class="exampleLists">
-                                                                            <span class="collinsOrder">例：</span>
-                                                                            <div class="examples">
-                                                                            <p> ...the deployment of American forces in the region. </p>
-                                                                            <p>…美国军事力量在该地区的部署。</p>
-                                                                            </div>
-                                                                        </div>
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        											</li>
-										                                									
-																															<li>
-    											    											    													<div class="collinsMajorTrans">
-                                                            <span class="collinsOrder">2.&nbsp;</span>
-                                                            <p>
-    														    															    														    														    														    														    															    															    															    															    															    																    																	<span class="additional" title="复数型名词">N-PLURAL</span>
-    																    															    														    														<b>The</b> <b>forces</b> means the army, the navy, or the air force, or all three. 军队; 海陆空军
-    														    														    															    															                                                                        															    															    															    															    															    															    															    															    															    															                                                                                                                                                                                                                                                                                        										
-                        										                                                                    													                                                                </p></div>
-                                                                                                                                                                                                                                                                            <div class="exampleLists">
-                                                                            <span class="collinsOrder">例：</span>
-                                                                            <div class="examples">
-                                                                            <p> The more senior you become in the forces, the more likely you are to end up in a desk job. </p>
-                                                                            <p>你在军队中的级别升得越高，你就越有可能落得个坐办公室的职位。</p>
-                                                                            </div>
-                                                                        </div>
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        											</li>
-										                                									
-																															<li>
-    											    											    													<div class="collinsMajorTrans">
-                                                            <span class="collinsOrder">3.&nbsp;</span>
-                                                            <p>
-    														    															    														    														    														    														    															    															    															    															    															    																    																	<span class="additional" title="单数型名词">N-SING</span>
-    																    															    														    														<b>The</b> <b>force</b> is sometimes used to mean the police force. 警察部门
-    														    														    															    															                                                                        															    															    															    															    															    															    															    															    															    															                                                                                                                                                                                                                                                                                        										
-                        										                                                                    													                                                                </p></div>
-                                                                                                                                                                                                                                                                            <div class="exampleLists">
-                                                                            <span class="collinsOrder">例：</span>
-                                                                            <div class="examples">
-                                                                            <p> It was hard for a police officer to make friends outside the force. </p>
-                                                                            <p>一名警官在警察部门之外交朋友很难。</p>
-                                                                            </div>
-                                                                        </div>
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        											</li>
-										                                									
-																															<li>
-    											    											    													<div class="collinsMajorTrans">
-                                                            <span class="collinsOrder">4.&nbsp;</span>
-                                                            <p>
-    														    															    														    														    														    														    														
-    														    														    															    															                                                                        															    															    															    															    															    															    															    															    															    															    																&rarr;
-                                                                                                                                                                                                                see also
-                                                                        																    																	    																		    																		    																		    																			    																				<a style="text-decoration: none;" class="search-js" href="/w/air force/?keyfrom=dict.collins" target="_blank">air force</a>,
-    																			    																			    																			    																		    																	    																    																	    																		    																		    																		    																			    																				<a style="text-decoration: none;" class="search-js" href="/w/armed forces/?keyfrom=dict.collins" target="_blank">armed forces</a>,
-    																			    																			    																			    																		    																	    																    																	    																		    																		    																		    																			    																				<a style="text-decoration: none;" class="search-js" href="/w/labour force/?keyfrom=dict.collins" target="_blank">labour force</a>,
-    																			    																			    																			    																		    																	    																    																	    																		    																		    																		    																			    																				<a style="text-decoration: none;" class="search-js" href="/w/workforce/?keyfrom=dict.collins" target="_blank">workforce</a>
-    																			    																			    																			    																		    																	    																    															                                                                                                                                                                                                                                                                                        										
-                        										                                                                    													                                                                </p></div>
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    											</li>
-										                                							</ul>
-																													    	</div>
-											</div>
+																													</div>
 							</div>
 		</div>
 	</div>
@@ -1196,122 +419,24 @@
             <div id="transformToggle">
                                     <div id="wordGroup" class="trans-container tab-content hide more-collapse">
                                                                     <p class="wordGroup">
-                                <span class="contentTitle"><a class="search-js" href="/w/eng/by_force/#keyfrom=dict.basic.wordgroup">by force</a></span>
-                                                                                强迫地；靠武力；凭藉暴力
+                                <span class="contentTitle"><a class="search-js" href="/w/eng/excel_in/#keyfrom=dict.basic.wordgroup">excel in</a></span>
+                                                                                v. 在……方面胜过；在……方面很擅长
                                                 </p>
                                                                         <p class="wordGroup">
-                                <span class="contentTitle"><a class="search-js" href="/w/eng/driving_force/#keyfrom=dict.basic.wordgroup">driving force</a></span>
-                                                                                驱动力，推动力
+                                <span class="contentTitle"><a class="search-js" href="/w/eng/excel_at/#keyfrom=dict.basic.wordgroup">excel at</a></span>
+                                                                                突出；擅长于
                                                 </p>
-                                                                        <p class="wordGroup">
-                                <span class="contentTitle"><a class="search-js" href="/w/eng/in_force/#keyfrom=dict.basic.wordgroup">in force</a></span>
-                                                                                有效的；大批地；大规模地
-                                                </p>
-                                                                        <p class="wordGroup">
-                                <span class="contentTitle"><a class="search-js" href="/w/eng/labour_force/#keyfrom=dict.basic.wordgroup">labour force</a></span>
-                                                                                n. 劳动力
-                                                </p>
-                                                                        <p class="wordGroup">
-                                <span class="contentTitle"><a class="search-js" href="/w/eng/labor_force/#keyfrom=dict.basic.wordgroup">labor force</a></span>
-                                                                                劳动力
-                                                </p>
-                                                                        <p class="wordGroup collapse">
-                                <span class="contentTitle"><a class="search-js" href="/w/eng/air_force/#keyfrom=dict.basic.wordgroup">air force</a></span>
-                                                                                空军
-                                                </p>
-                                                                        <p class="wordGroup collapse">
-                                <span class="contentTitle"><a class="search-js" href="/w/eng/motive_force/#keyfrom=dict.basic.wordgroup">motive force</a></span>
-                                                                                动力；起动力，原动力
-                                                </p>
-                                                                        <p class="wordGroup collapse">
-                                <span class="contentTitle"><a class="search-js" href="/w/eng/force_on/#keyfrom=dict.basic.wordgroup">force on</a></span>
-                                                                                强加于， 强迫...接受
-                                                </p>
-                                                                        <p class="wordGroup collapse">
-                                <span class="contentTitle"><a class="search-js" href="/w/eng/main_force/#keyfrom=dict.basic.wordgroup">main force</a></span>
-                                                                                主力；主力军；主力部队
-                                                </p>
-                                                                        <p class="wordGroup collapse">
-                                <span class="contentTitle"><a class="search-js" href="/w/eng/internal_force/#keyfrom=dict.basic.wordgroup">internal force</a></span>
-                                                                                内力
-                                                </p>
-                                                                        <p class="wordGroup collapse">
-                                <span class="contentTitle"><a class="search-js" href="/w/eng/cutting_force/#keyfrom=dict.basic.wordgroup">cutting force</a></span>
-                                                                                切削力；割削力
-                                                </p>
-                                                                        <p class="wordGroup collapse">
-                                <span class="contentTitle"><a class="search-js" href="/w/eng/force_majeure/#keyfrom=dict.basic.wordgroup">force majeure</a></span>
-                                                                                不可抗力
-                                                </p>
-                                                                        <p class="wordGroup collapse">
-                                <span class="contentTitle"><a class="search-js" href="/w/eng/centrifugal_force/#keyfrom=dict.basic.wordgroup">centrifugal force</a></span>
-                                                                                离心力；地心引力
-                                                </p>
-                                                                        <p class="wordGroup collapse">
-                                <span class="contentTitle"><a class="search-js" href="/w/eng/axial_force/#keyfrom=dict.basic.wordgroup">axial force</a></span>
-                                                                                轴向力
-                                                </p>
-                                                                        <p class="wordGroup collapse">
-                                <span class="contentTitle"><a class="search-js" href="/w/eng/task_force/#keyfrom=dict.basic.wordgroup">task force</a></span>
-                                                                                特遣部队；特别小组
-                                                </p>
-                                                                        <p class="wordGroup collapse">
-                                <span class="contentTitle"><a class="search-js" href="/w/eng/sales_force/#keyfrom=dict.basic.wordgroup">sales force</a></span>
-                                                                                销售力量，推销人员
-                                                </p>
-                                                                        <p class="wordGroup collapse">
-                                <span class="contentTitle"><a class="search-js" href="/w/eng/work_force/#keyfrom=dict.basic.wordgroup">work force</a></span>
-                                                                                n. 劳动力，劳动大军；劳动人口；（工厂等在职的）工人总数；职工总数
-                                                </p>
-                                                                        <p class="wordGroup collapse">
-                                <span class="contentTitle"><a class="search-js" href="/w/eng/magnetic_force/#keyfrom=dict.basic.wordgroup">magnetic force</a></span>
-                                                                                [物]磁力
-                                                </p>
-                                                                        <p class="wordGroup collapse">
-                                <span class="contentTitle"><a class="search-js" href="/w/eng/police_force/#keyfrom=dict.basic.wordgroup">police force</a></span>
-                                                                                警察；警察机关
-                                                </p>
-                                                                        <p class="wordGroup collapse">
-                                <span class="contentTitle"><a class="search-js" href="/w/eng/friction_force/#keyfrom=dict.basic.wordgroup">friction force</a></span>
-                                                                                摩擦力
-                                                </p>
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        <div class="more"><a href="#" class="sp more_sp">&nbsp;</a>
-<span class="show_more">更多</span><span
-class="show_less">收起</span>词组短语
-</div>
-</div>
+            </div>
                                                     <div id="synonyms" class="trans-container tab-content hide">
 <ul>
-  <li>n. 力量；武力；军队；魄力</li>
+  <li>vt. 优于，胜过；擅长</li>
  <p class="wordGroup">
      <span class="contentTitle">
-     <a class="search-js" href="/w/eng/strength/#keyfrom=dict.basic.syno">strength</a>
+     <a class="search-js" href="/w/eng/overcome/#keyfrom=dict.basic.syno">overcome</a>
       ,
      </span>
    <span class="contentTitle">
-     <a class="search-js" href="/w/eng/might/#keyfrom=dict.basic.syno">might</a>
-      ,
-     </span>
-   <span class="contentTitle">
-     <a class="search-js" href="/w/eng/army/#keyfrom=dict.basic.syno">army</a>
-      ,
-     </span>
-   <span class="contentTitle">
-     <a class="search-js" href="/w/eng/sword/#keyfrom=dict.basic.syno">sword</a>
-      ,
-     </span>
-   <span class="contentTitle">
-     <a class="search-js" href="/w/eng/muscle/#keyfrom=dict.basic.syno">muscle</a>
-     </span>
-  </p>
-  <li>vt. 促使，推动；强迫；强加</li>
- <p class="wordGroup">
-     <span class="contentTitle">
-     <a class="search-js" href="/w/eng/bring/#keyfrom=dict.basic.syno">bring</a>
-      ,
-     </span>
-   <span class="contentTitle">
-     <a class="search-js" href="/w/eng/drive/#keyfrom=dict.basic.syno">drive</a>
+     <a class="search-js" href="/w/eng/cap/#keyfrom=dict.basic.syno">cap</a>
      </span>
   </p>
 </ul>
@@ -1320,42 +445,28 @@ class="show_less">收起</span>词组短语
     <p class="wordGroup">
         词根：
         <span class="contentTitle">
-                        <a class="search-js" href="/w/eng/force/#keyfrom=dict.basic.relword">force</a>
+                        <a class="search-js" href="/w/eng/excel/#keyfrom=dict.basic.relword">excel</a>
         </span>
    </p>
-        adj.
+        adv.
                 <p class="wordGroup">
         <span class="contentTitle">
-                        <a class="search-js" href="/w/eng/forced/#keyfrom=dict.basic.relword">forced</a>
+                        <a class="search-js" href="/w/eng/excellently/#keyfrom=dict.basic.relword">excellently</a>
         </span>
-         被迫的；强迫的
-        </p>
-                    <p class="wordGroup">
-        <span class="contentTitle">
-                        <a class="search-js" href="/w/eng/forceful/#keyfrom=dict.basic.relword">forceful</a>
-        </span>
-         强有力的；有说服力的；坚强的
-        </p>
-                  adv.
-                <p class="wordGroup">
-        <span class="contentTitle">
-                        <a class="search-js" href="/w/eng/forcefully/#keyfrom=dict.basic.relword">forcefully</a>
-        </span>
-         强有力地；激烈地；有说服力地
+         极好地；优异地
         </p>
                   n.
                 <p class="wordGroup">
         <span class="contentTitle">
-                        <a class="search-js" href="/w/eng/forcefulness/#keyfrom=dict.basic.relword">forcefulness</a>
+                        <a class="search-js" href="/w/eng/excellence/#keyfrom=dict.basic.relword">excellence</a>
         </span>
-         有力；坚强
+         优秀；美德；长处
         </p>
-                  v.
-                <p class="wordGroup">
+                    <p class="wordGroup">
         <span class="contentTitle">
-                        <a class="search-js" href="/w/eng/forced/#keyfrom=dict.basic.relword">forced</a>
+                        <a class="search-js" href="/w/eng/excellency/#keyfrom=dict.basic.relword">excellency</a>
         </span>
-         强迫（force的过去式）
+         阁下；优点，美德
         </p>
               </div>
                                                     <div id="discriminate" class="trans-container tab-content hide">
@@ -1363,134 +474,35 @@ class="show_less">收起</span>词组短语
     
         <div class="title" style="position:static;">
       <a href="#" title="详细内容" rel="#rw1" class="sp do-detail">&nbsp;</a>
-                                                                                                                                              <span>might, strength, power, vigour, force, energy</span>
+                                                                            <span>surpass, exceed, excel</span>
     </div>
 
-                                                                                                  
+                                                                    
           <div class="collapse-content">
-                                                                      <p>这组词都有“力”的意思，其区别是：</p>
+                                                                      <p>这组词都有“超过、胜过”的意思，其区别是：</p>
                                                                                   <div class="wordGroup">
                                   <p>
                   <span class="contentTitle">
-                                    <a class="search-js" href="/w/eng/might/#keyfrom=dict.basic.discriminate">might</a>
+                                    <a class="search-js" href="/w/eng/surpass/#keyfrom=dict.basic.discriminate">surpass</a>
                   </span>
-                                                                              多指巨大或超人的力量。</p>
+                                                                              多用以强调优点、长处、技能或质量等方面的超过。</p>
                                                                                             </div>
                                                                                                 <div class="wordGroup">
                                   <p>
                   <span class="contentTitle">
-                                    <a class="search-js" href="/w/eng/strength/#keyfrom=dict.basic.discriminate">strength</a>
+                                    <a class="search-js" href="/w/eng/exceed/#keyfrom=dict.basic.discriminate">exceed</a>
                   </span>
-                                                                              指机体内部的能力，是依靠身体组织而存在的力，经使用就变为force。</p>
+                                                                              既可指超出权利、权力的限度、管辖范围，或超过规定的时间范围，又可指在数量、程度或大小等方面的超过。</p>
                                                                                             </div>
                                                                                                 <div class="wordGroup">
                                   <p>
                   <span class="contentTitle">
-                                    <a class="search-js" href="/w/eng/power/#keyfrom=dict.basic.discriminate">power</a>
+                                    <a class="search-js" href="/w/eng/excel/#keyfrom=dict.basic.discriminate">excel</a>
                   </span>
-                                                                              最普通用词，泛指一切力量或能力等。</p>
-                                                                                            </div>
-                                                                                                <div class="wordGroup">
-                                  <p>
-                  <span class="contentTitle">
-                                    <a class="search-js" href="/w/eng/vigour/#keyfrom=dict.basic.discriminate">vigour</a>
-                  </span>
-                                                                              指由生命元气的存在所产生的活力、精力。</p>
-                                                                                            </div>
-                                                                                                <div class="wordGroup">
-                                  <p>
-                  <span class="contentTitle">
-                                    <a class="search-js" href="/w/eng/force/#keyfrom=dict.basic.discriminate">force</a>
-                  </span>
-                                                                              着重指克服障碍，推动人或物朝所要求的方向运动或能产生明显效应的力量。</p>
-                                                                                            </div>
-                                                                                                <div class="wordGroup">
-                                  <p>
-                  <span class="contentTitle">
-                                    <a class="search-js" href="/w/eng/energy/#keyfrom=dict.basic.discriminate">energy</a>
-                  </span>
-                                                                              用于人时，指工作时焕发出的精力或干劲。</p>
+                                                                              指在成绩、成就或学识上胜过他人。</p>
                                                                                             </div>
                                                                                                                                               <p class="via">
           以上来源于<a target="_blank" href=http://wenku.baidu.com/view/40c2bfec81c758f5f61f671b.html rel="nofollow">网络</a>
-          </p>
-              </div>
-        </div>
-              <div class="wt-container wt-collapse">
-    
-        <div class="title" style="position:static;">
-      <a href="#" title="详细内容" rel="#rw1" class="sp do-detail">&nbsp;</a>
-                                                                                                  <span>constrain, force, compel, oblige</span>
-    </div>
-
-                                                                              
-          <div class="collapse-content">
-                                                                      <p>这组词都有“迫使”的意思，其区别是：</p>
-                                                                                  <div class="wordGroup">
-                                  <p>
-                  <span class="contentTitle">
-                                    <a class="search-js" href="/w/eng/constrain/#keyfrom=dict.basic.discriminate">constrain</a>
-                  </span>
-                                                                              侧重施加约束力或有约束作用的影响，也指环境对人强加的影响迫使人去做某事，尤指受良心、情感等内在力量驱使去做某事。</p>
-                                                                                            </div>
-                                                                                                <div class="wordGroup">
-                                  <p>
-                  <span class="contentTitle">
-                                    <a class="search-js" href="/w/eng/force/#keyfrom=dict.basic.discriminate">force</a>
-                  </span>
-                                                                              指用个人意志、权力、权威或暴力等，迫使他人改变看法或做本不愿做的事。</p>
-                                                                                            </div>
-                                                                                                <div class="wordGroup">
-                                  <p>
-                  <span class="contentTitle">
-                                    <a class="search-js" href="/w/eng/compel/#keyfrom=dict.basic.discriminate">compel</a>
-                  </span>
-                                                                              指在法律、权力、力量或行动等的驱使下被迫而为。</p>
-                                                                                            </div>
-                                                                                                <div class="wordGroup">
-                                  <p>
-                  <span class="contentTitle">
-                                    <a class="search-js" href="/w/eng/oblige/#keyfrom=dict.basic.discriminate">oblige</a>
-                  </span>
-                                                                              指由于生理上或道德上的需要，促使某人做某事，也指有权威的人或机构迫使某人做某事，还可指在特定情况下被迫作出的反应。</p>
-                                                                                            </div>
-                                                                                                                                              <p class="via">
-          以上来源于<a target="_blank" href=http://wenku.baidu.com/view/40c2bfec81c758f5f61f671b.html rel="nofollow">网络</a>
-          </p>
-              </div>
-        </div>
-              <div class="wt-container wt-collapse">
-    
-        <div class="title" style="position:static;">
-      <a href="#" title="详细内容" rel="#rw1" class="sp do-detail">&nbsp;</a>
-                                                                            <span>army, force, troop</span>
-    </div>
-
-                                                          
-          <div class="collapse-content">
-                                                                                      <div class="wordGroup">
-                                  <p>
-                  <span class="contentTitle">
-                                    <a class="search-js" href="/w/eng/army/#keyfrom=dict.basic.discriminate">army</a>
-                  </span>
-                                                                              军队，着重指军队这个整体，包括陆海空三军。当与navy和air force并列使用时，则指陆军。如：We will have not only a powerful army but also a powerful air force and a powerful navy.(我们不但要有强大的陆军，而且要有强大的空军和海军。)</p>
-                                                                                            </div>
-                                                                                                <div class="wordGroup">
-                                  <p>
-                  <span class="contentTitle">
-                                    <a class="search-js" href="/w/eng/force/#keyfrom=dict.basic.discriminate">force</a>
-                  </span>
-                                                                              军队，部队，着重指武力，常用复数。如：Forces were sent out to stop the conflict.派出武装部队制止这场冲突。</p>
-                                                                                            </div>
-                                                                                                <div class="wordGroup">
-                                  <p>
-                  <span class="contentTitle">
-                                    <a class="search-js" href="/w/eng/troop/#keyfrom=dict.basic.discriminate">troop</a>
-                  </span>
-                                                                              部队，着重指构成军队的士兵成员，常用复数。如：They sent the troops to the front.他们把军队派往前线。</p>
-                                                                                            </div>
-                                                                                                                                              <p class="via">
-          以上来源于<a target="_blank" href=http://wenku.baidu.com/view/9b9db523a5e9856a561260a2.html rel="nofollow">网络</a>
           </p>
               </div>
         </div>
@@ -1512,44 +524,44 @@ class="show_less">收起</span>词组短语
                                      
                             
                                                                                                                 <li>
-                    <p><span id="src_0_0" onmouseover="hlgt('#src_0_0,#tran_0_0')" onmouseout="unhlgt('#src_0_0,#tran_0_0')">We</span><span> </span><span id="src_0_1" onmouseover="hlgt('#src_0_1,#tran_0_1')" onmouseout="unhlgt('#src_0_1,#tran_0_1')">oppose</span><span> </span><span id="src_0_2" onmouseover="hlgt('#src_0_2,#tran_0_6')" onmouseout="unhlgt('#src_0_2,#tran_0_6')">interference</span><span> by </span><span id="src_0_4" onmouseover="hlgt('#src_0_4,#tran_0_2')" onmouseout="unhlgt('#src_0_4,#tran_0_2')">any</span><span> </span><span id="src_0_5" onmouseover="hlgt('#src_0_5,#tran_0_3')" onmouseout="unhlgt('#src_0_5,#tran_0_3')">outside</span><span> </span><span id="src_0_6" onmouseover="hlgt('#src_0_6,#tran_0_4')" onmouseout="unhlgt('#src_0_6,#tran_0_4')"><b>force</b></span><span>.</span>
-                    					 <a class="sp dictvoice voice-js log-js" title="点击发音" href="#" data-rel="We+oppose+interference+by+any+outside+force.&le=eng" data-4log="dict.main.blng"></a>
+                    <p><span id="src_0_0" onmouseover="hlgt('#src_0_0,#tran_0_0')" onmouseout="unhlgt('#src_0_0,#tran_0_0')">Engage in</span><span> </span><span id="src_0_1" onmouseover="hlgt('#src_0_1,#tran_0_3')" onmouseout="unhlgt('#src_0_1,#tran_0_3')">activities</span><span> that </span><span id="src_0_2" onmouseover="hlgt('#src_0_2,#tran_0_1')" onmouseout="unhlgt('#src_0_2,#tran_0_1')">you</span><span> </span><span id="src_0_3" onmouseover="hlgt('#src_0_3,#tran_0_2')" onmouseout="unhlgt('#src_0_3,#tran_0_2')">like</span><span>, </span><span id="src_0_4" onmouseover="hlgt('#src_0_4,#tran_0_4')" onmouseout="unhlgt('#src_0_4,#tran_0_4')">knowing you</span><span> </span><span id="src_0_5" onmouseover="hlgt('#src_0_5,#tran_0_5')" onmouseout="unhlgt('#src_0_5,#tran_0_5')">can</span><span> </span><span id="src_0_6" onmouseover="hlgt('#src_0_6,#tran_0_6')" onmouseout="unhlgt('#src_0_6,#tran_0_6')"><b>excel</b></span><span>.</span>
+                    					 <a class="sp dictvoice voice-js log-js" title="点击发音" href="#" data-rel="Engage+in+activities+that+you+like%2C+knowing+you+can+excel.&le=eng" data-4log="dict.main.blng"></a>
                                         </p>
 
-                    <p><span id="tran_0_0" onmouseover="hlgt('#src_0_0,#tran_0_0')" onmouseout="unhlgt('#src_0_0,#tran_0_0')">我们</span><span id="tran_0_1" onmouseover="hlgt('#src_0_1,#tran_0_1')" onmouseout="unhlgt('#src_0_1,#tran_0_1')">反对</span><span id="tran_0_2" onmouseover="hlgt('#src_0_4,#tran_0_2')" onmouseout="unhlgt('#src_0_4,#tran_0_2')">任何</span><span id="tran_0_3" onmouseover="hlgt('#src_0_5,#tran_0_3')" onmouseout="unhlgt('#src_0_5,#tran_0_3')">外来</span><span id="tran_0_4" onmouseover="hlgt('#src_0_6,#tran_0_4')" onmouseout="unhlgt('#src_0_6,#tran_0_4')">势力</span><span>插手</span><span id="tran_0_6" onmouseover="hlgt('#src_0_2,#tran_0_6')" onmouseout="unhlgt('#src_0_2,#tran_0_6')">干预</span><span>。</span>
+                    <p><span>去</span><span id="tran_0_0" onmouseover="hlgt('#src_0_0,#tran_0_0')" onmouseout="unhlgt('#src_0_0,#tran_0_0')">参加</span><span id="tran_0_1" onmouseover="hlgt('#src_0_2,#tran_0_1')" onmouseout="unhlgt('#src_0_2,#tran_0_1')">你</span><span id="tran_0_2" onmouseover="hlgt('#src_0_3,#tran_0_2')" onmouseout="unhlgt('#src_0_3,#tran_0_2')">喜欢</span><span>的</span><span id="tran_0_3" onmouseover="hlgt('#src_0_1,#tran_0_3')" onmouseout="unhlgt('#src_0_1,#tran_0_3')">活动</span><span>吧，</span><span id="tran_0_4" onmouseover="hlgt('#src_0_4,#tran_0_4')" onmouseout="unhlgt('#src_0_4,#tran_0_4')">你</span><span id="tran_0_5" onmouseover="hlgt('#src_0_5,#tran_0_5')" onmouseout="unhlgt('#src_0_5,#tran_0_5')">一定</span><span id="tran_0_6" onmouseover="hlgt('#src_0_6,#tran_0_6')" onmouseout="unhlgt('#src_0_6,#tran_0_6')">很擅长</span><span>的。</span>
                                         </p>
                                                             <p class="example-via">
-                                                    <a href="http://dj.iciba.com/插手干预/" target=_blank rel="nofollow">dj.iciba.com</a>
+                                                    <a href="http://article.yeeyan.org/view/138383/99975" target=_blank rel="nofollow">article.yeeyan.org</a>
                                             </p>
                 </li>
                                        
                             
                                                                                                                 <li>
-                    <p><span id="src_1_0" onmouseover="hlgt('#src_1_0,#tran_1_0')" onmouseout="unhlgt('#src_1_0,#tran_1_0')">Don't</span><span> </span><span id="src_1_1" onmouseover="hlgt('#src_1_1,#tran_1_1')" onmouseout="unhlgt('#src_1_1,#tran_1_1')"><b>force</b></span><span> </span><span id="src_1_2" onmouseover="hlgt('#src_1_2,#tran_1_2')" onmouseout="unhlgt('#src_1_2,#tran_1_2')">her</span><span> into a </span><span id="src_1_3" onmouseover="hlgt('#src_1_3,#tran_1_3')" onmouseout="unhlgt('#src_1_3,#tran_1_3')">distasteful</span><span> marriage.</span>
-                    					 <a class="sp dictvoice voice-js log-js" title="点击发音" href="#" data-rel="Don%27t+force+her+into+a+distasteful+marriage.&le=eng" data-4log="dict.main.blng"></a>
+                    <p><span id="src_1_0" onmouseover="hlgt('#src_1_0,#tran_1_0')" onmouseout="unhlgt('#src_1_0,#tran_1_0')">All</span><span> </span><span id="src_1_1" onmouseover="hlgt('#src_1_1,#tran_1_2')" onmouseout="unhlgt('#src_1_1,#tran_1_2')">this</span><span> leads </span><span id="src_1_2" onmouseover="hlgt('#src_1_2,#tran_1_4')" onmouseout="unhlgt('#src_1_2,#tran_1_4')">to</span><span> a </span><span id="src_1_3" onmouseover="hlgt('#src_1_3,#tran_1_5')" onmouseout="unhlgt('#src_1_3,#tran_1_5')">better</span><span> </span><span id="src_1_4" onmouseover="hlgt('#src_1_4,#tran_1_6')" onmouseout="unhlgt('#src_1_4,#tran_1_6')">understanding</span><span> </span><span id="src_1_5" onmouseover="hlgt('#src_1_5,#tran_1_1#tran_1_8')" onmouseout="unhlgt('#src_1_5,#tran_1_1#tran_1_8')">of</span><span> </span><span id="src_1_6" onmouseover="hlgt('#src_1_6,#tran_1_3#tran_1_16')" onmouseout="unhlgt('#src_1_6,#tran_1_3#tran_1_16')">just</span><span> </span><span id="src_1_7" onmouseover="hlgt('#src_1_7,#tran_1_11')" onmouseout="unhlgt('#src_1_7,#tran_1_11')">how</span><span> </span><span id="src_1_8" onmouseover="hlgt('#src_1_8,#tran_1_12')" onmouseout="unhlgt('#src_1_8,#tran_1_12')">flexible</span><span> </span><span id="src_1_9" onmouseover="hlgt('#src_1_9,#tran_1_7')" onmouseout="unhlgt('#src_1_9,#tran_1_7')">our</span><span> </span><span id="src_1_10" onmouseover="hlgt('#src_1_10,#tran_1_9')" onmouseout="unhlgt('#src_1_10,#tran_1_9')">brains</span><span> </span><span id="src_1_11" onmouseover="hlgt('#src_1_11,#tran_1_10')" onmouseout="unhlgt('#src_1_11,#tran_1_10')">are</span><span>, and </span><span id="src_1_12" onmouseover="hlgt('#src_1_12,#tran_1_13')" onmouseout="unhlgt('#src_1_12,#tran_1_13')">perhaps</span><span> </span><span id="src_1_13" onmouseover="hlgt('#src_1_13,#tran_1_14')" onmouseout="unhlgt('#src_1_13,#tran_1_14')">why</span><span> </span><span id="src_1_14" onmouseover="hlgt('#src_1_14,#tran_1_15')" onmouseout="unhlgt('#src_1_14,#tran_1_15')">we</span><span> </span><span id="src_1_15" onmouseover="hlgt('#src_1_15,#tran_1_17#tran_1_20')" onmouseout="unhlgt('#src_1_15,#tran_1_17#tran_1_20')"><b>excel</b> at</span><span> </span><span id="src_1_16" onmouseover="hlgt('#src_1_16,#tran_1_18')" onmouseout="unhlgt('#src_1_16,#tran_1_18')">some</span><span> </span><span id="src_1_17" onmouseover="hlgt('#src_1_17,#tran_1_19')" onmouseout="unhlgt('#src_1_17,#tran_1_19')">activities</span><span> and not others.</span>
+                    					 <a class="sp dictvoice voice-js log-js" title="点击发音" href="#" data-rel="All+this+leads+to+a+better+understanding+of+just+how+flexible+our+brains+are%2C+and+perhaps+why+we+excel+at+some+activities+and+not+others.&le=eng" data-4log="dict.main.blng"></a>
                                         </p>
 
-                    <p><span id="tran_1_0" onmouseover="hlgt('#src_1_0,#tran_1_0')" onmouseout="unhlgt('#src_1_0,#tran_1_0')">不能</span><span id="tran_1_1" onmouseover="hlgt('#src_1_1,#tran_1_1')" onmouseout="unhlgt('#src_1_1,#tran_1_1')">强迫</span><span id="tran_1_2" onmouseover="hlgt('#src_1_2,#tran_1_2')" onmouseout="unhlgt('#src_1_2,#tran_1_2')">她</span><span>与她</span><span id="tran_1_3" onmouseover="hlgt('#src_1_3,#tran_1_3')" onmouseout="unhlgt('#src_1_3,#tran_1_3')">不喜欢</span><span>的男人</span><span>成婚</span><span>。</span>
+                    <p><span id="tran_1_0" onmouseover="hlgt('#src_1_0,#tran_1_0')" onmouseout="unhlgt('#src_1_0,#tran_1_0')">所有</span><span id="tran_1_1" onmouseover="hlgt('#src_1_5,#tran_1_1#tran_1_8')" onmouseout="unhlgt('#src_1_5,#tran_1_1#tran_1_8')">的</span><span id="tran_1_2" onmouseover="hlgt('#src_1_1,#tran_1_2')" onmouseout="unhlgt('#src_1_1,#tran_1_2')">这些</span><span>，</span><span id="tran_1_3" onmouseover="hlgt('#src_1_6,#tran_1_3#tran_1_16')" onmouseout="unhlgt('#src_1_6,#tran_1_3#tran_1_16')">就是</span><span id="tran_1_4" onmouseover="hlgt('#src_1_2,#tran_1_4')" onmouseout="unhlgt('#src_1_2,#tran_1_4')">为了</span><span id="tran_1_5" onmouseover="hlgt('#src_1_3,#tran_1_5')" onmouseout="unhlgt('#src_1_3,#tran_1_5')">更好地</span><span id="tran_1_6" onmouseover="hlgt('#src_1_4,#tran_1_6')" onmouseout="unhlgt('#src_1_4,#tran_1_6')">了解</span><span id="tran_1_7" onmouseover="hlgt('#src_1_9,#tran_1_7')" onmouseout="unhlgt('#src_1_9,#tran_1_7')">我们</span><span id="tran_1_8" onmouseover="hlgt('#src_1_5,#tran_1_1#tran_1_8')" onmouseout="unhlgt('#src_1_5,#tran_1_1#tran_1_8')">的</span><span id="tran_1_9" onmouseover="hlgt('#src_1_10,#tran_1_9')" onmouseout="unhlgt('#src_1_10,#tran_1_9')">大脑</span><span id="tran_1_10" onmouseover="hlgt('#src_1_11,#tran_1_10')" onmouseout="unhlgt('#src_1_11,#tran_1_10')">有</span><span id="tran_1_11" onmouseover="hlgt('#src_1_7,#tran_1_11')" onmouseout="unhlgt('#src_1_7,#tran_1_11')">多</span><span id="tran_1_12" onmouseover="hlgt('#src_1_8,#tran_1_12')" onmouseout="unhlgt('#src_1_8,#tran_1_12')">灵活</span><span>，</span><span id="tran_1_13" onmouseover="hlgt('#src_1_12,#tran_1_13')" onmouseout="unhlgt('#src_1_12,#tran_1_13')">或者</span><span id="tran_1_14" onmouseover="hlgt('#src_1_13,#tran_1_14')" onmouseout="unhlgt('#src_1_13,#tran_1_14')">解释为什么</span><span id="tran_1_15" onmouseover="hlgt('#src_1_14,#tran_1_15')" onmouseout="unhlgt('#src_1_14,#tran_1_15')">我们</span><span id="tran_1_16" onmouseover="hlgt('#src_1_6,#tran_1_3#tran_1_16')" onmouseout="unhlgt('#src_1_6,#tran_1_3#tran_1_16')">只</span><span id="tran_1_17" onmouseover="hlgt('#src_1_15,#tran_1_17#tran_1_20')" onmouseout="unhlgt('#src_1_15,#tran_1_17#tran_1_20')">对</span><span id="tran_1_18" onmouseover="hlgt('#src_1_16,#tran_1_18')" onmouseout="unhlgt('#src_1_16,#tran_1_18')">某些</span><span id="tran_1_19" onmouseover="hlgt('#src_1_17,#tran_1_19')" onmouseout="unhlgt('#src_1_17,#tran_1_19')">活动</span><span>很</span><span id="tran_1_20" onmouseover="hlgt('#src_1_15,#tran_1_17#tran_1_20')" onmouseout="unhlgt('#src_1_15,#tran_1_17#tran_1_20')">擅长</span><span>。</span>
                                         </p>
                                                             <p class="example-via">
-                                                    <a href="http://dj.iciba.com/%E5%BC%BA%E8%BF%AB%E6%88%90%E5%A9%9A/" target=_blank rel="nofollow">dj.iciba.com</a>
+                                                    <a href="http://article.yeeyan.org/view/151941/108502" target=_blank rel="nofollow">article.yeeyan.org</a>
                                             </p>
                 </li>
                                        
                             
                                                                                                                 <li>
-                    <p><span id="src_2_0" onmouseover="hlgt('#src_2_0,#tran_2_0')" onmouseout="unhlgt('#src_2_0,#tran_2_0')">This</span><span> </span><span id="src_2_1" onmouseover="hlgt('#src_2_1,#tran_2_1')" onmouseout="unhlgt('#src_2_1,#tran_2_1')">can</span><span> </span><span id="src_2_2" onmouseover="hlgt('#src_2_2,#tran_2_2')" onmouseout="unhlgt('#src_2_2,#tran_2_2')">become a</span><span> </span><span id="src_2_3" onmouseover="hlgt('#src_2_3,#tran_2_3')" onmouseout="unhlgt('#src_2_3,#tran_2_3')">driving</span><span> </span><span id="src_2_4" onmouseover="hlgt('#src_2_4,#tran_2_7')" onmouseout="unhlgt('#src_2_4,#tran_2_7')"><b>force</b></span><span> </span><span id="src_2_5" onmouseover="hlgt('#src_2_5,#tran_2_6')" onmouseout="unhlgt('#src_2_5,#tran_2_6')">for</span><span> </span><span id="src_2_6" onmouseover="hlgt('#src_2_6,#tran_2_4')" onmouseout="unhlgt('#src_2_6,#tran_2_4')">social</span><span> </span><span id="src_2_7" onmouseover="hlgt('#src_2_7,#tran_2_5')" onmouseout="unhlgt('#src_2_7,#tran_2_5')">advance</span><span>.</span>
-                    					 <a class="sp dictvoice voice-js log-js" title="点击发音" href="#" data-rel="This+can+become+a+driving+force+for+social+advance.&le=eng" data-4log="dict.main.blng"></a>
+                    <p><span id="src_2_0" onmouseover="hlgt('#src_2_0,#tran_2_0')" onmouseout="unhlgt('#src_2_0,#tran_2_0')">Once</span><span> </span><span id="src_2_1" onmouseover="hlgt('#src_2_1,#tran_2_1')" onmouseout="unhlgt('#src_2_1,#tran_2_1')">a</span><span> </span><span id="src_2_2" onmouseover="hlgt('#src_2_2,#tran_2_2')" onmouseout="unhlgt('#src_2_2,#tran_2_2')">child</span><span> </span><span id="src_2_3" onmouseover="hlgt('#src_2_3,#tran_2_3')" onmouseout="unhlgt('#src_2_3,#tran_2_3')">starts to</span><span> </span><span id="src_2_4" onmouseover="hlgt('#src_2_4,#tran_2_4')" onmouseout="unhlgt('#src_2_4,#tran_2_4')"><b>excel</b> at</span><span> </span><span id="src_2_5" onmouseover="hlgt('#src_2_5,#tran_2_5')" onmouseout="unhlgt('#src_2_5,#tran_2_5')">something</span><span>—whether it's </span><span id="src_2_6" onmouseover="hlgt('#src_2_6,#tran_2_6')" onmouseout="unhlgt('#src_2_6,#tran_2_6')">math</span><span>, </span><span id="src_2_7" onmouseover="hlgt('#src_2_7,#tran_2_7')" onmouseout="unhlgt('#src_2_7,#tran_2_7')">piano</span><span>, </span><span id="src_2_8" onmouseover="hlgt('#src_2_8,#tran_2_8#tran_2_9')" onmouseout="unhlgt('#src_2_8,#tran_2_8#tran_2_9')">pitching</span><span> </span><span id="src_2_9" onmouseover="hlgt('#src_2_9,#tran_2_10')" onmouseout="unhlgt('#src_2_9,#tran_2_10')">or</span><span> </span><span id="src_2_10" onmouseover="hlgt('#src_2_10,#tran_2_11')" onmouseout="unhlgt('#src_2_10,#tran_2_11')">ballet</span><span>—</span><span id="src_2_11" onmouseover="hlgt('#src_2_11,#tran_2_12')" onmouseout="unhlgt('#src_2_11,#tran_2_12')">he</span><span> </span><span id="src_2_12" onmouseover="hlgt('#src_2_12,#tran_2_13#tran_2_16')" onmouseout="unhlgt('#src_2_12,#tran_2_13#tran_2_16')">or she gets</span><span> </span><span id="src_2_14" onmouseover="hlgt('#src_2_14,#tran_2_15')" onmouseout="unhlgt('#src_2_14,#tran_2_15')">praise</span><span>, </span><span id="src_2_15" onmouseover="hlgt('#src_2_15,#tran_2_18')" onmouseout="unhlgt('#src_2_15,#tran_2_18')">admiration</span><span> </span><span id="src_2_16" onmouseover="hlgt('#src_2_16,#tran_2_19')" onmouseout="unhlgt('#src_2_16,#tran_2_19')">and</span><span> </span><span id="src_2_17" onmouseover="hlgt('#src_2_17,#tran_2_20')" onmouseout="unhlgt('#src_2_17,#tran_2_20')">satisfaction</span><span>.</span>
+                    					 <a class="sp dictvoice voice-js log-js" title="点击发音" href="#" data-rel="Once+a+child+starts+to+excel+at+something%E2%80%94whether+it%27s+math%2C+piano%2C+pitching+or+ballet%E2%80%94he+or+she+gets+praise%2C+admiration+and+satisfaction.&le=eng" data-4log="dict.main.blng"></a>
                                         </p>
 
-                    <p><span id="tran_2_0" onmouseover="hlgt('#src_2_0,#tran_2_0')" onmouseout="unhlgt('#src_2_0,#tran_2_0')">这</span><span id="tran_2_1" onmouseover="hlgt('#src_2_1,#tran_2_1')" onmouseout="unhlgt('#src_2_1,#tran_2_1')">能</span><span id="tran_2_2" onmouseover="hlgt('#src_2_2,#tran_2_2')" onmouseout="unhlgt('#src_2_2,#tran_2_2')">成为</span><span id="tran_2_3" onmouseover="hlgt('#src_2_3,#tran_2_3')" onmouseout="unhlgt('#src_2_3,#tran_2_3')">促使</span><span id="tran_2_4" onmouseover="hlgt('#src_2_6,#tran_2_4')" onmouseout="unhlgt('#src_2_6,#tran_2_4')">社会</span><span id="tran_2_5" onmouseover="hlgt('#src_2_7,#tran_2_5')" onmouseout="unhlgt('#src_2_7,#tran_2_5')">前进</span><span id="tran_2_6" onmouseover="hlgt('#src_2_5,#tran_2_6')" onmouseout="unhlgt('#src_2_5,#tran_2_6')">的</span><span id="tran_2_7" onmouseover="hlgt('#src_2_4,#tran_2_7')" onmouseout="unhlgt('#src_2_4,#tran_2_7')">动力</span><span>。</span>
+                    <p><span id="tran_2_0" onmouseover="hlgt('#src_2_0,#tran_2_0')" onmouseout="unhlgt('#src_2_0,#tran_2_0')">一旦</span><span id="tran_2_1" onmouseover="hlgt('#src_2_1,#tran_2_1')" onmouseout="unhlgt('#src_2_1,#tran_2_1')">一名</span><span id="tran_2_2" onmouseover="hlgt('#src_2_2,#tran_2_2')" onmouseout="unhlgt('#src_2_2,#tran_2_2')">孩子</span><span id="tran_2_3" onmouseover="hlgt('#src_2_3,#tran_2_3')" onmouseout="unhlgt('#src_2_3,#tran_2_3')">开始</span><span id="tran_2_4" onmouseover="hlgt('#src_2_4,#tran_2_4')" onmouseout="unhlgt('#src_2_4,#tran_2_4')">擅长</span><span id="tran_2_5" onmouseover="hlgt('#src_2_5,#tran_2_5')" onmouseout="unhlgt('#src_2_5,#tran_2_5')">某些东西</span><span> -- </span><span id="tran_2_6" onmouseover="hlgt('#src_2_6,#tran_2_6')" onmouseout="unhlgt('#src_2_6,#tran_2_6')">数学</span><span>，</span><span id="tran_2_7" onmouseover="hlgt('#src_2_7,#tran_2_7')" onmouseout="unhlgt('#src_2_7,#tran_2_7')">钢琴</span><span>，</span><span id="tran_2_8" onmouseover="hlgt('#src_2_8,#tran_2_8#tran_2_9')" onmouseout="unhlgt('#src_2_8,#tran_2_8#tran_2_9')">投</span><span>(棒)</span><span id="tran_2_9" onmouseover="hlgt('#src_2_8,#tran_2_8#tran_2_9')" onmouseout="unhlgt('#src_2_8,#tran_2_8#tran_2_9')">球</span><span>，</span><span id="tran_2_10" onmouseover="hlgt('#src_2_9,#tran_2_10')" onmouseout="unhlgt('#src_2_9,#tran_2_10')">或者</span><span id="tran_2_11" onmouseover="hlgt('#src_2_10,#tran_2_11')" onmouseout="unhlgt('#src_2_10,#tran_2_11')">芭蕾</span><span> -- </span><span id="tran_2_12" onmouseover="hlgt('#src_2_11,#tran_2_12')" onmouseout="unhlgt('#src_2_11,#tran_2_12')">他</span><span>就</span><span id="tran_2_13" onmouseover="hlgt('#src_2_12,#tran_2_13#tran_2_16')" onmouseout="unhlgt('#src_2_12,#tran_2_13#tran_2_16')">会</span><span>受到</span><span id="tran_2_15" onmouseover="hlgt('#src_2_14,#tran_2_15')" onmouseout="unhlgt('#src_2_14,#tran_2_15')">夸奖</span><span>，</span><span id="tran_2_16" onmouseover="hlgt('#src_2_12,#tran_2_13#tran_2_16')" onmouseout="unhlgt('#src_2_12,#tran_2_13#tran_2_16')">被</span><span id="tran_2_18" onmouseover="hlgt('#src_2_15,#tran_2_18')" onmouseout="unhlgt('#src_2_15,#tran_2_18')">羡慕</span><span id="tran_2_19" onmouseover="hlgt('#src_2_16,#tran_2_19')" onmouseout="unhlgt('#src_2_16,#tran_2_19')">和</span><span>有</span><span id="tran_2_20" onmouseover="hlgt('#src_2_17,#tran_2_20')" onmouseout="unhlgt('#src_2_17,#tran_2_20')">满足感</span><span>。</span>
                                         </p>
                                                             <p class="example-via">
-                                                    <a href="http://zuci.chaziwang.com/showci-49769.html" target=_blank rel="nofollow">zuci.chaziwang.com</a>
+                                                    <a href="http://blog.sina.com.cn/s/blog_613b3c330100p29t.html" target=_blank rel="nofollow">blog.sina.com.cn</a>
                                             </p>
                 </li>
-                                                                 </ul>
-                        <a class="more-example" href="/example/blng/eng/force/#keyfrom=dict.main.moreblng" title="force的双语例句">更多双语例句</a>
+                                                                                                                     </ul>
+                        <a class="more-example" href="/example/blng/eng/excel/#keyfrom=dict.main.moreblng" title="excel的双语例句">更多双语例句</a>
                     </div>
          
                 <!-- Media Result Start -->
@@ -1558,63 +570,70 @@ class="show_less">收起</span>词组短语
          <ul class="ol">
                                                             
                     	       <li>
-           <p>All it took to <b>force</b> a negotiated settlement was for these dangerous men to show their faces in Dodge City.
-                                  <a class="sp humanvoice humanvoice-js log-js" title="点击发音" href="#" data-rel="http://dict.youdao.com/pureaudio?docid=-7819334178825621034" data-4log="dict.main.pureaudio"></a>
+           <p>Some of the world's most powerful leaders, along with their finance chiefs are meeting at London's <b>ExCel</b> Center to try to forge common ground on tackling the world's economic crisis.
+                                  <a class="sp humanvoice humanvoice-js log-js" title="点击发音" href="#" data-rel="http://dict.youdao.com/pureaudio?docid=-6426817262269571535" data-4log="dict.main.pureaudio"></a>
                       </p>
                                      <p class="via">
-                          VOA: special.2010.03.10
+                          VOA: standard.2009.04.02
                           </p>
                        </li>
 
                                                                        
                               
                      <li>
-	       <p>Now, gravity, well <b>force</b>, is equal to mass times acceleration, g and the acceleration due to gravity is g.<br></p>
-           	       <p>是重力，等于质量乘以加速度，由重力导致的加速度是。<br></p>
+	       <p>If you don' t seek out the conflict, you won' t <b>excel</b>.<br></p>
+           	       <p>缺少冲突和矛盾，就没有办法胜过他人。<br></p>
                       
                                 <div class="video">
-                                   <a class="play log-js" data-4log="dict.main.purevideo" href="/simplayer.swf?movie=http://dict.youdao.com/purevideo?docid=-7171871554983541123&auto=true">            <img src="http://dict.youdao.com/pureimage?docid=-7171871554983541123" alt="麻省理工公开课中出现force的视频截图" title="麻省理工公开课的相关视频,点击播放" rel="nofollow">
+                                   <a class="play log-js" data-4log="dict.main.purevideo" href="/simplayer.swf?movie=http://dict.youdao.com/purevideo?docid=5790039309448399895&auto=true">            <img src="http://dict.youdao.com/pureimage?docid=5790039309448399895" alt="普林斯顿公开课中出现excel的视频截图" title="普林斯顿公开课的相关视频,点击播放" rel="nofollow">
            <span class="playicon"><img src="https://shared-https.ydstatic.com/dict/v5.16/images/play.png"></span>
            </a>
            <a href="#" class="close" style="display: none;"></a>
           </div>
-            		    <p class="example-via"><a href='http://v.163.com/special/opencourse/kinetics.html' target=_blank rel="nofollow">麻省理工公开课 - 热力学与动力学课程节选</a></p>
+            		    <p class="example-via"><a href='http://v.163.com/special/profilesinleadership/' target=_blank rel="nofollow">普林斯顿公开课 - 领导能力简介课程节选</a></p>
             	        	     </li>
                                                              
                               
                      <li>
-	       <p>I think that if a classroom devolves to the point where physical <b>force</b> is required to gain control,<br></p>
-           	       <p>我认为，如果一个课堂秩序十分混乱，以至于要用武力来维持秩序，<br></p>
+	       <p>or even to make it through school or to do well or <b>excel</b> at school.<br></p>
+           	       <p>或者甚至是完成学业或者在学校成绩好。<br></p>
                       
                                 <div class="video">
-                                   <a class="play log-js" data-4log="dict.main.purevideo" href="/simplayer.swf?movie=http://dict.youdao.com/purevideo?docid=8612171530107489500&auto=true">            <img src="http://dict.youdao.com/pureimage?docid=8612171530107489500" alt="反对体罚中出现force的视频截图" title="反对体罚的相关视频,点击播放" rel="nofollow">
+                                   <a class="play log-js" data-4log="dict.main.purevideo" href="/simplayer.swf?movie=http://dict.youdao.com/purevideo?docid=4371156800140302277&auto=true">            <img src="http://dict.youdao.com/pureimage?docid=4371156800140302277" alt="不平等的入学基准中出现excel的视频截图" title="不平等的入学基准的相关视频,点击播放" rel="nofollow">
            <span class="playicon"><img src="https://shared-https.ydstatic.com/dict/v5.16/images/play.png"></span>
            </a>
            <a href="#" class="close" style="display: none;"></a>
           </div>
-            		    <p class="example-via"><a href='http://www.speakingmax.cn/clip/IvyLeague/2/5/repeat-323' target=_blank rel="nofollow">反对体罚 - SpeakingMax英语口语达人</a></p>
+            		    <p class="example-via"><a href='http://www.speakingmax.cn/clip/IvyLeague/4/4/dictation-252' target=_blank rel="nofollow">不平等的入学基准 - SpeakingMax英语口语达人</a></p>
             	        	     </li>
                             </ul>
-                    <a class="more-example" href="/example/mdia/force/#keyfrom=dict.main.moremedia" title="force的原声例句">更多原声例句</a>
+                    <a class="more-example" href="/example/mdia/excel/#keyfrom=dict.main.moremedia" title="excel的原声例句">更多原声例句</a>
                   </div>
         
                 
                 <div id="authority" class="trans-container  tab-content">
                   <ul class="ol">
                              <li>
-           <p>Also derived from memory, they have the gritty, driving <b>force</b> of a personal pathology. 
-                        <a class="sp dictvoice voice-js log-js" title="点击发音" href="#" data-rel="Also+derived+from+memory%2C+they+have+the+gritty%2C+driving+force+of+a+personal+pathology.+" data-4log="dict.main.moreauth"></a>
+           <p>Are there funds that, defying the pattern, <b>excel</b> in both bull and bear markets? 
+                        <a class="sp dictvoice voice-js log-js" title="点击发音" href="#" data-rel="Are+there+funds+that%2C+defying+the+pattern%2C+excel+in+both+bull+and+bear+markets%3F+" data-4log="dict.main.moreauth"></a>
            </p>
-           <p class="example-via"><a href="http://www.forbes.com/2009/03/20/cambodia-genocide-art-opinions-contributors-vann-nath_print.html" target=_blank rel="nofollow">FORBES: <i>The Goya Of The Cambodian Genocide</i></a></p>
+           <p class="example-via"><a href="http://www.forbes.com/sites/baldwin/2013/05/08/the-forbes-mutual-fund-honor-roll/" target=_blank rel="nofollow">FORBES: <i>The Forbes Mutual Fund Honor Roll</i></a></p>
            </li>
                                       <li>
-           <p>Last summer, I went every day to the trial out by the air <b>force</b> base. 
-                        <a class="sp dictvoice voice-js log-js" title="点击发音" href="#" data-rel="Last+summer%2C+I+went+every+day+to+the+trial+out+by+the+air+force+base.+" data-4log="dict.main.moreauth"></a>
+           <p>This opinion is supported by the fact that significant athlete product endorsers <b>excel</b> within their sport. 
+                        <a class="sp dictvoice voice-js log-js" title="点击发音" href="#" data-rel="This+opinion+is+supported+by+the+fact+that+significant+athlete+product+endorsers+excel+within+their+sport.+" data-4log="dict.main.moreauth"></a>
            </p>
-           <p class="example-via"><a href="http://www.forbes.com/2009/03/20/cambodia-genocide-art-opinions-contributors-vann-nath_print.html" target=_blank rel="nofollow">FORBES: <i>The Goya Of The Cambodian Genocide</i></a></p>
+           <p class="example-via"><a href="http://www.forbes.com/sites/prishe/2013/05/04/the-historical-prelude-and-eventual-significance-of-jason-collins-coming-out/" target=_blank rel="nofollow">FORBES: <i>The Historical Prelude and Eventual Significance of Jason Collins Coming Out</i></a></p>
            </li>
-                           </ul>
-                  </div>
+                                      <li>
+           <p>Perhaps, Forbes should make the entire Microsoft <b>Excel</b> file available, as I found at Hurun. 
+                        <a class="sp dictvoice voice-js log-js" title="点击发音" href="#" data-rel="Perhaps%2C+Forbes+should+make+the+entire+Microsoft+Excel+file+available%2C+as+I+found+at+Hurun.+" data-4log="dict.main.moreauth"></a>
+           </p>
+           <p class="example-via"><a href="http://www.forbes.com/sites/luisakroll/2013/03/09/mapping-the-wealth-of-the-worlds-billionaires/" target=_blank rel="nofollow">FORBES: <i>Mapping The Wealth Of The World's Billionaires</i></a></p>
+           </li>
+                                             </ul>
+                   <a class="more-example" href="/example/auth/excel/#keyfrom=dict.main.moreauth" title="excel的权威例句">更多权威例句</a>
+                   </div>
             </div>
 </div>
 <!--例句选项卡 end-->
@@ -1628,90 +647,14 @@ class="show_less">收起</span>词组短语
           <p class="hd">词组短语</p>
       <div id="wordGroup2" class="trans-container tab-content hide more-collapse">
                                                                                                         <p class="wordGroup">
-                                            <span class="contentTitle"><a class="search-js" href="/w/eng/by_force/#keyfrom=dict.basic.wordgroup">by force</a></span>
-                                                                                                        强迫地；靠武力；凭藉暴力
+                                            <span class="contentTitle"><a class="search-js" href="/w/eng/excel_in/#keyfrom=dict.basic.wordgroup">excel in</a></span>
+                                                                                                        v. 在……方面胜过；在……方面很擅长
                                                                   </p>
                                                                                                             <p class="wordGroup">
-                                            <span class="contentTitle"><a class="search-js" href="/w/eng/driving_force/#keyfrom=dict.basic.wordgroup">driving force</a></span>
-                                                                                                        驱动力，推动力
+                                            <span class="contentTitle"><a class="search-js" href="/w/eng/excel_at/#keyfrom=dict.basic.wordgroup">excel at</a></span>
+                                                                                                        突出；擅长于
                                                                   </p>
-                                                                                                            <p class="wordGroup">
-                                            <span class="contentTitle"><a class="search-js" href="/w/eng/in_force/#keyfrom=dict.basic.wordgroup">in force</a></span>
-                                                                                                        有效的；大批地；大规模地
-                                                                  </p>
-                                                                                                            <p class="wordGroup">
-                                            <span class="contentTitle"><a class="search-js" href="/w/eng/labour_force/#keyfrom=dict.basic.wordgroup">labour force</a></span>
-                                                                                                        n. 劳动力
-                                                                  </p>
-                                                                                                            <p class="wordGroup">
-                                            <span class="contentTitle"><a class="search-js" href="/w/eng/labor_force/#keyfrom=dict.basic.wordgroup">labor force</a></span>
-                                                                                                        劳动力
-                                                                  </p>
-                                                                                                            <p class="wordGroup collapse">
-                                            <span class="contentTitle"><a class="search-js" href="/w/eng/air_force/#keyfrom=dict.basic.wordgroup">air force</a></span>
-                                                                                                        空军
-                                                                  </p>
-                                                                                                            <p class="wordGroup collapse">
-                                            <span class="contentTitle"><a class="search-js" href="/w/eng/motive_force/#keyfrom=dict.basic.wordgroup">motive force</a></span>
-                                                                                                        动力；起动力，原动力
-                                                                  </p>
-                                                                                                            <p class="wordGroup collapse">
-                                            <span class="contentTitle"><a class="search-js" href="/w/eng/force_on/#keyfrom=dict.basic.wordgroup">force on</a></span>
-                                                                                                        强加于， 强迫...接受
-                                                                  </p>
-                                                                                                            <p class="wordGroup collapse">
-                                            <span class="contentTitle"><a class="search-js" href="/w/eng/main_force/#keyfrom=dict.basic.wordgroup">main force</a></span>
-                                                                                                        主力；主力军；主力部队
-                                                                  </p>
-                                                                                                            <p class="wordGroup collapse">
-                                            <span class="contentTitle"><a class="search-js" href="/w/eng/internal_force/#keyfrom=dict.basic.wordgroup">internal force</a></span>
-                                                                                                        内力
-                                                                  </p>
-                                                                                                            <p class="wordGroup collapse">
-                                            <span class="contentTitle"><a class="search-js" href="/w/eng/cutting_force/#keyfrom=dict.basic.wordgroup">cutting force</a></span>
-                                                                                                        切削力；割削力
-                                                                  </p>
-                                                                                                            <p class="wordGroup collapse">
-                                            <span class="contentTitle"><a class="search-js" href="/w/eng/force_majeure/#keyfrom=dict.basic.wordgroup">force majeure</a></span>
-                                                                                                        不可抗力
-                                                                  </p>
-                                                                                                            <p class="wordGroup collapse">
-                                            <span class="contentTitle"><a class="search-js" href="/w/eng/centrifugal_force/#keyfrom=dict.basic.wordgroup">centrifugal force</a></span>
-                                                                                                        离心力；地心引力
-                                                                  </p>
-                                                                                                            <p class="wordGroup collapse">
-                                            <span class="contentTitle"><a class="search-js" href="/w/eng/axial_force/#keyfrom=dict.basic.wordgroup">axial force</a></span>
-                                                                                                        轴向力
-                                                                  </p>
-                                                                                                            <p class="wordGroup collapse">
-                                            <span class="contentTitle"><a class="search-js" href="/w/eng/task_force/#keyfrom=dict.basic.wordgroup">task force</a></span>
-                                                                                                        特遣部队；特别小组
-                                                                  </p>
-                                                                                                            <p class="wordGroup collapse">
-                                            <span class="contentTitle"><a class="search-js" href="/w/eng/sales_force/#keyfrom=dict.basic.wordgroup">sales force</a></span>
-                                                                                                        销售力量，推销人员
-                                                                  </p>
-                                                                                                            <p class="wordGroup collapse">
-                                            <span class="contentTitle"><a class="search-js" href="/w/eng/work_force/#keyfrom=dict.basic.wordgroup">work force</a></span>
-                                                                                                        n. 劳动力，劳动大军；劳动人口；（工厂等在职的）工人总数；职工总数
-                                                                  </p>
-                                                                                                            <p class="wordGroup collapse">
-                                            <span class="contentTitle"><a class="search-js" href="/w/eng/magnetic_force/#keyfrom=dict.basic.wordgroup">magnetic force</a></span>
-                                                                                                        [物]磁力
-                                                                  </p>
-                                                                                                            <p class="wordGroup collapse">
-                                            <span class="contentTitle"><a class="search-js" href="/w/eng/police_force/#keyfrom=dict.basic.wordgroup">police force</a></span>
-                                                                                                        警察；警察机关
-                                                                  </p>
-                                                                                                            <p class="wordGroup collapse">
-                                            <span class="contentTitle"><a class="search-js" href="/w/eng/friction_force/#keyfrom=dict.basic.wordgroup">friction force</a></span>
-                                                                                                        摩擦力
-                                                                  </p>
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              <div class="more"><a href="#" class="sp more_sp">&nbsp;</a>
-        <span class="show_more">更多</span><span
-        class="show_less">收起</span>词组短语
-        </div>
-              </div>
+                                      </div>
         </div>
   <div id="baidu-adv"></div>
   
@@ -1847,7 +790,7 @@ class="show_less">收起</span>词组短语
 var _rlog = _rlog || [];
 _rlog.push(["_setAccount" , "dictweb"]);
 _rlog.push(["_addPost" , "page" , "search"]);
-_rlog.push(["_addPost" , "q" , "force"]);
+_rlog.push(["_addPost" , "q" , "excel"]);
 </script>
 <script defer src="https://shared.ydstatic.com/js/rlog/v1.js"></script>
 <!-- START NetEase Devilfish 2006 -->
