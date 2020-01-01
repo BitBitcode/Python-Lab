@@ -14,7 +14,7 @@ time.sleep(5) #睡5秒确保页面加载完成
 data = driver.find_element_by_id("j-coursehead").text
 print("原始爬到的数据：",data)
 
-#由于获取精确的不成功，获取了上级的，所以信息较多，要筛选，用切片函数
+#由于获取精确的不成功，获取了上级的，所以信息较多，要筛选，用切片技术
 a = data.find("\n")  #找到第一个换行符
 b = data[a+1:].find("\n")  #找到第二个换行符
 new_data = data[a+1:a+1+b]  #取两个换行符之间的部分，即学过人数
