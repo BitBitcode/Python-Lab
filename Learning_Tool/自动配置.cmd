@@ -8,7 +8,7 @@ if EXIST learning.py (
     echo 网页代码运行助手已启动！
 ) else (
     echo 当前路径没有文件，重新引导至默认位置。。。
-    cd C:\Users\smile\Documents\Visual Studio Code\Python_Code\Learning Tool
+    cd C:\GitHub\Python-Lab\Learning_Tool
     echo 路径已引导
     if EXIST learning.py (
         python learning.py
