@@ -3,7 +3,10 @@
 from bs4 import BeautifulSoup
 import requests
 
+#doc_in=open("Input.txt", "r", encoding='utf-8')
+#word_list =""
 word = input("输入查询单词：")
+
 url = "http://www.youdao.com/w/eng/" + word
 
 web_data = requests.get(url).text
