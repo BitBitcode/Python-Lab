@@ -1,19 +1,32 @@
 file_object = open("C:\\GitHub\\Python-Lab\\文件操作\\source.txt",
                    mode="r", encoding="utf-8")
 
-content = "0"    # 【字符型变量】定义 content 为接收所有读取结果的变量
-text = "0"       # 【字符型变量】定义 text 为接收单行读取结果的变量
+content = "X"    # 【字符型变量】定义 content 为接收所有读取结果的变量
+text = "X"       # 【字符型变量】定义 text 为接收单行读取结果的变量
 
 
 # content = file_object.read()        # read()读取一定数目的数据，括号内的参数为读取字节长度，省略则全部读取
 # content = file_object.readline()    # 将读取一行
 # content = file_object.readlines()   # 将返回该文件中包含的所有行。括号内的参数为读取字节长度，并且将这些字节按行分割。
 
-text = file_object.readline()
+# text = file_object.readline()
 # 【注意】读取操作如果进行了多次，第二次读取的时候其实指针位置已经不在开头了，需要十分注意！
 
 # print("全部读取结果为：\n" + content + "\n")
-print("单行读取：\n" + text + "\n")
+# print("单行读取：\n" + text + "\n")
+
+
+# 业务代码开始（以求和为例）
+sum = 0
+num = 0
+
+for text in file_object:
+    num = int(text)         # 一定要转换数据类型（直接读取到的是字符串类型）
+    print("读取：", num)
+    sum = sum + num
+
+print("求和结果为：", sum)
+# 业务代码结束
 
 
 # 最后必须做关闭文件的处理
