@@ -1,0 +1,1034 @@
+【记录】
+{'User-Agent': 'python-requests/2.23.0', 'Accept-Encoding': 'gzip, deflate', 'Accept': '*/*', 'Connection': 'keep-alive'}
+运行时间：2020-02-25 15:29:39
+
+【记录】位置：0
+{'User-Agent': 'python-requests/2.23.0', 'Accept-Encoding': 'gzip, deflate', 'Accept': '*/*', 'Connection': 'keep-alive'}
+运行时间：2020-02-25 16:11:23
+
+【记录】位置：0
+{'User-Agent': 'python-requests/2.23.0', 'Accept-Encoding': 'gzip, deflate', 'Accept': '*/*', 'Connection': 'keep-alive'}
+运行时间：2020-02-25 16:11:47
+
+【记录】位置：0
+{'User-Agent': 'python-requests/2.23.0', 'Accept-Encoding': 'gzip, deflate', 'Accept': '*/*', 'Connection': 'keep-alive'}
+运行时间：2020-02-25 16:14:17
+
+【记录】位置：0
+占个位置
+运行时间：2020-02-25 16:14:17
+
+【记录】位置：0
+{'User-Agent': 'python-requests/2.23.0', 'Accept-Encoding': 'gzip, deflate', 'Accept': '*/*', 'Connection': 'keep-alive'}
+运行时间：2020-02-25 16:21:02
+
+【记录】位置：1
+{'User-Agent': 'python-requests/2.23.0', 'Accept-Encoding': 'gzip, deflate', 'Accept': '*/*', 'Connection': 'keep-alive'}
+运行时间：2020-02-25 16:28:37
+
+【记录】位置：2
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0, minimum-scale=1.0, maximum-scale=1.0, user-scalable=no">
+<meta http-equiv="Cache-Control" content="no-transform">
+<meta http-equiv="Content-Security-Policy" content="upgrade-insecure-requests">
+<meta name="theme-color" content="#ff3385">
+<meta property="og:image" content="https://static.vmgirls.com/images/bingo.JPG">
+<meta name="msapplication-TileColor" content="#ff3385">
+<meta name="wap-font-scale" content="no">
+<meta http-equiv="X-UA-Compatible" content="IE=9, IE=8;IE=7, IE=EDGE, chrome=1">
+<title>秋日温柔，人间理想 丨 唯美女生</title>
+<meta name="keywords" content="小姐姐,小清新,少女,摄影,日系,清纯,甜美,青春">
+<meta name="description" content="◎摄影/后期：@萌琦琦M77 - - - - - - - - 秋日温柔，人间理想。">
+<link rel="dns-prefetch" href="//qzonestyle.gtimg.cn">
+<link rel="dns-prefetch" href="//hm.baidu.com">
+<link rel="dns-prefetch" href="//www.google-analytics.com">
+<link rel="alternate" type="application/rss+xml" title="唯美女生 » Feed" href="https://www.vmgirls.com/feed">
+<link rel="alternate" type="application/rss+xml" title="唯美女生 » 评论Feed" href="https://www.vmgirls.com/comments/feed">
+<link rel="stylesheet" id="wp-block-library-css" href="https://static.vmgirls.com/wp-includes/css/dist/block-library/style.min.css?ver=5.3.2" type="text/css" media="all">
+<link rel="stylesheet" id="jimu-css-css" href="https://static.vmgirls.com/wp-content/plugins/nicetheme-jimu/modules/jimu.css?ver=1.0" type="text/css" media="all">
+<link rel="stylesheet" id="ncHighlightCss-css" href="https://static.vmgirls.com/wp-content/plugins/nicetheme-jimu/modules/base/assets/highlight/styles/a11y-dark.css?ver=1.0" type="text/css" media="all">
+<link rel="stylesheet" id="ncLightgalleryCss-css" href="https://static.vmgirls.com/wp-content/plugins/nicetheme-jimu/modules/base/assets/lightGallery/css/lightgallery.min.css?ver=1.0" type="text/css" media="all">
+<link rel="stylesheet" id="font-awesome-css" href="https://static.vmgirls.com/wp-content/plugins/nicetheme-module-nice-fontawesome/assets/css/fontawesome.min.css?ver=5.3.2" type="text/css" media="all">
+<link rel="stylesheet" id="font-awesome-brands-css" href="https://static.vmgirls.com/wp-content/plugins/nicetheme-module-nice-fontawesome/assets/css/brands.min.css?ver=5.3.2" type="text/css" media="all">
+<link rel="stylesheet" id="font-awesome-solid-css" href="https://static.vmgirls.com/wp-content/plugins/nicetheme-module-nice-fontawesome/assets/css/solid.min.css?ver=5.3.2" type="text/css" media="all">
+<link rel="stylesheet" id="font-awesome-regular-css" href="https://static.vmgirls.com/wp-content/plugins/nicetheme-module-nice-fontawesome/assets/css/regular.min.css?ver=5.3.2" type="text/css" media="all">
+<link rel="stylesheet" id="nicetheme-iconfont-css" href="https://static.vmgirls.com/wp-content/themes/Cosy/fonts/iconfont.css?ver=5.3.2" type="text/css" media="all">
+<link rel="stylesheet" id="nicetheme-nicetheme-css" href="https://static.vmgirls.com/wp-content/themes/Cosy/css/nicetheme.css?ver=5.3.2" type="text/css" media="all">
+<link rel="stylesheet" id="nicetheme-banner-css" href="https://static.vmgirls.com/wp-content/themes/Cosy/css/owl.carousel.css?ver=5.3.2" type="text/css" media="all">
+<link rel="stylesheet" id="nicetheme-style-css" href="https://static.vmgirls.com/wp-content/themes/Cosy/style.css?ver=5.3.2" type="text/css" media="all">
+<style id="rocket-lazyload-inline-css" type="text/css">.rll-youtube-player{position:relative;padding-bottom:56.23%;height:0;overflow:hidden;max-width:100%}.rll-youtube-player iframe{position:absolute;top:0;left:0;width:100%;height:100%;z-index:100;background:0 0}.rll-youtube-player img{bottom:0;display:block;left:0;margin:auto;max-width:100%;width:100%;position:absolute;right:0;top:0;border:none;height:auto;cursor:pointer;-webkit-transition:.4s all;-moz-transition:.4s all;transition:.4s all}.rll-youtube-player img:hover{-webkit-filter:brightness(75%)}.rll-youtube-player .play{height:72px;width:72px;left:50%;top:50%;margin-left:-36px;margin-top:-36px;position:absolute;background:url(https://static.vmgirls.com/wp-content/plugins/wp-rocket/assets/img/youtube.png) no-repeat;cursor:pointer}</style>
+<script type="text/javascript">/* <![CDATA[ */ var globals = {"ajax_url":"https:\/\/www.vmgirls.com\/wp-admin\/admin-ajax.php","url_theme":"https:\/\/www.vmgirls.com\/wp-content\/themes\/Cosy","site_url":"https:\/\/www.vmgirls.com","post_id":"12985"};
+var __cosy__ = {"load_more":"\u52a0\u8f7d\u66f4\u591a","reached_the_end":"\u6ca1\u6709\u66f4\u591a\u5185\u5bb9","thank_you":"\u8c22\u8c22\u70b9\u8d5e","success":"\u64cd\u4f5c\u6210\u529f","cancelled":"\u53d6\u6d88\u70b9\u8d5e"};
+var toc = {"tag":"0"}; /* ]]> */</script><script type="text/javascript" src="https://static.vmgirls.com/wp-includes/js/jquery/jquery.js?ver=1.12.4-wp"></script><script type="text/javascript" src="https://static.vmgirls.com/wp-includes/js/jquery/jquery-migrate.min.js?ver=1.4.1" defer></script><link rel="canonical" href="https://www.vmgirls.com/12985.html">
+<style type="text/css">.broken_link,a.broken_link{text-decoration:line-through}</style>
+<link rel="miphtml" href="https://www.vmgirls.com/12985.html/mip">
+<link rel="icon" href="https://static.vmgirls.com/image/2019/10/cropped-zlogo-1-1-32x32.png" sizes="32x32">
+<link rel="icon" href="https://static.vmgirls.com/image/2019/10/cropped-zlogo-1-1-192x192.png" sizes="192x192">
+<link rel="apple-touch-icon-precomposed" href="https://static.vmgirls.com/image/2019/10/cropped-zlogo-1-1-180x180.png">
+<meta name="msapplication-TileImage" content="https://static.vmgirls.com/image/2019/10/cropped-zlogo-1-1-270x270.png">
+<noscript><style id="rocket-lazyload-nojs-css">.rll-youtube-player,[data-lazy-src]{display:none!important}</style></noscript>
+</head>
+<body class="post-template-default single single-post postid-12985 single-format-gallery nice-style-radius nice-style-shadow nice-style-border nice-style-hover ">
+<header class="header"><nav class="navbar navbar-expand-md "><div class="container"> <a href="https://www.vmgirls.com/" rel="home" class="navbar-brand m-0 order-1"> <img src="https://static.vmgirls.com/image/2019/02/logo.png" class="nc-no-lazy" alt="唯美女生"></a><ul class="nav nav-submenu align-items-center flex-row flex-shrink-0 order-2 order-md-3">
+<li class="nav-item"> <a href="#" class="nav-link search-popup px-2 mr-2"><i class="text-lg iconfont icon-search"></i></a>
+</li>
+<li class="nav-item d-none d-lg-inline-block"> <a href="https://www.vmgirls.com/history.html" class="nav-link px-2 mr-2" target="_blank"><i class="text-lg iconfont icon-time"></i></a>
+</li>
+<li class="nav-item d-lg-none"> <a href="#" id="sidebar-mobile-trigger" class="nav-link px-2 mr-3"><i class="text-lg iconfont icon-menu"></i></a>
+</li>
+</ul>
+<div class="collapse navbar-collapse show navbar-scroll order-3 order-md-2 mx-md-4">
+<ul class="navbar-nav main-menu d-none d-lg-flex mr-auto px-4">
+<li id="menu-item-10941" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-home menu-item-10941"><a class="nav-link" target="_blank" rel="noopener noreferrer" href="https://www.vmgirls.com/">首页</a></li>
+<li id="menu-item-10948" class="menu-item menu-item-type-taxonomy menu-item-object-special menu-item-has-children menu-item-10948">
+<a class="nav-link" href="https://www.vmgirls.com/special/%e8%bd%bb%e7%a7%81%e6%88%bf">专题推荐</a><ul class="sub-menu">
+<li id="menu-item-10957" class="menu-item menu-item-type-taxonomy menu-item-object-special menu-item-10957"><a class="nav-link" target="_blank" rel="noopener noreferrer" href="https://www.vmgirls.com/special/%e8%bd%bb%e7%a7%81%e6%88%bf">轻私房</a></li>
+<li id="menu-item-10976" class="menu-item menu-item-type-taxonomy menu-item-object-special menu-item-10976"><a class="nav-link" target="_blank" rel="noopener noreferrer" href="https://www.vmgirls.com/special/%e5%b0%8f%e5%a7%90%e5%a7%90">小姐姐</a></li>
+</ul>
+</li>
+<li id="menu-item-10943" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-10943"><a class="nav-link" target="_blank" rel="noopener noreferrer" href="https://www.vmgirls.com/photography">摄影写真</a></li>
+<li id="menu-item-10944" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-10944"><a class="nav-link" target="_blank" rel="noopener noreferrer" href="https://www.vmgirls.com/campus">校园美女</a></li>
+<li id="menu-item-10945" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-10945"><a class="nav-link" target="_blank" rel="noopener noreferrer" href="https://www.vmgirls.com/fresh">清新美女</a></li>
+<li id="menu-item-10946" class="menu-item menu-item-type-taxonomy menu-item-object-category current-post-ancestor current-menu-parent current-post-parent menu-item-10946"><a class="nav-link" target="_blank" rel="noopener noreferrer" href="https://www.vmgirls.com/pure">清纯少女</a></li>
+<li id="menu-item-10947" class="menu-item menu-item-type-taxonomy menu-item-object-post_tag menu-item-10947"><a class="nav-link" target="_blank" rel="noopener noreferrer" href="https://www.vmgirls.com/tag/beauty">小姐姐</a></li>
+<li id="menu-item-11171" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-11171"><a class="nav-link" target="_blank" rel="noopener noreferrer" href="https://www.vmgirls.com/sitemap.shtml">网站地图</a></li>
+<li id="menu-item-10942" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-10942"><a class="nav-link" target="_blank" rel="noopener noreferrer" href="https://www.vmgirls.com/about-us.html">关于</a></li>
+</ul>
+<ul class="navbar-nav mobile-menu flex-row d-lg-none">
+<li id="menu-item-7839" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-home menu-item-7839"><a class="nav-link" target="_blank" rel="noopener noreferrer" href="https://www.vmgirls.com/">首页</a></li>
+<li id="menu-item-10960" class="menu-item menu-item-type-taxonomy menu-item-object-post_tag menu-item-10960"><a class="nav-link" href="https://www.vmgirls.com/tag/%e5%b0%8f%e6%b8%85%e6%96%b0">小清新</a></li>
+<li id="menu-item-10961" class="menu-item menu-item-type-taxonomy menu-item-object-post_tag menu-item-10961"><a class="nav-link" href="https://www.vmgirls.com/tag/beauty">小姐姐</a></li>
+<li id="menu-item-10962" class="menu-item menu-item-type-taxonomy menu-item-object-post_tag menu-item-10962"><a class="nav-link" href="https://www.vmgirls.com/tag/%e6%97%a5%e7%b3%bb">日系</a></li>
+<li id="menu-item-10963" class="menu-item menu-item-type-taxonomy menu-item-object-post_tag menu-item-10963"><a class="nav-link" href="https://www.vmgirls.com/tag/%e6%91%84%e5%bd%b1">摄影</a></li>
+<li id="menu-item-10964" class="menu-item menu-item-type-taxonomy menu-item-object-post_tag menu-item-10964"><a class="nav-link" href="https://www.vmgirls.com/tag/%e9%9d%92%e6%98%a5">青春</a></li>
+<li id="menu-item-11170" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-11170"><a class="nav-link" target="_blank" rel="noopener noreferrer" href="https://www.vmgirls.com/sitemap.shtml">网站地图</a></li>
+<li id="menu-item-7838" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-7838"><a class="nav-link" target="_blank" rel="noopener noreferrer" href="https://www.vmgirls.com/about-us.html">关于</a></li>
+</ul>
+</div>
+</div></nav></header><main class="py-4 py-md-5"><div class="container">
+<div class="d-none d-md-block breadcrumbs mb-3 mb-md-4">
+<span itemprop="itemListElement"><a href="https://www.vmgirls.com/" itemprop="item" class="home"><span itemprop="name" class="text-muted">首页</span></a></span> <span class="sep">›</span> <span itemprop="itemListElement"><a href="https://www.vmgirls.com/pure" itemprop="item"><span itemprop="name" class="text-muted">清纯少女</span></a></span> <span class="sep">›</span> <span class="current">秋日温柔，人间理想</span>
+</div>
+<div class="row no-gutters">
+<div class="col-12 col-lg-9 pr-lg-5"><div class="post">
+<div class="post-cover mb-4"><div class="media media-3x1"><div class="media-content" style='background-image:url("data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7")' data-bg="url('https://static.vmgirls.com/image/2019/10/8FC5182A-1C7C-467C-8C5D-0618D825C1AF-1-scaled.jpeg')" data-nclazyload="true"></div></div></div>
+<h1 class="post-title h3">秋日温柔，人间理想</h1>
+<div class="post-meta d-flex align-items-center flex-row text-muted my-3 my-md-4">
+<div class="d-flex flex-fill align-items-center">
+<div class="author-popup flex-avatar w-40"> <img alt="" src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" class="avatar avatar-40 photo w-40" height="40" width="40" data-src="//gravatar.loli.net/avatar/eb7f91a393b6c689e33a150bece47276?s=40&amp;d=https%3A%2F%2Fwww.vmgirls.com%2Fimage%2F2019%2F02%2FIMG_54681.jpg&amp;r=g" data-nclazyload="true" data-srcset="//gravatar.loli.net/avatar/eb7f91a393b6c689e33a150bece47276?s=80&amp;d=https%3A%2F%2Fwww.vmgirls.com%2Fimage%2F2019%2F02%2FIMG_54681.jpg&amp;r=g 2x">
+</div>
+<div class="author-name d-flex flex-wrap flex-column mx-2 mx-md-3">
+<div class="text-md"><a href="#" class="author-popup">佩佩</a></div>
+<div class="text-xs text-muted"> <time class="date mr-1">4月前</time><i class="d-none d-md-inline-block">发布在</i> <a class="text-secondary" href="https://www.vmgirls.com/pure" rel="category tag" target="_blank">清纯少女</a>
+</div>
+</div>
+</div>
+<div class="post-data d-none d-md-flex text-nowrap text-md "> <span class="mx-1 mx-md-2"> <i class="text-lg iconfont icon-preview"></i> <small class="font-theme">1,801</small> </span> <span class="mx-1 mx-md-2"> <a class=" post-like" href="javascript:;" data-action="like" data-id="12985"> <i class="text-lg iconfont icon-like"></i> <small class="like-count font-theme">114</small> </a> </span>
+</div>
+</div>
+<div class="border-top py-2 py-md-3"></div>
+<div class="post-content"><div class="nc-light-gallery"><ul><li>◎摄影/后期：@萌琦琦M77<br> – – – – – – – –<br> 秋日温柔，人间理想。<br><a href="https://static.vmgirls.com/image/2019/10/470B6B0D-609A-4A84-A533-351AF30F3927-1-scaled.jpeg" alt="秋日温柔，人间理想" title="秋日温柔，人间理想"><img alt="秋日温柔，人间理想-唯美女生" src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" data-src="https://static.vmgirls.com/image/2019/10/470B6B0D-609A-4A84-A533-351AF30F3927-1-scaled.jpeg" data-nclazyload="true"></a> <a href="https://static.vmgirls.com/image/2019/10/E5F964DF-BEC8-4399-90FF-5131A1D5F406-1-scaled.jpeg" alt="秋日温柔，人间理想" title="秋日温柔，人间理想"><img alt="秋日温柔，人间理想-唯美女生" src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" data-src="https://static.vmgirls.com/image/2019/10/E5F964DF-BEC8-4399-90FF-5131A1D5F406-1-scaled.jpeg" data-nclazyload="true"></a> <a href="https://static.vmgirls.com/image/2019/10/5665E6D5-DF9B-475F-AAC8-DD9F689B71A9-1-scaled.jpeg" alt="秋日温柔，人间理想" title="秋日温柔，人间理想"><img alt="秋日温柔，人间理想-唯美女生" src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" data-src="https://static.vmgirls.com/image/2019/10/5665E6D5-DF9B-475F-AAC8-DD9F689B71A9-1-scaled.jpeg" data-nclazyload="true"></a> <a href="https://static.vmgirls.com/image/2019/10/8FC5182A-1C7C-467C-8C5D-0618D825C1AF-1-scaled.jpeg" alt="秋日温柔，人间理想" title="秋日温柔，人间理想"><img alt="秋日温柔，人间理想-唯美女生" src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" data-src="https://static.vmgirls.com/image/2019/10/8FC5182A-1C7C-467C-8C5D-0618D825C1AF-1-scaled.jpeg" data-nclazyload="true"></a> <a href="https://static.vmgirls.com/image/2019/10/90DBAC73-6785-4653-9E7D-6EABBCEE3134-1-scaled.jpeg" alt="秋日温柔，人间理想" title="秋日温柔，人间理想"><img alt="秋日温柔，人间理想-唯美女生" src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" data-src="https://static.vmgirls.com/image/2019/10/90DBAC73-6785-4653-9E7D-6EABBCEE3134-1-scaled.jpeg" data-nclazyload="true"></a> <a href="https://static.vmgirls.com/image/2019/10/E1DF3578-2865-430B-9518-AA7EB7C05459-1-scaled.jpeg" alt="秋日温柔，人间理想" title="秋日温柔，人间理想"><img alt="秋日温柔，人间理想-唯美女生" src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" data-src="https://static.vmgirls.com/image/2019/10/E1DF3578-2865-430B-9518-AA7EB7C05459-1-scaled.jpeg" data-nclazyload="true"></a> <a href="https://static.vmgirls.com/image/2019/10/FDF53E13-D836-4E4D-B1E1-28555D3EBBE4-1-scaled.jpeg" alt="秋日温柔，人间理想" title="秋日温柔，人间理想"><img alt="秋日温柔，人间理想-唯美女生" src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" data-src="https://static.vmgirls.com/image/2019/10/FDF53E13-D836-4E4D-B1E1-28555D3EBBE4-1-scaled.jpeg" data-nclazyload="true"></a> <a href="https://static.vmgirls.com/image/2019/10/A67B2C2E-CF20-42A2-B00C-D09BEBDB6D69-1-scaled.jpeg" alt="秋日温柔，人间理想" title="秋日温柔，人间理想"><img alt="秋日温柔，人间理想-唯美女生" src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" data-src="https://static.vmgirls.com/image/2019/10/A67B2C2E-CF20-42A2-B00C-D09BEBDB6D69-1-scaled.jpeg" data-nclazyload="true"></a> <a href="https://static.vmgirls.com/image/2019/10/14BB45B2-0FCD-4502-BE4F-AC4DC3C2B772-1-scaled.jpeg" alt="秋日温柔，人间理想" title="秋日温柔，人间理想"><img alt="秋日温柔，人间理想-唯美女生" src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" data-src="https://static.vmgirls.com/image/2019/10/14BB45B2-0FCD-4502-BE4F-AC4DC3C2B772-1-scaled.jpeg" data-nclazyload="true"></a> <a href="https://static.vmgirls.com/image/2019/10/A15D1787-CB78-4EAE-A44E-FB725E7E7344-1-scaled.jpeg" alt="秋日温柔，人间理想" title="秋日温柔，人间理想"><img alt="秋日温柔，人间理想-唯美女生" src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" data-src="https://static.vmgirls.com/image/2019/10/A15D1787-CB78-4EAE-A44E-FB725E7E7344-1-scaled.jpeg" data-nclazyload="true"></a> <a href="https://static.vmgirls.com/image/2019/10/31187C1E-1EA1-4B18-A196-D311A122D012-1-scaled.jpeg" alt="秋日温柔，人间理想" title="秋日温柔，人间理想"><img alt="秋日温柔，人间理想-唯美女生" src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" data-src="https://static.vmgirls.com/image/2019/10/31187C1E-1EA1-4B18-A196-D311A122D012-1-scaled.jpeg" data-nclazyload="true"></a> <a href="https://static.vmgirls.com/image/2019/10/FCFD06E3-B94D-49D0-8195-D750CE1D8827-1-scaled.jpeg" alt="秋日温柔，人间理想" title="秋日温柔，人间理想"><img alt="秋日温柔，人间理想-唯美女生" src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" data-src="https://static.vmgirls.com/image/2019/10/FCFD06E3-B94D-49D0-8195-D750CE1D8827-1-scaled.jpeg" data-nclazyload="true"></a> <a href="https://static.vmgirls.com/image/2019/10/762D97D1-17E1-4928-8F7D-DCE7C0093C38-1-scaled.jpeg" alt="秋日温柔，人间理想" title="秋日温柔，人间理想"><img alt="秋日温柔，人间理想-唯美女生" src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" data-src="https://static.vmgirls.com/image/2019/10/762D97D1-17E1-4928-8F7D-DCE7C0093C38-1-scaled.jpeg" data-nclazyload="true"></a> <a href="https://static.vmgirls.com/image/2019/10/1DC490C0-F289-4B01-A8AD-61F86B0179EE-1-scaled.jpeg" alt="秋日温柔，人间理想" title="秋日温柔，人间理想"><img alt="秋日温柔，人间理想-唯美女生" src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" data-src="https://static.vmgirls.com/image/2019/10/1DC490C0-F289-4B01-A8AD-61F86B0179EE-1-scaled.jpeg" data-nclazyload="true"></a> <a href="https://static.vmgirls.com/image/2019/10/DCEA6769-86EB-4118-A317-A4D31B13CA31-1-scaled.jpeg" alt="秋日温柔，人间理想" title="秋日温柔，人间理想"><img alt="秋日温柔，人间理想-唯美女生" src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" data-src="https://static.vmgirls.com/image/2019/10/DCEA6769-86EB-4118-A317-A4D31B13CA31-1-scaled.jpeg" data-nclazyload="true"></a> <a href="https://static.vmgirls.com/image/2019/10/6FCC04DD-B7E1-493F-9834-BE221DD085CE-1-scaled.jpeg" alt="秋日温柔，人间理想" title="秋日温柔，人间理想"><img alt="秋日温柔，人间理想-唯美女生" src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" data-src="https://static.vmgirls.com/image/2019/10/6FCC04DD-B7E1-493F-9834-BE221DD085CE-1-scaled.jpeg" data-nclazyload="true"></a> <a href="https://static.vmgirls.com/image/2019/10/4CEA267D-B604-4D61-AC0F-A9839BB63DF5-1-scaled.jpeg" alt="秋日温柔，人间理想" title="秋日温柔，人间理想"><img alt="秋日温柔，人间理想-唯美女生" src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" data-src="https://static.vmgirls.com/image/2019/10/4CEA267D-B604-4D61-AC0F-A9839BB63DF5-1-scaled.jpeg" data-nclazyload="true"></a> <a href="https://static.vmgirls.com/image/2019/10/87C29B66-ECC0-492F-8F01-BBC1C9412D2D-1-scaled.jpeg" alt="秋日温柔，人间理想" title="秋日温柔，人间理想"><img alt="秋日温柔，人间理想-唯美女生" src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" data-src="https://static.vmgirls.com/image/2019/10/87C29B66-ECC0-492F-8F01-BBC1C9412D2D-1-scaled.jpeg" data-nclazyload="true"></a>
+</li></ul></div></div>
+<section class="list-sales d-none d-lg-block"><a href="https://url.cn/5g9yxEw" target="_blank"><img src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" data-src="https://static.vmgirls.com/image/2020/02/2020021018120696.jpg" data-nclazyload="true"></a></section><section class="list-sales d-lg-none"><a href="https://url.cn/5g9yxEw" target="_blank"><img src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" data-src="https://static.vmgirls.com/image/2020/02/2020021018123032.jpg" data-nclazyload="true"></a></section><div class="post-tags mt-3 mt-md-4"> <a href="https://www.vmgirls.com/tag/beauty" rel="tag">小姐姐</a><a href="https://www.vmgirls.com/tag/%e5%b0%8f%e6%b8%85%e6%96%b0" rel="tag">小清新</a><a href="https://www.vmgirls.com/tag/%e5%b0%91%e5%a5%b3" rel="tag">少女</a><a href="https://www.vmgirls.com/tag/%e6%91%84%e5%bd%b1" rel="tag">摄影</a><a href="https://www.vmgirls.com/tag/%e6%97%a5%e7%b3%bb" rel="tag">日系</a><a href="https://www.vmgirls.com/tag/%e6%b8%85%e7%ba%af" rel="tag">清纯</a><a href="https://www.vmgirls.com/tag/%e7%94%9c%e7%be%8e" rel="tag">甜美</a><a href="https://www.vmgirls.com/tag/%e9%9d%92%e6%98%a5" rel="tag">青春</a>
+</div>
+<div class="hr-short"></div>
+<div class="post-declare mt-3 mt-md-4"><p>本文系作者 @<a href="https://www.vmgirls.com/author/girls" title="由佩佩发布" rel="author">佩佩</a> 原创发布在 唯美女生。未经许可，禁止转载。</p></div>
+<div id="post-action" class="post-action pt-5">
+<div class="d-none d-md-block text-center"> <a href="javascript:" data-action="like" data-id="12985" class=" post-like btn btn-light btn-xl btn-icon btn-rounded mx-1"><span class="flex-column text-height-xs"><i class="text-lg iconfont icon-like_fill"></i><small class="font-theme like-count">114</small></span></a>
+</div>
+<div class="d-md-none text-center mb-3"> <span class="d-inline-block w-80 border-bottom border-light mb-1"></span> <span class="font-theme text-xs text-muted mx-2">分享本文</span> <span class="d-inline-block w-80 border-bottom border-light mb-1"></span>
+</div>
+<div class="d-md-flex flex-md-fill align-items-md-center text-center mt-md-5"> <a class="d-none d-md-inline-block " id="btn-bigger-cover" href="javascript:;" data-id="12985"> <i class="text-xl text-height-xs iconfont icon-zhuanfa-"></i> </a><div class="flex-md-fill"></div>
+<div class="post-social"> <a href="//service.weibo.com/share/share.php?url=https%3A%2F%2Fwww.vmgirls.com%2F12985.html&amp;type=button&amp;language=zh_cn&amp;title=%E3%80%90%E7%A7%8B%E6%97%A5%E6%B8%A9%E6%9F%94%EF%BC%8C%E4%BA%BA%E9%97%B4%E7%90%86%E6%83%B3%E3%80%91%E2%97%8E%E6%91%84%E5%BD%B1%2F%E5%90%8E%E6%9C%9F%EF%BC%9A%40%E8%90%8C%E7%90%A6%E7%90%A6M77%0A%26%238211%3B+%26%238211%3B+%26%238211%3B+%26%238211%3B+%26%238211%3B+%26%238211%3B+%26%238211%3B+%26%238211%3B%0A%E7%A7%8B%E6%97%A5%E6%B8%A9%E6%9F%94%EF%BC%8C%E4%BA%BA%E9%97%B4%E7%90%86%E6%83%B3%E3%80%82%0A...&amp;searchPic=true" target="_blank" class="btn btn-light btn-icon btn-weibo btn-rounded btn-md"><span><i class="iconfont icon-weibo"></i></span></a> <a href="javascript:" class="btn btn-light btn-icon btn-weixin single-popup btn-rounded btn-md" data-img="https://www.vmgirls.com/wp-content/themes/Cosy/modules/qrcode.php?data=https%3A%2F%2Fwww.vmgirls.com%2F12985.html" data-title="微信扫一扫 分享朋友圈" data-desc="在微信内长按二维码"><span><i class="iconfont icon-wechat"></i></span></a> <a href="https://connect.qq.com/widget/shareqq/index.html?url=https%3A%2F%2Fwww.vmgirls.com%2F12985.html&amp;title=%E7%A7%8B%E6%97%A5%E6%B8%A9%E6%9F%94%EF%BC%8C%E4%BA%BA%E9%97%B4%E7%90%86%E6%83%B3&amp;summary=%E2%97%8E%E6%91%84%E5%BD%B1%2F%E5%90%8E%E6%9C%9F%EF%BC%9A%40%E8%90%8C%E7%90%A6%E7%90%A6M77%0A%26%238211%3B+%26%238211%3B+%26%238211%3B+%26%238211%3B+%26%238211%3B+%26%238211%3B+%26%238211%3B+%26%238211%3B%0A%E7%A7%8B%E6%97%A5%E6%B8%A9%E6%9F%94%EF%BC%8C%E4%BA%BA%E9%97%B4%E7%90%86%E6%83%B3%E3%80%82%0A..." target="_blank" class="btn btn-light btn-icon btn-qq btn-rounded btn-md"><span><i class="iconfont icon-qq"></i></span></a> <a href="https://www.facebook.com/sharer.php?u=https%3A%2F%2Fwww.vmgirls.com%2F12985.html" target="_blank" class="btn btn-light btn-icon btn-facebook btn-rounded btn-md"><span><i class="iconfont icon-facebook"></i></span></a> <a href="https://twitter.com/intent/tweet?url=https%3A%2F%2Fwww.vmgirls.com%2F12985.html" target="_blank" class="btn btn-light btn-icon btn-twitter btn-rounded btn-md"><span><i class="iconfont icon-twitter"></i></span></a> <a href="https://www.linkedin.com/shareArticle?mini=true&amp;url=https%3A%2F%2Fwww.vmgirls.com%2F12985.html&amp;title=%E7%A7%8B%E6%97%A5%E6%B8%A9%E6%9F%94%EF%BC%8C%E4%BA%BA%E9%97%B4%E7%90%86%E6%83%B3&amp;summary=%E2%97%8E%E6%91%84%E5%BD%B1%2F%E5%90%8E%E6%9C%9F%EF%BC%9A%40%E8%90%8C%E7%90%A6%E7%90%A6M77%0A%26%238211%3B+%26%238211%3B+%26%238211%3B+%26%238211%3B+%26%238211%3B+%26%238211%3B+%26%238211%3B+%26%238211%3B%0A%E7%A7%8B%E6%97%A5%E6%B8%A9%E6%9F%94%EF%BC%8C%E4%BA%BA%E9%97%B4%E7%90%86%E6%83%B3%E3%80%82%0A..." target="_blank" class="btn btn-light btn-icon btn-linkedin btn-rounded btn-md"><span><i class="iconfont icon-linkedin"></i></span></a>
+</div>
+</div>
+</div>
+<div class="post-next-prev list-grouped row-sm my-n1 pt-5">
+<div class="col-12 col-md-6 py-1"><div class="list-item list-overlay block">
+<div class="media media-3x1"><div class="media-content" style='background-image:url("data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7")' data-bg=" url('https://static.vmgirls.com/image/2019/10/B1F023A6-A068-4B6F-ACD7-8A79D597A24F.jpeg')" data-nclazyload="true"><span class="overlay"></span></div></div>
+<div class="list-content p-3 p-md-4">
+<div class="list-body "> <a href="https://www.vmgirls.com/12973.html" class="list-title" title="再见了夏天"><div class="h-2x h6 text-white"> 再见了夏天</div> </a>
+</div>
+<div class="list-footer"><div class="text-xs text-muted">上一篇</div></div>
+</div>
+</div></div>
+<div class="col-12 col-md-6 py-1"><div class="list-item list-overlay block custom-hover">
+<div class="media media-3x1"><div class="media-content custom-hover-img" style='background-image:url("data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7")' data-bg=" url('https://static.vmgirls.com/image/2019/11/8DF15702-BD19-4AC7-A53E-1526591EA50B-scaled.jpeg')" data-nclazyload="true"><span class="overlay"></span></div></div>
+<div class="list-content p-3 p-md-4">
+<div class="list-body "> <a href="https://www.vmgirls.com/13055.html" class="list-title" title="野蛮生长，放肆可爱。"><div class="h-2x h6 text-white"> 野蛮生长，放肆可爱。</div> </a>
+</div>
+<div class="list-footer"><div class="text-xs text-muted">下一篇</div></div>
+</div>
+</div></div>
+</div>
+</div></div>
+<div class="sidebar col-lg-3 d-none d-lg-block"><aside id="secondary" class="widget-area pt-5 pt-lg-0"><section id="search-3" class="widget widget_search"><form role="search" method="get" id="searchform" class="searchform" action="https://www.vmgirls.com/"><div class="search-input form-group m-0">
+<label class="screen-reader-text" for="s">Search for:</label> <input type="text" placeholder="说点什么吧…" class="form-control" value="" name="s" id="s" required=""><button class="btn" type="submit" id="searchsubmit"><i class="iconfont icon-search"></i></button>
+</div></form></section><section id="recommended_posts-8" class="widget Recommended_Posts"><div class="widget-title">相关文章</div>
+<div class="list-grid list-grid-padding list-bordered list-bordered-padding my-n3">
+<div class="list-item py-3">
+<div class="media media-4x3 col-4"> <a href="https://www.vmgirls.com/13615.html" target="_blank" class="media-content" style='background-image:url("data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7")' data-bg="url('https://static.vmgirls.com/image/2020/02/2020022410300260-scaled.jpeg')" data-nclazyload="true"></a>
+</div>
+<div class="list-content">
+<div class="list-body"> <a href="https://www.vmgirls.com/13615.html" target="_blank" class="list-title text-sm h-2x">悄悄话说给自己听</a>
+</div>
+<div class="list-footer text-muted text-xs m-0"><div>21小时前</div></div>
+</div>
+</div>
+<div class="list-item py-3">
+<div class="media media-4x3 col-4"> <a href="https://www.vmgirls.com/13591.html" target="_blank" class="media-content" style='background-image:url("data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7")' data-bg="url('https://static.vmgirls.com/image/2020/02/2020022012351052-scaled.jpeg')" data-nclazyload="true"></a>
+</div>
+<div class="list-content">
+<div class="list-body"> <a href="https://www.vmgirls.com/13591.html" target="_blank" class="list-title text-sm h-2x">春日小甜心</a>
+</div>
+<div class="list-footer text-muted text-xs m-0"><div>5天前</div></div>
+</div>
+</div>
+<div class="list-item py-3">
+<div class="media media-4x3 col-4"> <a href="https://www.vmgirls.com/13540.html" target="_blank" class="media-content" style='background-image:url("data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7")' data-bg="url('https://static.vmgirls.com/image/2020/02/2020020411520076-scaled.jpeg')" data-nclazyload="true"></a>
+</div>
+<div class="list-content">
+<div class="list-body"> <a href="https://www.vmgirls.com/13540.html" target="_blank" class="list-title text-sm h-2x">你是暖阳啊</a>
+</div>
+<div class="list-footer text-muted text-xs m-0"><div>3周前</div></div>
+</div>
+</div>
+<div class="list-item py-3">
+<div class="media media-4x3 col-4"> <a href="https://www.vmgirls.com/13506.html" target="_blank" class="media-content" style='background-image:url("data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7")' data-bg="url('https://static.vmgirls.com/image/2020/01/2020013014540358-scaled.jpeg')" data-nclazyload="true"></a>
+</div>
+<div class="list-content">
+<div class="list-body"> <a href="https://www.vmgirls.com/13506.html" target="_blank" class="list-title text-sm h-2x">你眼里的小星星</a>
+</div>
+<div class="list-footer text-muted text-xs m-0"><div>4周前</div></div>
+</div>
+</div>
+</div></section><section id="recommended_posts-6" class="widget Recommended_Posts"><div class="widget-title">最近更新</div>
+<div class="list-grid list-grid-padding list-bordered list-bordered-padding my-n3">
+<div class="list-item py-3">
+<div class="media media-4x3 col-4"> <a href="https://www.vmgirls.com/13615.html" target="_blank" class="media-content" style='background-image:url("data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7")' data-bg="url('https://static.vmgirls.com/image/2020/02/2020022410300260-scaled.jpeg')" data-nclazyload="true"></a>
+</div>
+<div class="list-content">
+<div class="list-body"> <a href="https://www.vmgirls.com/13615.html" target="_blank" class="list-title text-sm h-2x">悄悄话说给自己听</a>
+</div>
+<div class="list-footer text-muted text-xs m-0"><div>21小时前</div></div>
+</div>
+</div>
+<div class="list-item py-3">
+<div class="media media-4x3 col-4"> <a href="https://www.vmgirls.com/13591.html" target="_blank" class="media-content" style='background-image:url("data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7")' data-bg="url('https://static.vmgirls.com/image/2020/02/2020022012351052-scaled.jpeg')" data-nclazyload="true"></a>
+</div>
+<div class="list-content">
+<div class="list-body"> <a href="https://www.vmgirls.com/13591.html" target="_blank" class="list-title text-sm h-2x">春日小甜心</a>
+</div>
+<div class="list-footer text-muted text-xs m-0"><div>5天前</div></div>
+</div>
+</div>
+<div class="list-item py-3">
+<div class="media media-4x3 col-4"> <a href="https://www.vmgirls.com/13540.html" target="_blank" class="media-content" style='background-image:url("data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7")' data-bg="url('https://static.vmgirls.com/image/2020/02/2020020411520076-scaled.jpeg')" data-nclazyload="true"></a>
+</div>
+<div class="list-content">
+<div class="list-body"> <a href="https://www.vmgirls.com/13540.html" target="_blank" class="list-title text-sm h-2x">你是暖阳啊</a>
+</div>
+<div class="list-footer text-muted text-xs m-0"><div>3周前</div></div>
+</div>
+</div>
+<div class="list-item py-3">
+<div class="media media-4x3 col-4"> <a href="https://www.vmgirls.com/13506.html" target="_blank" class="media-content" style='background-image:url("data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7")' data-bg="url('https://static.vmgirls.com/image/2020/01/2020013014540358-scaled.jpeg')" data-nclazyload="true"></a>
+</div>
+<div class="list-content">
+<div class="list-body"> <a href="https://www.vmgirls.com/13506.html" target="_blank" class="list-title text-sm h-2x">你眼里的小星星</a>
+</div>
+<div class="list-footer text-muted text-xs m-0"><div>4周前</div></div>
+</div>
+</div>
+<div class="list-item py-3">
+<div class="media media-4x3 col-4"> <a href="https://www.vmgirls.com/13487.html" target="_blank" class="media-content" style='background-image:url("data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7")' data-bg="url('https://static.vmgirls.com/image/2020/01/2020012508051310-scaled.jpeg')" data-nclazyload="true"></a>
+</div>
+<div class="list-content">
+<div class="list-body"> <a href="https://www.vmgirls.com/13487.html" target="_blank" class="list-title text-sm h-2x">你与星河,皆可收藏</a>
+</div>
+<div class="list-footer text-muted text-xs m-0"><div>1月前</div></div>
+</div>
+</div>
+<div class="list-item py-3">
+<div class="media media-4x3 col-4"> <a href="https://www.vmgirls.com/13433.html" target="_blank" class="media-content" style='background-image:url("data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7")' data-bg="url('https://static.vmgirls.com/image/2020/01/2020010609400065-scaled.jpeg')" data-nclazyload="true"></a>
+</div>
+<div class="list-content">
+<div class="list-body"> <a href="https://www.vmgirls.com/13433.html" target="_blank" class="list-title text-sm h-2x">只想在你身边静静地发呆</a>
+</div>
+<div class="list-footer text-muted text-xs m-0"><div>2月前</div></div>
+</div>
+</div>
+</div></section><section id="recommended_posts-7" class="widget Recommended_Posts"><div class="widget-title">热门文章</div>
+<div class="list-grid list-grid-padding list-bordered list-bordered-padding my-n3">
+<div class="list-item py-3">
+<div class="media media-4x3 col-4"> <a href="https://www.vmgirls.com/13615.html" target="_blank" class="media-content" style='background-image:url("data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7")' data-bg="url('https://static.vmgirls.com/image/2020/02/2020022410300260-scaled.jpeg')" data-nclazyload="true"></a>
+</div>
+<div class="list-content">
+<div class="list-body"> <a href="https://www.vmgirls.com/13615.html" target="_blank" class="list-title text-sm h-2x">悄悄话说给自己听</a>
+</div>
+<div class="list-footer text-muted text-xs m-0"><div>21小时前</div></div>
+</div>
+</div>
+<div class="list-item py-3">
+<div class="media media-4x3 col-4"> <a href="https://www.vmgirls.com/13506.html" target="_blank" class="media-content" style='background-image:url("data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7")' data-bg="url('https://static.vmgirls.com/image/2020/01/2020013014540358-scaled.jpeg')" data-nclazyload="true"></a>
+</div>
+<div class="list-content">
+<div class="list-body"> <a href="https://www.vmgirls.com/13506.html" target="_blank" class="list-title text-sm h-2x">你眼里的小星星</a>
+</div>
+<div class="list-footer text-muted text-xs m-0"><div>4周前</div></div>
+</div>
+</div>
+<div class="list-item py-3">
+<div class="media media-4x3 col-4"> <a href="https://www.vmgirls.com/13591.html" target="_blank" class="media-content" style='background-image:url("data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7")' data-bg="url('https://static.vmgirls.com/image/2020/02/2020022012351052-scaled.jpeg')" data-nclazyload="true"></a>
+</div>
+<div class="list-content">
+<div class="list-body"> <a href="https://www.vmgirls.com/13591.html" target="_blank" class="list-title text-sm h-2x">春日小甜心</a>
+</div>
+<div class="list-footer text-muted text-xs m-0"><div>5天前</div></div>
+</div>
+</div>
+<div class="list-item py-3">
+<div class="media media-4x3 col-4"> <a href="https://www.vmgirls.com/13540.html" target="_blank" class="media-content" style='background-image:url("data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7")' data-bg="url('https://static.vmgirls.com/image/2020/02/2020020411520076-scaled.jpeg')" data-nclazyload="true"></a>
+</div>
+<div class="list-content">
+<div class="list-body"> <a href="https://www.vmgirls.com/13540.html" target="_blank" class="list-title text-sm h-2x">你是暖阳啊</a>
+</div>
+<div class="list-footer text-muted text-xs m-0"><div>3周前</div></div>
+</div>
+</div>
+<div class="list-item py-3">
+<div class="media media-4x3 col-4"> <a href="https://www.vmgirls.com/13487.html" target="_blank" class="media-content" style='background-image:url("data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7")' data-bg="url('https://static.vmgirls.com/image/2020/01/2020012508051310-scaled.jpeg')" data-nclazyload="true"></a>
+</div>
+<div class="list-content">
+<div class="list-body"> <a href="https://www.vmgirls.com/13487.html" target="_blank" class="list-title text-sm h-2x">你与星河,皆可收藏</a>
+</div>
+<div class="list-footer text-muted text-xs m-0"><div>1月前</div></div>
+</div>
+</div>
+</div></section><section id="tag_cloud-2" class="widget widget_tag_cloud"><div class="widget-title">热门标签</div>
+<div class="tagcloud">
+<a href="https://www.vmgirls.com/tag/jk" class="tag-cloud-link tag-link-68 tag-link-position-1" style="font-size: 13.15523465704pt;" aria-label="JK (20个项目)">JK<span class="tag-link-count"> (20)</span></a> <a href="https://www.vmgirls.com/tag/%e4%ba%8c%e6%ac%a1%e5%85%83" class="tag-cloud-link tag-link-57 tag-link-position-2" style="font-size: 10.779783393502pt;" aria-label="二次元 (6个项目)">二次元<span class="tag-link-count"> (6)</span></a> <a href="https://www.vmgirls.com/tag/%e5%88%9d%e6%81%8b" class="tag-cloud-link tag-link-78 tag-link-position-3" style="font-size: 10.779783393502pt;" aria-label="初恋 (6个项目)">初恋<span class="tag-link-count"> (6)</span></a> <a href="https://www.vmgirls.com/tag/%e5%8f%a4%e9%a3%8e" class="tag-cloud-link tag-link-40 tag-link-position-4" style="font-size: 9.5162454873646pt;" aria-label="古风 (3个项目)">古风<span class="tag-link-count"> (3)</span></a> <a href="https://www.vmgirls.com/tag/%e5%8f%af%e7%88%b1" class="tag-cloud-link tag-link-41 tag-link-position-5" style="font-size: 20.028880866426pt;" aria-label="可爱 (479个项目)">可爱<span class="tag-link-count"> (479)</span></a> <a href="https://www.vmgirls.com/tag/%e5%94%af%e7%be%8e" class="tag-cloud-link tag-link-55 tag-link-position-6" style="font-size: 10.425992779783pt;" aria-label="唯美 (5个项目)">唯美<span class="tag-link-count"> (5)</span></a> <a href="https://www.vmgirls.com/tag/%e5%9b%9e%e5%bf%86" class="tag-cloud-link tag-link-13 tag-link-position-7" style="font-size: 10.425992779783pt;" aria-label="回忆 (5个项目)">回忆<span class="tag-link-count"> (5)</span></a> <a href="https://www.vmgirls.com/tag/%e5%a4%8d%e5%8f%a4" class="tag-cloud-link tag-link-74 tag-link-position-8" style="font-size: 9.5162454873646pt;" aria-label="复古 (3个项目)">复古<span class="tag-link-count"> (3)</span></a> <a href="https://www.vmgirls.com/tag/%e5%a5%b3%e7%a5%9e" class="tag-cloud-link tag-link-22 tag-link-position-9" style="font-size: 19.321299638989pt;" aria-label="女神 (344个项目)">女神<span class="tag-link-count"> (344)</span></a> <a href="https://www.vmgirls.com/tag/%e5%a6%b9%e7%ba%b8" class="tag-cloud-link tag-link-37 tag-link-position-10" style="font-size: 20.888086642599pt;" aria-label="妹纸 (703个项目)">妹纸<span class="tag-link-count"> (703)</span></a> <a href="https://www.vmgirls.com/tag/beauty" class="tag-cloud-link tag-link-35 tag-link-position-11" style="font-size: 22pt;" aria-label="小姐姐 (1,169个项目)">小姐姐<span class="tag-link-count"> (1169)</span></a> <a href="https://www.vmgirls.com/tag/%e5%b0%8f%e6%b8%85%e6%96%b0" class="tag-cloud-link tag-link-27 tag-link-position-12" style="font-size: 22pt;" aria-label="小清新 (1,173个项目)">小清新<span class="tag-link-count"> (1173)</span></a> <a href="https://www.vmgirls.com/tag/%e5%b0%8f%e7%8e%8b%e5%ad%90" class="tag-cloud-link tag-link-4 tag-link-position-13" style="font-size: 8pt;" aria-label="小王子 (1个项目)">小王子<span class="tag-link-count"> (1)</span></a> <a href="https://www.vmgirls.com/tag/%e5%b0%91%e5%a5%b3" class="tag-cloud-link tag-link-42 tag-link-position-14" style="font-size: 22pt;" aria-label="少女 (1,180个项目)">少女<span class="tag-link-count"> (1180)</span></a> <a href="https://www.vmgirls.com/tag/%e5%b0%a4%e5%85%8b%e9%87%8c%e9%87%8c" class="tag-cloud-link tag-link-91 tag-link-position-15" style="font-size: 8pt;" aria-label="尤克里里 (1个项目)">尤克里里<span class="tag-link-count"> (1)</span></a> <a href="https://www.vmgirls.com/tag/%e5%b9%bd%e9%bb%98" class="tag-cloud-link tag-link-9 tag-link-position-16" style="font-size: 8.9097472924188pt;" aria-label="幽默 (2个项目)">幽默<span class="tag-link-count"> (2)</span></a> <a href="https://www.vmgirls.com/tag/%e5%bf%83%e6%83%85" class="tag-cloud-link tag-link-76 tag-link-position-17" style="font-size: 8.9097472924188pt;" aria-label="心情 (2个项目)">心情<span class="tag-link-count"> (2)</span></a> <a href="https://www.vmgirls.com/tag/%e6%83%85%e6%84%9f" class="tag-cloud-link tag-link-14 tag-link-position-18" style="font-size: 9.5162454873646pt;" aria-label="情感 (3个项目)">情感<span class="tag-link-count"> (3)</span></a> <a href="https://www.vmgirls.com/tag/%e6%91%84%e5%bd%b1" class="tag-cloud-link tag-link-21 tag-link-position-19" style="font-size: 20.382671480144pt;" aria-label="摄影 (559个项目)">摄影<span class="tag-link-count"> (559)</span></a> <a href="https://www.vmgirls.com/tag/%e6%91%84%e5%bd%b1%e5%86%99%e7%9c%9f" class="tag-cloud-link tag-link-80 tag-link-position-20" style="font-size: 8pt;" aria-label="摄影写真 (1个项目)">摄影写真<span class="tag-link-count"> (1)</span></a> <a href="https://www.vmgirls.com/tag/%e6%96%87%e8%89%ba" class="tag-cloud-link tag-link-39 tag-link-position-21" style="font-size: 17.501805054152pt;" aria-label="文艺 (150个项目)">文艺<span class="tag-link-count"> (150)</span></a> <a href="https://www.vmgirls.com/tag/%e6%97%a5%e7%b3%bb" class="tag-cloud-link tag-link-28 tag-link-position-22" style="font-size: 21.646209386282pt;" aria-label="日系 (998个项目)">日系<span class="tag-link-count"> (998)</span></a> <a href="https://www.vmgirls.com/tag/%e6%9e%97%e5%b0%8f%e5%80%a9" class="tag-cloud-link tag-link-65 tag-link-position-23" style="font-size: 8pt;" aria-label="林小倩 (1个项目)">林小倩<span class="tag-link-count"> (1)</span></a> <a href="https://www.vmgirls.com/tag/%e6%a2%a6" class="tag-cloud-link tag-link-75 tag-link-position-24" style="font-size: 9.5162454873646pt;" aria-label="梦 (3个项目)">梦<span class="tag-link-count"> (3)</span></a> <a href="https://www.vmgirls.com/tag/%e6%a3%ae%e5%a5%b3" class="tag-cloud-link tag-link-38 tag-link-position-25" style="font-size: 19.270758122744pt;" aria-label="森女 (337个项目)">森女<span class="tag-link-count"> (337)</span></a> <a href="https://www.vmgirls.com/tag/%e6%a3%ae%e7%b3%bb" class="tag-cloud-link tag-link-58 tag-link-position-26" style="font-size: 17.552346570397pt;" aria-label="森系 (154个项目)">森系<span class="tag-link-count"> (154)</span></a> <a href="https://www.vmgirls.com/tag/%e6%a8%b1%e8%8a%b1" class="tag-cloud-link tag-link-69 tag-link-position-27" style="font-size: 10.425992779783pt;" aria-label="樱花 (5个项目)">樱花<span class="tag-link-count"> (5)</span></a> <a href="https://www.vmgirls.com/tag/%e6%b1%a4%e9%9f%b3%e7%92%87" class="tag-cloud-link tag-link-81 tag-link-position-28" style="font-size: 11.285198555957pt;" aria-label="汤音璇 (8个项目)">汤音璇<span class="tag-link-count"> (8)</span></a> <a href="https://www.vmgirls.com/tag/%e6%b8%85%e7%ba%af" class="tag-cloud-link tag-link-79 tag-link-position-29" style="font-size: 17.602888086643pt;" aria-label="清纯 (156个项目)">清纯<span class="tag-link-count"> (156)</span></a> <a href="https://www.vmgirls.com/tag/%e7%88%b1%e6%83%85" class="tag-cloud-link tag-link-6 tag-link-position-30" style="font-size: 9.5162454873646pt;" aria-label="爱情 (3个项目)">爱情<span class="tag-link-count"> (3)</span></a> <a href="https://www.vmgirls.com/tag/%e7%94%9c%e7%be%8e" class="tag-cloud-link tag-link-67 tag-link-position-31" style="font-size: 17.046931407942pt;" aria-label="甜美 (123个项目)">甜美<span class="tag-link-count"> (123)</span></a> <a href="https://www.vmgirls.com/tag/%e7%9f%ad%e5%8f%a5" class="tag-cloud-link tag-link-10 tag-link-position-32" style="font-size: 8.9097472924188pt;" aria-label="短句 (2个项目)">短句<span class="tag-link-count"> (2)</span></a> <a href="https://www.vmgirls.com/tag/%e7%a7%81%e6%88%bf" class="tag-cloud-link tag-link-53 tag-link-position-33" style="font-size: 18.41155234657pt;" aria-label="私房 (229个项目)">私房<span class="tag-link-count"> (229)</span></a> <a href="https://www.vmgirls.com/tag/%e7%a8%8b%e7%86%99%e5%aa%9b" class="tag-cloud-link tag-link-64 tag-link-position-34" style="font-size: 8pt;" aria-label="程熙媛 (1个项目)">程熙媛<span class="tag-link-count"> (1)</span></a> <a href="https://www.vmgirls.com/tag/%e7%bd%91%e7%bb%9c%e8%af%ad" class="tag-cloud-link tag-link-11 tag-link-position-35" style="font-size: 8pt;" aria-label="网络语 (1个项目)">网络语<span class="tag-link-count"> (1)</span></a> <a href="https://www.vmgirls.com/tag/%e7%bf%a0%e8%8a%b1" class="tag-cloud-link tag-link-56 tag-link-position-36" style="font-size: 8pt;" aria-label="翠花 (1个项目)">翠花<span class="tag-link-count"> (1)</span></a> <a href="https://www.vmgirls.com/tag/%e8%83%b6%e7%89%87" class="tag-cloud-link tag-link-70 tag-link-position-37" style="font-size: 8pt;" aria-label="胶片 (1个项目)">胶片<span class="tag-link-count"> (1)</span></a> <a href="https://www.vmgirls.com/tag/%e8%90%9d%e8%8e%89" class="tag-cloud-link tag-link-54 tag-link-position-38" style="font-size: 14.72202166065pt;" aria-label="萝莉 (42个项目)">萝莉<span class="tag-link-count"> (42)</span></a> <a href="https://www.vmgirls.com/tag/%e8%94%b7%e8%96%87" class="tag-cloud-link tag-link-71 tag-link-position-39" style="font-size: 8pt;" aria-label="蔷薇 (1个项目)">蔷薇<span class="tag-link-count"> (1)</span></a> <a href="https://www.vmgirls.com/tag/%e8%af%bb%e4%b9%a6" class="tag-cloud-link tag-link-5 tag-link-position-40" style="font-size: 11.942238267148pt;" aria-label="读书 (11个项目)">读书<span class="tag-link-count"> (11)</span></a> <a href="https://www.vmgirls.com/tag/%e8%bd%bb%e7%a7%81%e6%88%bf" class="tag-cloud-link tag-link-73 tag-link-position-41" style="font-size: 18.462093862816pt;" aria-label="轻私房 (235个项目)">轻私房<span class="tag-link-count"> (235)</span></a> <a href="https://www.vmgirls.com/tag/%e9%92%9f%e6%9b%bc%e8%8f%b2" class="tag-cloud-link tag-link-63 tag-link-position-42" style="font-size: 8.9097472924188pt;" aria-label="钟曼菲 (2个项目)">钟曼菲<span class="tag-link-count"> (2)</span></a> <a href="https://www.vmgirls.com/tag/%e9%9a%8f%e7%ac%94" class="tag-cloud-link tag-link-77 tag-link-position-43" style="font-size: 9.5162454873646pt;" aria-label="随笔 (3个项目)">随笔<span class="tag-link-count"> (3)</span></a> <a href="https://www.vmgirls.com/tag/%e9%9d%92%e6%98%a5" class="tag-cloud-link tag-link-15 tag-link-position-44" style="font-size: 19.472924187726pt;" aria-label="青春 (373个项目)">青春<span class="tag-link-count"> (373)</span></a>
+</div></section><section id="custom_html-2" class="widget_text widget widget_custom_html"><div class="widget-title">声明</div>
+<div class="textwidget custom-html-widget">
+<p style="text-align: left;">        本站所发资源大多来自国内图虫摄影，POCO摄影，网易摄影，网易乐乎，花瓣网及摄影师微博。所有作品均按照<a href="https://creativecommons.org/licenses/by-nc-nd/4.0/deed.zh" target="_blank" rel="nofollow noopener noreferrer">署名-非商业性使用-禁止演绎 4.0 国际 (CC BY-NC-ND 4.0)</a>协议进行转载。本人所发所有内容仅作为个人爱好分享所用，并无用作商业盈利之目的。所发内容如若侵犯了您的相关权利，请及时联系<a href="/cdn-cgi/l/email-protection#026b6f426c636c2c6567">本人</a>删除相关内容，在此对您造成的不便深感抱歉，敬请原谅！</p>
+<p style="text-align: right;">特此申明！</p>
+</div></section></aside></div>
+</div>
+</div></main><div id="page-tabbar" class="page-tabbar"><div class="container d-flex flex-row justify-content-around align-items-center py-1 h-100"> <a class=" post-like py-2 d-inline-block" href="javascript:" data-action="like" data-id="12985"> <i class="text-xl iconfont icon-like"></i> <span class="font-theme badge badge-pill badge-danger like-count">114</span> </a> <a class="py-2 d-inline-block" id="btn-bigger-cover" href="javascript:;" data-id="12985"> <i class="text-xl text-height-xs iconfont icon-zhuanfa-"></i> </a>
+</div></div>
+<section class="list-related bg-light py-4 py-md-5"><div class="container">
+<div class="list-header h5 mb-3 mb-md-4">
+<i class="text-xl text-primary iconfont icon-listview mr-1"></i>相关文章</div>
+<div class="list-grouped list-scroll-x"><div class="row-md">
+<div class="col-6 col-md-3"><div class="list-item list-nice-overlay block custom-hover">
+<div class="media media-3x2"> <a href="https://www.vmgirls.com/13615.html" class="media-content custom-hover-img" style='background-image:url("data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7")' title="悄悄话说给自己听" data-bg="url('https://static.vmgirls.com/image/2020/02/2020022410300260-scaled.jpeg')" data-nclazyload="true"><span class="overlay"></span></a>
+</div>
+<div class="list-content"><div class="list-body"> <a href="https://www.vmgirls.com/13615.html" class="list-title h-2x">悄悄话说给自己听</a>
+</div></div>
+</div></div>
+<div class="col-6 col-md-3"><div class="list-item list-nice-overlay block custom-hover">
+<div class="media media-3x2"> <a href="https://www.vmgirls.com/13591.html" class="media-content custom-hover-img" style='background-image:url("data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7")' title="春日小甜心" data-bg="url('https://static.vmgirls.com/image/2020/02/2020022012351052-scaled.jpeg')" data-nclazyload="true"><span class="overlay"></span></a>
+</div>
+<div class="list-content"><div class="list-body"> <a href="https://www.vmgirls.com/13591.html" class="list-title h-2x">春日小甜心</a>
+</div></div>
+</div></div>
+<div class="col-6 col-md-3"><div class="list-item list-nice-overlay block custom-hover">
+<div class="media media-3x2"> <a href="https://www.vmgirls.com/13540.html" class="media-content custom-hover-img" style='background-image:url("data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7")' title="你是暖阳啊" data-bg="url('https://static.vmgirls.com/image/2020/02/2020020411520076-scaled.jpeg')" data-nclazyload="true"><span class="overlay"></span></a>
+</div>
+<div class="list-content"><div class="list-body"> <a href="https://www.vmgirls.com/13540.html" class="list-title h-2x">你是暖阳啊</a>
+</div></div>
+</div></div>
+<div class="col-6 col-md-3"><div class="list-item list-nice-overlay block custom-hover">
+<div class="media media-3x2"> <a href="https://www.vmgirls.com/13506.html" class="media-content custom-hover-img" style='background-image:url("data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7")' title="你眼里的小星星" data-bg="url('https://static.vmgirls.com/image/2020/01/2020013014540358-scaled.jpeg')" data-nclazyload="true"><span class="overlay"></span></a>
+</div>
+<div class="list-content"><div class="list-body"> <a href="https://www.vmgirls.com/13506.html" class="list-title h-2x">你眼里的小星星</a>
+</div></div>
+</div></div>
+</div></div>
+</div></section><footer class="footer bg-dark pt-3 pt-md-5"><div class="container">
+<div class="row my-n3">
+<div class="col-lg-6 pr-lg-5 py-3"><div class="footer-widget pr-lg-5">
+<div class="footer-widget-header">关于</div>
+<div class="footer-widget-content"><p>少女情怀总是诗，善于发现一切美好的事物,收集分享原创高清少女美图,优质唯美图片,小清新,美女,森系,日系,私房,摄影写真</p></div>
+<div class="footer-widget-social mx-n2 mt-2"> <a href="https://weibo.com/xuhanyu0526" target="_blank" class="weibo mx-1 mx-md-2"><i class="iconfont icon-weibo"></i></a> <a href="javascript:" class="single-popup weixin mx-1 mx-md-2" data-img="https://static.vmgirls.com/image/2020/02/2020020917130279.jpeg" data-title="我辣么可爱，求投食！" data-desc="支持一下吧！(#^.^#)"><i class="iconfont icon-wechat"></i></a> <a href="https://wpa.qq.com/msgrd?v=3&amp;uin=51695210&amp;site=qq&amp;menu=yes" target="_blank" class="mx-1 mx-md-2"><span><i class="iconfont icon-qq"></i></span></a> <a href="/cdn-cgi/l/email-protection#650c08250b040b4b0200" target="_blank" class="mx-1 mx-md-2"><span><i class="iconfont icon-mail_fill"></i></span></a> <a href="https://t.me/Vmgirls" target="_blank" class="mx-1 mx-md-2"><span><i class="iconfont icon-facebook"></i></span></a> <a href="https://www.instagram.com/nange.cn" target="_blank" class="mx-1 mx-md-2"><span><i class="iconfont icon-instagram-fill"></i></span></a> <a href="https://www.twitter.com/PeinanXu" target="_blank" class="mx-1 mx-md-2"><span><i class="iconfont icon-twitter"></i></span></a>
+</div>
+</div></div>
+<div class="col-lg-3 py-3"><div class="footer-widget">
+<div class="footer-widget-header">友情链接</div>
+<div class="footer-widget-content"><div class="footer-widget-links"> <a href="http://www.jinriweidu.com" target="_blank">今日微读</a> <a href="https://www.nange.cn" target="_blank">楠格</a>
+</div></div>
+</div></div>
+<div class="col-lg-3 py-3"><div class="footer-widget">
+<div class="footer-widget-header">旗下站点</div>
+<div class="footer-widget-content"><div class="footer-widget-links"> <a href="https://shop.nange.cn/" target="_blank">楠格杂货店</a> <a href="https://music.nange.cn/" target="_blank">楠格音乐盒</a> <a href="https://nan.ge/" target="_blank">个人主页</a> <a href="http://chrome.vpsce.com/" target="_blank">Chrome 下载</a>
+</div></div>
+</div></div>
+</div>
+<div class="footer-copyright text-xs border-top border-secondary py-3 py-md-4 mt-3 mt-md-4"> Copyright © 2016-2020 <a href="https://www.vmgirls.com" title="唯美女生" rel="home">唯美女生</a> | <a href="https://www.vmgirls.com/sitemap.xml" title="XML站点地图" target="_blank">站点地图</a>
+</div>
+</div> <script data-cfasync="false" src="/cdn-cgi/scripts/5c5dd728/cloudflare-static/email-decode.min.js"></script><script>var _hmt = _hmt || [];
+(function() {
+  var hm = document.createElement("script");
+  hm.src = "https://hm.baidu.com/hm.js?a5eba7a40c339f057e1c5b5ac4ab4cc9";
+  var s = document.getElementsByTagName("script")[0]; 
+  s.parentNode.insertBefore(hm, s);
+})();</script><script data-no-minify="1" async src="https://www.vmgirls.com/wp-content/cache/busting/1/gtm-e8cae14ad6515af4fdc52f4e094eb95e.js"></script><script>window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'UA-127463675-2');</script></footer><aside class="sidebar-collapse"><div class="sidebar-mobile bg-light">
+<div class="sidebar-mobile-action bg-white"> <button type="button" class="link-action text-muted" id="sidebar-mobile-close"><i class="far fa-dot-circle" style="color: #2ccbe6;"></i></button>
+</div>
+<div class="sidebar-mobile-tab-menu"><ul id="mobile-tab-menu-id" class="mobile-tab-menu">
+<li id="menu-item-2762" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-home menu-item-2762"><a class="nav-link" target="_blank" rel="noopener noreferrer" href="https://www.vmgirls.com"><span class="iconfont" style="color: #2ccbe6;"></span> 首页</a></li>
+<li id="menu-item-2729" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-2729">
+<a class="nav-link" target="_blank" rel="noopener noreferrer"><span class="iconfont" style="color: #2ccbe6;"></span> 全部分类</a><ul class="sub-menu">
+<li id="menu-item-2730" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-has-children menu-item-2730"><a class="nav-link" target="_blank" rel="noopener noreferrer" href="https://www.vmgirls.com/photography">摄影写真</a></li>
+<li id="menu-item-2731" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-has-children menu-item-2731"><a class="nav-link" target="_blank" rel="noopener noreferrer" href="https://www.vmgirls.com/campus">校园美女</a></li>
+<li id="menu-item-2732" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-has-children menu-item-2732"><a class="nav-link" target="_blank" rel="noopener noreferrer" href="https://www.vmgirls.com/fresh">清新美女</a></li>
+<li id="menu-item-2733" class="menu-item menu-item-type-taxonomy menu-item-object-category current-post-ancestor current-menu-parent current-post-parent menu-item-has-children menu-item-2733"><a class="nav-link" target="_blank" rel="noopener noreferrer" href="https://www.vmgirls.com/pure">清纯少女</a></li>
+<li id="menu-item-3513" class="menu-item menu-item-type-taxonomy menu-item-object-category current-post-ancestor current-menu-parent current-post-parent menu-item-has-children menu-item-3513"><a class="nav-link" target="_blank" rel="noopener noreferrer" href="https://www.vmgirls.com/sweet">糖水</a></li>
+<li id="menu-item-2734" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-has-children menu-item-2734"><a class="nav-link" target="_blank" rel="noopener noreferrer" href="https://www.vmgirls.com/belles-lettres"><span class="iconfont" style="color: #2ccbe6;"></span> 随笔</a></li>
+<li id="menu-item-2735" class="menu-item menu-item-type-taxonomy menu-item-object-category current-post-ancestor current-menu-parent current-post-parent menu-item-has-children menu-item-2735"><a class="nav-link" target="_blank" rel="noopener noreferrer" href="https://www.vmgirls.com/youth">青春风</a></li>
+</ul>
+</li>
+<li id="menu-item-2725" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-2725">
+<a><span class="iconfont" style="color: #2ccbe6;"></span> 其他站点</a><ul class="sub-menu">
+<li id="menu-item-7835" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-7835"><a class="nav-link" target="_blank" rel="noopener noreferrer" href="https://shop.nange.cn/"><span class="iconfont" style="color: #2ccbe6;"></span> 楠格杂货店</a></li>
+<li id="menu-item-12319" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-12319"><a class="nav-link" target="_blank" rel="noopener noreferrer" href="https://www.nange.cn"><span class="iconfont" style="color: #2ccbe6;"></span> 楠格</a></li>
+</ul>
+</li>
+<li id="menu-item-3577" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3577"><a class="nav-link" target="_blank" rel="noopener noreferrer" href="https://www.vmgirls.com/about-us.html"><span class="iconfont" style="color: #2ccbe6;"></span> 关于</a></li>
+</ul></div>
+</div></aside><div id="search-popup-wrap">
+<div class="search-popup-cover bg-dark px-3 px-lg-5 py-5">
+<div class="bg-effect bg-cover nc-no-lazy" style="background-image: url('https://static.vmgirls.com/image/2019/10/5665E6D5-DF9B-475F-AAC8-DD9F689B71A9.jpeg')"> <span class="overlay"></span>
+</div>
+<form role="search" id="searchform" class="search-popup-form py-lg-5" method="get" action="https://www.vmgirls.com/"> <input class="form-control form-control-lg form-transparent" type="text" placeholder="请输入搜索关键词并按回车键…" name="s" id="s" required>
+</form>
+</div>
+<div class="search-key-push px-3 px-lg-5 py-3 py-lg-4">
+<div class="h6 mb-3">热门搜索</div>
+<ul class="nav nav-pills m-n1">
+<li class="nav-item p-1"><a href="/?s=JK" target="_blank" class="btn btn-light btn-sm">JK</a></li>
+<li class="nav-item p-1"><a href="/?s=%E5%B0%91%E5%A5%B3" target="_blank" class="btn btn-light btn-sm">少女</a></li>
+<li class="nav-item p-1"><a href="/?s=%E5%B0%8F%E5%A7%90%E5%A7%90" target="_blank" class="btn btn-light btn-sm">小姐姐</a></li>
+<li class="nav-item p-1"><a href="/?s=%E5%A6%B9%E7%BA%B8" target="_blank" class="btn btn-light btn-sm">妹纸</a></li>
+<li class="nav-item p-1"><a href="/?s=%E5%B0%8F%E6%B8%85%E6%96%B0" target="_blank" class="btn btn-light btn-sm">小清新</a></li>
+<li class="nav-item p-1"><a href="/?s=%E5%A5%B3%E7%A5%9E" target="_blank" class="btn btn-light btn-sm">女神</a></li>
+<li class="nav-item p-1"><a href="/?s=%E5%9B%9E%E5%BF%86" target="_blank" class="btn btn-light btn-sm">回忆</a></li>
+<li class="nav-item p-1"><a href="/?s=%E5%A4%8D%E5%8F%A4" target="_blank" class="btn btn-light btn-sm">复古</a></li>
+<li class="nav-item p-1"><a href="/?s=%E5%A5%B3%E7%A5%9E" target="_blank" class="btn btn-light btn-sm">女神</a></li>
+<li class="nav-item p-1"><a href="/?s=%E6%91%84%E5%BD%B1" target="_blank" class="btn btn-light btn-sm">摄影</a></li>
+<li class="nav-item p-1"><a href="/?s=%E6%96%87%E8%89%BA" target="_blank" class="btn btn-light btn-sm">文艺</a></li>
+<li class="nav-item p-1"><a href="/?s=%E5%A6%B9%E7%BA%B8" target="_blank" class="btn btn-light btn-sm">妹纸</a></li>
+<li class="nav-item p-1"><a href="/?s=%E4%BA%8C%E6%AC%A1%E5%85%83" target="_blank" class="btn btn-light btn-sm">二次元</a></li>
+<li class="nav-item p-1"><a href="/?s=%E5%8F%AF%E7%88%B1" target="_blank" class="btn btn-light btn-sm">可爱</a></li>
+</ul>
+</div>
+</div>
+<div id="author-popup-wrap"><div class="author-popup-cover">
+<div class="media media-16x9 bg-dark-gradient">
+<div class="bg-effect bg-dark-gradient bg-author"></div>
+<div class="bg-effect bg-cover" data-img="https://secure.gravatar.com/avatar/eb7f91a393b6c689e33a150bece47276?s=96&amp;d=https%3A%2F%2Fwww.vmgirls.com%2Fimage%2F2019%2F02%2FIMG_54681.jpg&amp;r=g"></div>
+</div>
+<div class="author-popup-meta mt-n5">
+<div class="px-4 pb-3 pb-md-4">
+<div class="d-flex align-items-center justify-content-center"> <a href="https://www.vmgirls.com/author/girls" class="flex-avatar mx-2 w-96" taget="_blank"> <img alt="" src="//gravatar.loli.net/avatar/eb7f91a393b6c689e33a150bece47276?s=96&amp;d=https%3A%2F%2Fwww.vmgirls.com%2Fimage%2F2019%2F02%2FIMG_54681.jpg&amp;r=g" srcset="//gravatar.loli.net/avatar/eb7f91a393b6c689e33a150bece47276?s=192&amp;d=https%3A%2F%2Fwww.vmgirls.com%2Fimage%2F2019%2F02%2FIMG_54681.jpg&amp;r=g 2x" class="avatar avatar-96 photo nc-no-lazy" height="96" width="96"></a>
+</div>
+<div class="text-center mt-3"> <a href="https://www.vmgirls.com/author/girls" class="h5" target="_blank"> <span>佩佩</span> </a><div class="d-block text-sm text-muted mt-2"><span class="h-2x">往事如何美好。但我们终究陌路。</span></div>
+</div>
+</div>
+<div class="row no-gutters text-center pb-3 pb-md-4"> <a href="https://www.vmgirls.com/author/girls" class="col" target="_blank"> <span class="font-theme text-lg d-block">31</span> <small class="text-xs text-muted">文章</small> </a><div class="col"> <span class="font-theme text-lg d-block">0</span> <small class="text-xs text-muted">评论</small>
+</div>
+<div class="col"> <span class="font-theme text-lg d-block">3K</span> <small class="text-xs text-muted">喜欢</small>
+</div>
+</div>
+</div>
+</div></div> <a id="nice-back-to-top" href="#"> <span class="icon-stack"> <i class="text-xs iconfont icon-un-collapse--o"></i> <span class="back-to-top-text">Top</span> </span> </a> <script type="text/javascript" src="https://static.vmgirls.com/wp-content/plugins/nicetheme-jimu/modules/jimu.js?ver=1.0" defer></script><script type="text/javascript" src="https://static.vmgirls.com/wp-content/plugins/nicetheme-jimu/modules/base/assets/highlight/highlight.pack.js?ver=1.0" defer></script><script type="text/javascript" src="https://static.vmgirls.com/wp-content/plugins/nicetheme-jimu/modules/base/assets/lazyload/lazyload.min.js?ver=1.0" defer></script><script type="text/javascript" src="https://static.vmgirls.com/wp-content/plugins/nicetheme-jimu/modules/base/assets/lightGallery/lib/picturefill.min.js?ver=1.0" defer></script><script type="text/javascript" src="https://static.vmgirls.com/wp-content/plugins/nicetheme-jimu/modules/base/assets/lightGallery/js/lightgallery-all.min.js?ver=1.0" defer></script><script type="text/javascript" src="https://www.vmgirls.com/wp-content/plugins/nicetheme-jimu/modules/base/assets/lightGallery/lib/jquery.mousewheel.min.js?ver=1.0" defer></script><script type="text/javascript" src="//qzonestyle.gtimg.cn/qzone/qzact/common/share/share.js?ver=1.0" defer></script><script type="text/javascript" src="https://static.vmgirls.com/wp-content/plugins/nicetheme-module-eacfc52cb4-NKYqqe/static/nice-poster.js?ver=1.0.3" defer></script><script type="text/javascript" src="https://static.vmgirls.com/wp-content/themes/Cosy/js/popper.min.js?ver=3.1.2" defer></script><script type="text/javascript" src="https://static.vmgirls.com/wp-content/themes/Cosy/js/bootstrap.min.js?ver=3.1.2" defer></script><script type="text/javascript" src="https://static.vmgirls.com/wp-content/themes/Cosy/js/plugins.min.js?ver=3.1.2" defer></script><script type="text/javascript" src="https://static.vmgirls.com/wp-content/themes/Cosy/js/ResizeSensor.min.js?ver=3.1.2" defer></script><script type="text/javascript" src="https://static.vmgirls.com/wp-content/themes/Cosy/js/theia-sticky-sidebar.min.js?ver=3.1.2" defer></script><script type="text/javascript" src="https://static.vmgirls.com/wp-content/themes/Cosy/js/nicetheme.js?ver=3.1.2" defer></script><script>(function(){
+                    var bp = document.createElement('script');
+                    var curProtocol = window.location.protocol.split(':')[0];
+                    if (curProtocol === 'https') {
+                        bp.src = 'https://zz.bdstatic.com/linksubmit/push.js';
+                    }
+                    else {
+                        bp.src = 'http://push.zhanzhang.baidu.com/push.js';
+                    }
+                    var s = document.getElementsByTagName("script")[0];
+                    s.parentNode.insertBefore(bp, s);
+                })();</script><script>setShareInfo({
+				title: '秋日温柔，人间理想',
+				summary: '◎摄影/后期：@萌琦琦M77
+- - - - - - - -
+秋日温柔，人间理想。',
+				pic: 'https://static.vmgirls.com/image/2019/10/5665E6D5-DF9B-475F-AAC8-DD9F689B71A9-1-scaled.jpeg',
+				url: 'https://www.vmgirls.com/12985.html',
+							WXconfig:{
+				swapTitleInWX: false,
+				appId: 'wxfc875ca4cbdf3b95',
+				timestamp: '1582615584',
+				nonceStr: 'kpDOHtpygnZM7cM4',
+				signature: '27cf561096b4365ac3a64d84d1a806f99b071b56'
+			}
+			});</script><script>window.lazyLoadOptions={elements_selector:"iframe[data-lazy-src]",data_src:"lazy-src",data_srcset:"lazy-srcset",data_sizes:"lazy-sizes",class_loading:"lazyloading",class_loaded:"lazyloaded",threshold:300,callback_loaded:function(element){if(element.tagName==="IFRAME"&&element.dataset.rocketLazyload=="fitvidscompatible"){if(element.classList.contains("lazyloaded")){if(typeof window.jQuery!="undefined"){if(jQuery.fn.fitVids){jQuery(element).parent().fitVids()}}}}}};window.addEventListener('LazyLoad::Initialized',function(e){var lazyLoadInstance=e.detail.instance;if(window.MutationObserver){var observer=new MutationObserver(function(mutations){var image_count=0;var iframe_count=0;var rocketlazy_count=0;mutations.forEach(function(mutation){for(i=0;i<mutation.addedNodes.length;i++){if(typeof mutation.addedNodes[i].getElementsByTagName!=='function'){return}
+if(typeof mutation.addedNodes[i].getElementsByClassName!=='function'){return}
+images=mutation.addedNodes[i].getElementsByTagName('img');is_image=mutation.addedNodes[i].tagName=="IMG";iframes=mutation.addedNodes[i].getElementsByTagName('iframe');is_iframe=mutation.addedNodes[i].tagName=="IFRAME";rocket_lazy=mutation.addedNodes[i].getElementsByClassName('rocket-lazyload');image_count+=images.length;iframe_count+=iframes.length;rocketlazy_count+=rocket_lazy.length;if(is_image){image_count+=1}
+if(is_iframe){iframe_count+=1}}});if(image_count>0||iframe_count>0||rocketlazy_count>0){lazyLoadInstance.update()}});var b=document.getElementsByTagName("body")[0];var config={childList:!0,subtree:!0};observer.observe(b,config)}},!1)</script><script data-no-minify="1" async src="https://static.vmgirls.com/wp-content/plugins/wp-rocket/assets/js/lazyload/12.0/lazyload.min.js"></script><script>function lazyLoadThumb(e){var t='<img src="https://i.ytimg.com/vi/ID/hqdefault.jpg" alt="" width="480" height="360">',a='<div class="play">';return t.replace("ID",e)+a}function lazyLoadYoutubeIframe(){var e=document.createElement("iframe"),t="ID?autoplay=1";t+=0===this.dataset.query.length?'':'&'+this.dataset.query;e.setAttribute("src",t.replace("ID",this.dataset.src)),e.setAttribute("frameborder","0"),e.setAttribute("allowfullscreen","1"),e.setAttribute("allow", "accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture"),this.parentNode.replaceChild(e,this)}document.addEventListener("DOMContentLoaded",function(){var e,t,a=document.getElementsByClassName("rll-youtube-player");for(t=0;t<a.length;t++)e=document.createElement("div"),e.setAttribute("data-id",a[t].dataset.id),e.setAttribute("data-query", a[t].dataset.query),e.setAttribute("data-src", a[t].dataset.src),e.innerHTML=lazyLoadThumb(a[t].dataset.id),e.onclick=lazyLoadYoutubeIframe,a[t].appendChild(e)});</script>
+</body>
+</html>
+
+运行时间：2020-02-25 16:28:43
+
+【运行记录】位置：1
+{'User-Agent': 'python-requests/2.23.0', 'Accept-Encoding': 'gzip, deflate', 'Accept': '*/*', 'Connection': 'keep-alive'}
+【记录时间】2020-02-25 16:42:41
+
+【运行记录】位置：2
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0, minimum-scale=1.0, maximum-scale=1.0, user-scalable=no">
+<meta http-equiv="Cache-Control" content="no-transform">
+<meta http-equiv="Content-Security-Policy" content="upgrade-insecure-requests">
+<meta name="theme-color" content="#ff3385">
+<meta property="og:image" content="https://static.vmgirls.com/images/bingo.JPG">
+<meta name="msapplication-TileColor" content="#ff3385">
+<meta name="wap-font-scale" content="no">
+<meta http-equiv="X-UA-Compatible" content="IE=9, IE=8;IE=7, IE=EDGE, chrome=1">
+<title>秋日温柔，人间理想 丨 唯美女生</title>
+<meta name="keywords" content="小姐姐,小清新,少女,摄影,日系,清纯,甜美,青春">
+<meta name="description" content="◎摄影/后期：@萌琦琦M77 - - - - - - - - 秋日温柔，人间理想。">
+<link rel="dns-prefetch" href="//qzonestyle.gtimg.cn">
+<link rel="dns-prefetch" href="//hm.baidu.com">
+<link rel="dns-prefetch" href="//www.google-analytics.com">
+<link rel="alternate" type="application/rss+xml" title="唯美女生 » Feed" href="https://www.vmgirls.com/feed">
+<link rel="alternate" type="application/rss+xml" title="唯美女生 » 评论Feed" href="https://www.vmgirls.com/comments/feed">
+<link rel="stylesheet" id="wp-block-library-css" href="https://static.vmgirls.com/wp-includes/css/dist/block-library/style.min.css?ver=5.3.2" type="text/css" media="all">
+<link rel="stylesheet" id="jimu-css-css" href="https://static.vmgirls.com/wp-content/plugins/nicetheme-jimu/modules/jimu.css?ver=1.0" type="text/css" media="all">
+<link rel="stylesheet" id="ncHighlightCss-css" href="https://static.vmgirls.com/wp-content/plugins/nicetheme-jimu/modules/base/assets/highlight/styles/a11y-dark.css?ver=1.0" type="text/css" media="all">
+<link rel="stylesheet" id="ncLightgalleryCss-css" href="https://static.vmgirls.com/wp-content/plugins/nicetheme-jimu/modules/base/assets/lightGallery/css/lightgallery.min.css?ver=1.0" type="text/css" media="all">
+<link rel="stylesheet" id="font-awesome-css" href="https://static.vmgirls.com/wp-content/plugins/nicetheme-module-nice-fontawesome/assets/css/fontawesome.min.css?ver=5.3.2" type="text/css" media="all">
+<link rel="stylesheet" id="font-awesome-brands-css" href="https://static.vmgirls.com/wp-content/plugins/nicetheme-module-nice-fontawesome/assets/css/brands.min.css?ver=5.3.2" type="text/css" media="all">
+<link rel="stylesheet" id="font-awesome-solid-css" href="https://static.vmgirls.com/wp-content/plugins/nicetheme-module-nice-fontawesome/assets/css/solid.min.css?ver=5.3.2" type="text/css" media="all">
+<link rel="stylesheet" id="font-awesome-regular-css" href="https://static.vmgirls.com/wp-content/plugins/nicetheme-module-nice-fontawesome/assets/css/regular.min.css?ver=5.3.2" type="text/css" media="all">
+<link rel="stylesheet" id="nicetheme-iconfont-css" href="https://static.vmgirls.com/wp-content/themes/Cosy/fonts/iconfont.css?ver=5.3.2" type="text/css" media="all">
+<link rel="stylesheet" id="nicetheme-nicetheme-css" href="https://static.vmgirls.com/wp-content/themes/Cosy/css/nicetheme.css?ver=5.3.2" type="text/css" media="all">
+<link rel="stylesheet" id="nicetheme-banner-css" href="https://static.vmgirls.com/wp-content/themes/Cosy/css/owl.carousel.css?ver=5.3.2" type="text/css" media="all">
+<link rel="stylesheet" id="nicetheme-style-css" href="https://static.vmgirls.com/wp-content/themes/Cosy/style.css?ver=5.3.2" type="text/css" media="all">
+<style id="rocket-lazyload-inline-css" type="text/css">.rll-youtube-player{position:relative;padding-bottom:56.23%;height:0;overflow:hidden;max-width:100%}.rll-youtube-player iframe{position:absolute;top:0;left:0;width:100%;height:100%;z-index:100;background:0 0}.rll-youtube-player img{bottom:0;display:block;left:0;margin:auto;max-width:100%;width:100%;position:absolute;right:0;top:0;border:none;height:auto;cursor:pointer;-webkit-transition:.4s all;-moz-transition:.4s all;transition:.4s all}.rll-youtube-player img:hover{-webkit-filter:brightness(75%)}.rll-youtube-player .play{height:72px;width:72px;left:50%;top:50%;margin-left:-36px;margin-top:-36px;position:absolute;background:url(https://static.vmgirls.com/wp-content/plugins/wp-rocket/assets/img/youtube.png) no-repeat;cursor:pointer}</style>
+<script type="text/javascript">/* <![CDATA[ */ var globals = {"ajax_url":"https:\/\/www.vmgirls.com\/wp-admin\/admin-ajax.php","url_theme":"https:\/\/www.vmgirls.com\/wp-content\/themes\/Cosy","site_url":"https:\/\/www.vmgirls.com","post_id":"12985"};
+var __cosy__ = {"load_more":"\u52a0\u8f7d\u66f4\u591a","reached_the_end":"\u6ca1\u6709\u66f4\u591a\u5185\u5bb9","thank_you":"\u8c22\u8c22\u70b9\u8d5e","success":"\u64cd\u4f5c\u6210\u529f","cancelled":"\u53d6\u6d88\u70b9\u8d5e"};
+var toc = {"tag":"0"}; /* ]]> */</script><script type="text/javascript" src="https://static.vmgirls.com/wp-includes/js/jquery/jquery.js?ver=1.12.4-wp"></script><script type="text/javascript" src="https://static.vmgirls.com/wp-includes/js/jquery/jquery-migrate.min.js?ver=1.4.1" defer></script><link rel="canonical" href="https://www.vmgirls.com/12985.html">
+<style type="text/css">.broken_link,a.broken_link{text-decoration:line-through}</style>
+<link rel="miphtml" href="https://www.vmgirls.com/12985.html/mip">
+<link rel="icon" href="https://static.vmgirls.com/image/2019/10/cropped-zlogo-1-1-32x32.png" sizes="32x32">
+<link rel="icon" href="https://static.vmgirls.com/image/2019/10/cropped-zlogo-1-1-192x192.png" sizes="192x192">
+<link rel="apple-touch-icon-precomposed" href="https://static.vmgirls.com/image/2019/10/cropped-zlogo-1-1-180x180.png">
+<meta name="msapplication-TileImage" content="https://static.vmgirls.com/image/2019/10/cropped-zlogo-1-1-270x270.png">
+<noscript><style id="rocket-lazyload-nojs-css">.rll-youtube-player,[data-lazy-src]{display:none!important}</style></noscript>
+</head>
+<body class="post-template-default single single-post postid-12985 single-format-gallery nice-style-radius nice-style-shadow nice-style-border nice-style-hover ">
+<header class="header"><nav class="navbar navbar-expand-md "><div class="container"> <a href="https://www.vmgirls.com/" rel="home" class="navbar-brand m-0 order-1"> <img src="https://static.vmgirls.com/image/2019/02/logo.png" class="nc-no-lazy" alt="唯美女生"></a><ul class="nav nav-submenu align-items-center flex-row flex-shrink-0 order-2 order-md-3">
+<li class="nav-item"> <a href="#" class="nav-link search-popup px-2 mr-2"><i class="text-lg iconfont icon-search"></i></a>
+</li>
+<li class="nav-item d-none d-lg-inline-block"> <a href="https://www.vmgirls.com/history.html" class="nav-link px-2 mr-2" target="_blank"><i class="text-lg iconfont icon-time"></i></a>
+</li>
+<li class="nav-item d-lg-none"> <a href="#" id="sidebar-mobile-trigger" class="nav-link px-2 mr-3"><i class="text-lg iconfont icon-menu"></i></a>
+</li>
+</ul>
+<div class="collapse navbar-collapse show navbar-scroll order-3 order-md-2 mx-md-4">
+<ul class="navbar-nav main-menu d-none d-lg-flex mr-auto px-4">
+<li id="menu-item-10941" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-home menu-item-10941"><a class="nav-link" target="_blank" rel="noopener noreferrer" href="https://www.vmgirls.com/">首页</a></li>
+<li id="menu-item-10948" class="menu-item menu-item-type-taxonomy menu-item-object-special menu-item-has-children menu-item-10948">
+<a class="nav-link" href="https://www.vmgirls.com/special/%e8%bd%bb%e7%a7%81%e6%88%bf">专题推荐</a><ul class="sub-menu">
+<li id="menu-item-10957" class="menu-item menu-item-type-taxonomy menu-item-object-special menu-item-10957"><a class="nav-link" target="_blank" rel="noopener noreferrer" href="https://www.vmgirls.com/special/%e8%bd%bb%e7%a7%81%e6%88%bf">轻私房</a></li>
+<li id="menu-item-10976" class="menu-item menu-item-type-taxonomy menu-item-object-special menu-item-10976"><a class="nav-link" target="_blank" rel="noopener noreferrer" href="https://www.vmgirls.com/special/%e5%b0%8f%e5%a7%90%e5%a7%90">小姐姐</a></li>
+</ul>
+</li>
+<li id="menu-item-10943" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-10943"><a class="nav-link" target="_blank" rel="noopener noreferrer" href="https://www.vmgirls.com/photography">摄影写真</a></li>
+<li id="menu-item-10944" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-10944"><a class="nav-link" target="_blank" rel="noopener noreferrer" href="https://www.vmgirls.com/campus">校园美女</a></li>
+<li id="menu-item-10945" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-10945"><a class="nav-link" target="_blank" rel="noopener noreferrer" href="https://www.vmgirls.com/fresh">清新美女</a></li>
+<li id="menu-item-10946" class="menu-item menu-item-type-taxonomy menu-item-object-category current-post-ancestor current-menu-parent current-post-parent menu-item-10946"><a class="nav-link" target="_blank" rel="noopener noreferrer" href="https://www.vmgirls.com/pure">清纯少女</a></li>
+<li id="menu-item-10947" class="menu-item menu-item-type-taxonomy menu-item-object-post_tag menu-item-10947"><a class="nav-link" target="_blank" rel="noopener noreferrer" href="https://www.vmgirls.com/tag/beauty">小姐姐</a></li>
+<li id="menu-item-11171" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-11171"><a class="nav-link" target="_blank" rel="noopener noreferrer" href="https://www.vmgirls.com/sitemap.shtml">网站地图</a></li>
+<li id="menu-item-10942" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-10942"><a class="nav-link" target="_blank" rel="noopener noreferrer" href="https://www.vmgirls.com/about-us.html">关于</a></li>
+</ul>
+<ul class="navbar-nav mobile-menu flex-row d-lg-none">
+<li id="menu-item-7839" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-home menu-item-7839"><a class="nav-link" target="_blank" rel="noopener noreferrer" href="https://www.vmgirls.com/">首页</a></li>
+<li id="menu-item-10960" class="menu-item menu-item-type-taxonomy menu-item-object-post_tag menu-item-10960"><a class="nav-link" href="https://www.vmgirls.com/tag/%e5%b0%8f%e6%b8%85%e6%96%b0">小清新</a></li>
+<li id="menu-item-10961" class="menu-item menu-item-type-taxonomy menu-item-object-post_tag menu-item-10961"><a class="nav-link" href="https://www.vmgirls.com/tag/beauty">小姐姐</a></li>
+<li id="menu-item-10962" class="menu-item menu-item-type-taxonomy menu-item-object-post_tag menu-item-10962"><a class="nav-link" href="https://www.vmgirls.com/tag/%e6%97%a5%e7%b3%bb">日系</a></li>
+<li id="menu-item-10963" class="menu-item menu-item-type-taxonomy menu-item-object-post_tag menu-item-10963"><a class="nav-link" href="https://www.vmgirls.com/tag/%e6%91%84%e5%bd%b1">摄影</a></li>
+<li id="menu-item-10964" class="menu-item menu-item-type-taxonomy menu-item-object-post_tag menu-item-10964"><a class="nav-link" href="https://www.vmgirls.com/tag/%e9%9d%92%e6%98%a5">青春</a></li>
+<li id="menu-item-11170" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-11170"><a class="nav-link" target="_blank" rel="noopener noreferrer" href="https://www.vmgirls.com/sitemap.shtml">网站地图</a></li>
+<li id="menu-item-7838" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-7838"><a class="nav-link" target="_blank" rel="noopener noreferrer" href="https://www.vmgirls.com/about-us.html">关于</a></li>
+</ul>
+</div>
+</div></nav></header><main class="py-4 py-md-5"><div class="container">
+<div class="d-none d-md-block breadcrumbs mb-3 mb-md-4">
+<span itemprop="itemListElement"><a href="https://www.vmgirls.com/" itemprop="item" class="home"><span itemprop="name" class="text-muted">首页</span></a></span> <span class="sep">›</span> <span itemprop="itemListElement"><a href="https://www.vmgirls.com/pure" itemprop="item"><span itemprop="name" class="text-muted">清纯少女</span></a></span> <span class="sep">›</span> <span class="current">秋日温柔，人间理想</span>
+</div>
+<div class="row no-gutters">
+<div class="col-12 col-lg-9 pr-lg-5"><div class="post">
+<div class="post-cover mb-4"><div class="media media-3x1"><div class="media-content" style='background-image:url("data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7")' data-bg="url('https://static.vmgirls.com/image/2019/10/8FC5182A-1C7C-467C-8C5D-0618D825C1AF-1-scaled.jpeg')" data-nclazyload="true"></div></div></div>
+<h1 class="post-title h3">秋日温柔，人间理想</h1>
+<div class="post-meta d-flex align-items-center flex-row text-muted my-3 my-md-4">
+<div class="d-flex flex-fill align-items-center">
+<div class="author-popup flex-avatar w-40"> <img alt="" src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" class="avatar avatar-40 photo w-40" height="40" width="40" data-src="//gravatar.loli.net/avatar/eb7f91a393b6c689e33a150bece47276?s=40&amp;d=https%3A%2F%2Fwww.vmgirls.com%2Fimage%2F2019%2F02%2FIMG_54681.jpg&amp;r=g" data-nclazyload="true" data-srcset="//gravatar.loli.net/avatar/eb7f91a393b6c689e33a150bece47276?s=80&amp;d=https%3A%2F%2Fwww.vmgirls.com%2Fimage%2F2019%2F02%2FIMG_54681.jpg&amp;r=g 2x">
+</div>
+<div class="author-name d-flex flex-wrap flex-column mx-2 mx-md-3">
+<div class="text-md"><a href="#" class="author-popup">佩佩</a></div>
+<div class="text-xs text-muted"> <time class="date mr-1">4月前</time><i class="d-none d-md-inline-block">发布在</i> <a class="text-secondary" href="https://www.vmgirls.com/pure" rel="category tag" target="_blank">清纯少女</a>
+</div>
+</div>
+</div>
+<div class="post-data d-none d-md-flex text-nowrap text-md "> <span class="mx-1 mx-md-2"> <i class="text-lg iconfont icon-preview"></i> <small class="font-theme">1,801</small> </span> <span class="mx-1 mx-md-2"> <a class=" post-like" href="javascript:;" data-action="like" data-id="12985"> <i class="text-lg iconfont icon-like"></i> <small class="like-count font-theme">114</small> </a> </span>
+</div>
+</div>
+<div class="border-top py-2 py-md-3"></div>
+<div class="post-content"><div class="nc-light-gallery"><ul><li>◎摄影/后期：@萌琦琦M77<br> – – – – – – – –<br> 秋日温柔，人间理想。<br><a href="https://static.vmgirls.com/image/2019/10/470B6B0D-609A-4A84-A533-351AF30F3927-1-scaled.jpeg" alt="秋日温柔，人间理想" title="秋日温柔，人间理想"><img alt="秋日温柔，人间理想-唯美女生" src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" data-src="https://static.vmgirls.com/image/2019/10/470B6B0D-609A-4A84-A533-351AF30F3927-1-scaled.jpeg" data-nclazyload="true"></a> <a href="https://static.vmgirls.com/image/2019/10/E5F964DF-BEC8-4399-90FF-5131A1D5F406-1-scaled.jpeg" alt="秋日温柔，人间理想" title="秋日温柔，人间理想"><img alt="秋日温柔，人间理想-唯美女生" src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" data-src="https://static.vmgirls.com/image/2019/10/E5F964DF-BEC8-4399-90FF-5131A1D5F406-1-scaled.jpeg" data-nclazyload="true"></a> <a href="https://static.vmgirls.com/image/2019/10/5665E6D5-DF9B-475F-AAC8-DD9F689B71A9-1-scaled.jpeg" alt="秋日温柔，人间理想" title="秋日温柔，人间理想"><img alt="秋日温柔，人间理想-唯美女生" src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" data-src="https://static.vmgirls.com/image/2019/10/5665E6D5-DF9B-475F-AAC8-DD9F689B71A9-1-scaled.jpeg" data-nclazyload="true"></a> <a href="https://static.vmgirls.com/image/2019/10/8FC5182A-1C7C-467C-8C5D-0618D825C1AF-1-scaled.jpeg" alt="秋日温柔，人间理想" title="秋日温柔，人间理想"><img alt="秋日温柔，人间理想-唯美女生" src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" data-src="https://static.vmgirls.com/image/2019/10/8FC5182A-1C7C-467C-8C5D-0618D825C1AF-1-scaled.jpeg" data-nclazyload="true"></a> <a href="https://static.vmgirls.com/image/2019/10/90DBAC73-6785-4653-9E7D-6EABBCEE3134-1-scaled.jpeg" alt="秋日温柔，人间理想" title="秋日温柔，人间理想"><img alt="秋日温柔，人间理想-唯美女生" src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" data-src="https://static.vmgirls.com/image/2019/10/90DBAC73-6785-4653-9E7D-6EABBCEE3134-1-scaled.jpeg" data-nclazyload="true"></a> <a href="https://static.vmgirls.com/image/2019/10/E1DF3578-2865-430B-9518-AA7EB7C05459-1-scaled.jpeg" alt="秋日温柔，人间理想" title="秋日温柔，人间理想"><img alt="秋日温柔，人间理想-唯美女生" src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" data-src="https://static.vmgirls.com/image/2019/10/E1DF3578-2865-430B-9518-AA7EB7C05459-1-scaled.jpeg" data-nclazyload="true"></a> <a href="https://static.vmgirls.com/image/2019/10/FDF53E13-D836-4E4D-B1E1-28555D3EBBE4-1-scaled.jpeg" alt="秋日温柔，人间理想" title="秋日温柔，人间理想"><img alt="秋日温柔，人间理想-唯美女生" src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" data-src="https://static.vmgirls.com/image/2019/10/FDF53E13-D836-4E4D-B1E1-28555D3EBBE4-1-scaled.jpeg" data-nclazyload="true"></a> <a href="https://static.vmgirls.com/image/2019/10/A67B2C2E-CF20-42A2-B00C-D09BEBDB6D69-1-scaled.jpeg" alt="秋日温柔，人间理想" title="秋日温柔，人间理想"><img alt="秋日温柔，人间理想-唯美女生" src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" data-src="https://static.vmgirls.com/image/2019/10/A67B2C2E-CF20-42A2-B00C-D09BEBDB6D69-1-scaled.jpeg" data-nclazyload="true"></a> <a href="https://static.vmgirls.com/image/2019/10/14BB45B2-0FCD-4502-BE4F-AC4DC3C2B772-1-scaled.jpeg" alt="秋日温柔，人间理想" title="秋日温柔，人间理想"><img alt="秋日温柔，人间理想-唯美女生" src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" data-src="https://static.vmgirls.com/image/2019/10/14BB45B2-0FCD-4502-BE4F-AC4DC3C2B772-1-scaled.jpeg" data-nclazyload="true"></a> <a href="https://static.vmgirls.com/image/2019/10/A15D1787-CB78-4EAE-A44E-FB725E7E7344-1-scaled.jpeg" alt="秋日温柔，人间理想" title="秋日温柔，人间理想"><img alt="秋日温柔，人间理想-唯美女生" src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" data-src="https://static.vmgirls.com/image/2019/10/A15D1787-CB78-4EAE-A44E-FB725E7E7344-1-scaled.jpeg" data-nclazyload="true"></a> <a href="https://static.vmgirls.com/image/2019/10/31187C1E-1EA1-4B18-A196-D311A122D012-1-scaled.jpeg" alt="秋日温柔，人间理想" title="秋日温柔，人间理想"><img alt="秋日温柔，人间理想-唯美女生" src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" data-src="https://static.vmgirls.com/image/2019/10/31187C1E-1EA1-4B18-A196-D311A122D012-1-scaled.jpeg" data-nclazyload="true"></a> <a href="https://static.vmgirls.com/image/2019/10/FCFD06E3-B94D-49D0-8195-D750CE1D8827-1-scaled.jpeg" alt="秋日温柔，人间理想" title="秋日温柔，人间理想"><img alt="秋日温柔，人间理想-唯美女生" src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" data-src="https://static.vmgirls.com/image/2019/10/FCFD06E3-B94D-49D0-8195-D750CE1D8827-1-scaled.jpeg" data-nclazyload="true"></a> <a href="https://static.vmgirls.com/image/2019/10/762D97D1-17E1-4928-8F7D-DCE7C0093C38-1-scaled.jpeg" alt="秋日温柔，人间理想" title="秋日温柔，人间理想"><img alt="秋日温柔，人间理想-唯美女生" src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" data-src="https://static.vmgirls.com/image/2019/10/762D97D1-17E1-4928-8F7D-DCE7C0093C38-1-scaled.jpeg" data-nclazyload="true"></a> <a href="https://static.vmgirls.com/image/2019/10/1DC490C0-F289-4B01-A8AD-61F86B0179EE-1-scaled.jpeg" alt="秋日温柔，人间理想" title="秋日温柔，人间理想"><img alt="秋日温柔，人间理想-唯美女生" src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" data-src="https://static.vmgirls.com/image/2019/10/1DC490C0-F289-4B01-A8AD-61F86B0179EE-1-scaled.jpeg" data-nclazyload="true"></a> <a href="https://static.vmgirls.com/image/2019/10/DCEA6769-86EB-4118-A317-A4D31B13CA31-1-scaled.jpeg" alt="秋日温柔，人间理想" title="秋日温柔，人间理想"><img alt="秋日温柔，人间理想-唯美女生" src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" data-src="https://static.vmgirls.com/image/2019/10/DCEA6769-86EB-4118-A317-A4D31B13CA31-1-scaled.jpeg" data-nclazyload="true"></a> <a href="https://static.vmgirls.com/image/2019/10/6FCC04DD-B7E1-493F-9834-BE221DD085CE-1-scaled.jpeg" alt="秋日温柔，人间理想" title="秋日温柔，人间理想"><img alt="秋日温柔，人间理想-唯美女生" src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" data-src="https://static.vmgirls.com/image/2019/10/6FCC04DD-B7E1-493F-9834-BE221DD085CE-1-scaled.jpeg" data-nclazyload="true"></a> <a href="https://static.vmgirls.com/image/2019/10/4CEA267D-B604-4D61-AC0F-A9839BB63DF5-1-scaled.jpeg" alt="秋日温柔，人间理想" title="秋日温柔，人间理想"><img alt="秋日温柔，人间理想-唯美女生" src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" data-src="https://static.vmgirls.com/image/2019/10/4CEA267D-B604-4D61-AC0F-A9839BB63DF5-1-scaled.jpeg" data-nclazyload="true"></a> <a href="https://static.vmgirls.com/image/2019/10/87C29B66-ECC0-492F-8F01-BBC1C9412D2D-1-scaled.jpeg" alt="秋日温柔，人间理想" title="秋日温柔，人间理想"><img alt="秋日温柔，人间理想-唯美女生" src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" data-src="https://static.vmgirls.com/image/2019/10/87C29B66-ECC0-492F-8F01-BBC1C9412D2D-1-scaled.jpeg" data-nclazyload="true"></a>
+</li></ul></div></div>
+<section class="list-sales d-none d-lg-block"><a href="https://url.cn/5g9yxEw" target="_blank"><img src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" data-src="https://static.vmgirls.com/image/2020/02/2020021018120696.jpg" data-nclazyload="true"></a></section><section class="list-sales d-lg-none"><a href="https://url.cn/5g9yxEw" target="_blank"><img src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" data-src="https://static.vmgirls.com/image/2020/02/2020021018123032.jpg" data-nclazyload="true"></a></section><div class="post-tags mt-3 mt-md-4"> <a href="https://www.vmgirls.com/tag/beauty" rel="tag">小姐姐</a><a href="https://www.vmgirls.com/tag/%e5%b0%8f%e6%b8%85%e6%96%b0" rel="tag">小清新</a><a href="https://www.vmgirls.com/tag/%e5%b0%91%e5%a5%b3" rel="tag">少女</a><a href="https://www.vmgirls.com/tag/%e6%91%84%e5%bd%b1" rel="tag">摄影</a><a href="https://www.vmgirls.com/tag/%e6%97%a5%e7%b3%bb" rel="tag">日系</a><a href="https://www.vmgirls.com/tag/%e6%b8%85%e7%ba%af" rel="tag">清纯</a><a href="https://www.vmgirls.com/tag/%e7%94%9c%e7%be%8e" rel="tag">甜美</a><a href="https://www.vmgirls.com/tag/%e9%9d%92%e6%98%a5" rel="tag">青春</a>
+</div>
+<div class="hr-short"></div>
+<div class="post-declare mt-3 mt-md-4"><p>本文系作者 @<a href="https://www.vmgirls.com/author/girls" title="由佩佩发布" rel="author">佩佩</a> 原创发布在 唯美女生。未经许可，禁止转载。</p></div>
+<div id="post-action" class="post-action pt-5">
+<div class="d-none d-md-block text-center"> <a href="javascript:" data-action="like" data-id="12985" class=" post-like btn btn-light btn-xl btn-icon btn-rounded mx-1"><span class="flex-column text-height-xs"><i class="text-lg iconfont icon-like_fill"></i><small class="font-theme like-count">114</small></span></a>
+</div>
+<div class="d-md-none text-center mb-3"> <span class="d-inline-block w-80 border-bottom border-light mb-1"></span> <span class="font-theme text-xs text-muted mx-2">分享本文</span> <span class="d-inline-block w-80 border-bottom border-light mb-1"></span>
+</div>
+<div class="d-md-flex flex-md-fill align-items-md-center text-center mt-md-5"> <a class="d-none d-md-inline-block " id="btn-bigger-cover" href="javascript:;" data-id="12985"> <i class="text-xl text-height-xs iconfont icon-zhuanfa-"></i> </a><div class="flex-md-fill"></div>
+<div class="post-social"> <a href="//service.weibo.com/share/share.php?url=https%3A%2F%2Fwww.vmgirls.com%2F12985.html&amp;type=button&amp;language=zh_cn&amp;title=%E3%80%90%E7%A7%8B%E6%97%A5%E6%B8%A9%E6%9F%94%EF%BC%8C%E4%BA%BA%E9%97%B4%E7%90%86%E6%83%B3%E3%80%91%E2%97%8E%E6%91%84%E5%BD%B1%2F%E5%90%8E%E6%9C%9F%EF%BC%9A%40%E8%90%8C%E7%90%A6%E7%90%A6M77%0A%26%238211%3B+%26%238211%3B+%26%238211%3B+%26%238211%3B+%26%238211%3B+%26%238211%3B+%26%238211%3B+%26%238211%3B%0A%E7%A7%8B%E6%97%A5%E6%B8%A9%E6%9F%94%EF%BC%8C%E4%BA%BA%E9%97%B4%E7%90%86%E6%83%B3%E3%80%82%0A...&amp;searchPic=true" target="_blank" class="btn btn-light btn-icon btn-weibo btn-rounded btn-md"><span><i class="iconfont icon-weibo"></i></span></a> <a href="javascript:" class="btn btn-light btn-icon btn-weixin single-popup btn-rounded btn-md" data-img="https://www.vmgirls.com/wp-content/themes/Cosy/modules/qrcode.php?data=https%3A%2F%2Fwww.vmgirls.com%2F12985.html" data-title="微信扫一扫 分享朋友圈" data-desc="在微信内长按二维码"><span><i class="iconfont icon-wechat"></i></span></a> <a href="https://connect.qq.com/widget/shareqq/index.html?url=https%3A%2F%2Fwww.vmgirls.com%2F12985.html&amp;title=%E7%A7%8B%E6%97%A5%E6%B8%A9%E6%9F%94%EF%BC%8C%E4%BA%BA%E9%97%B4%E7%90%86%E6%83%B3&amp;summary=%E2%97%8E%E6%91%84%E5%BD%B1%2F%E5%90%8E%E6%9C%9F%EF%BC%9A%40%E8%90%8C%E7%90%A6%E7%90%A6M77%0A%26%238211%3B+%26%238211%3B+%26%238211%3B+%26%238211%3B+%26%238211%3B+%26%238211%3B+%26%238211%3B+%26%238211%3B%0A%E7%A7%8B%E6%97%A5%E6%B8%A9%E6%9F%94%EF%BC%8C%E4%BA%BA%E9%97%B4%E7%90%86%E6%83%B3%E3%80%82%0A..." target="_blank" class="btn btn-light btn-icon btn-qq btn-rounded btn-md"><span><i class="iconfont icon-qq"></i></span></a> <a href="https://www.facebook.com/sharer.php?u=https%3A%2F%2Fwww.vmgirls.com%2F12985.html" target="_blank" class="btn btn-light btn-icon btn-facebook btn-rounded btn-md"><span><i class="iconfont icon-facebook"></i></span></a> <a href="https://twitter.com/intent/tweet?url=https%3A%2F%2Fwww.vmgirls.com%2F12985.html" target="_blank" class="btn btn-light btn-icon btn-twitter btn-rounded btn-md"><span><i class="iconfont icon-twitter"></i></span></a> <a href="https://www.linkedin.com/shareArticle?mini=true&amp;url=https%3A%2F%2Fwww.vmgirls.com%2F12985.html&amp;title=%E7%A7%8B%E6%97%A5%E6%B8%A9%E6%9F%94%EF%BC%8C%E4%BA%BA%E9%97%B4%E7%90%86%E6%83%B3&amp;summary=%E2%97%8E%E6%91%84%E5%BD%B1%2F%E5%90%8E%E6%9C%9F%EF%BC%9A%40%E8%90%8C%E7%90%A6%E7%90%A6M77%0A%26%238211%3B+%26%238211%3B+%26%238211%3B+%26%238211%3B+%26%238211%3B+%26%238211%3B+%26%238211%3B+%26%238211%3B%0A%E7%A7%8B%E6%97%A5%E6%B8%A9%E6%9F%94%EF%BC%8C%E4%BA%BA%E9%97%B4%E7%90%86%E6%83%B3%E3%80%82%0A..." target="_blank" class="btn btn-light btn-icon btn-linkedin btn-rounded btn-md"><span><i class="iconfont icon-linkedin"></i></span></a>
+</div>
+</div>
+</div>
+<div class="post-next-prev list-grouped row-sm my-n1 pt-5">
+<div class="col-12 col-md-6 py-1"><div class="list-item list-overlay block">
+<div class="media media-3x1"><div class="media-content" style='background-image:url("data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7")' data-bg=" url('https://static.vmgirls.com/image/2019/10/B1F023A6-A068-4B6F-ACD7-8A79D597A24F.jpeg')" data-nclazyload="true"><span class="overlay"></span></div></div>
+<div class="list-content p-3 p-md-4">
+<div class="list-body "> <a href="https://www.vmgirls.com/12973.html" class="list-title" title="再见了夏天"><div class="h-2x h6 text-white"> 再见了夏天</div> </a>
+</div>
+<div class="list-footer"><div class="text-xs text-muted">上一篇</div></div>
+</div>
+</div></div>
+<div class="col-12 col-md-6 py-1"><div class="list-item list-overlay block custom-hover">
+<div class="media media-3x1"><div class="media-content custom-hover-img" style='background-image:url("data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7")' data-bg=" url('https://static.vmgirls.com/image/2019/11/8DF15702-BD19-4AC7-A53E-1526591EA50B-scaled.jpeg')" data-nclazyload="true"><span class="overlay"></span></div></div>
+<div class="list-content p-3 p-md-4">
+<div class="list-body "> <a href="https://www.vmgirls.com/13055.html" class="list-title" title="野蛮生长，放肆可爱。"><div class="h-2x h6 text-white"> 野蛮生长，放肆可爱。</div> </a>
+</div>
+<div class="list-footer"><div class="text-xs text-muted">下一篇</div></div>
+</div>
+</div></div>
+</div>
+</div></div>
+<div class="sidebar col-lg-3 d-none d-lg-block"><aside id="secondary" class="widget-area pt-5 pt-lg-0"><section id="search-3" class="widget widget_search"><form role="search" method="get" id="searchform" class="searchform" action="https://www.vmgirls.com/"><div class="search-input form-group m-0">
+<label class="screen-reader-text" for="s">Search for:</label> <input type="text" placeholder="说点什么吧…" class="form-control" value="" name="s" id="s" required=""><button class="btn" type="submit" id="searchsubmit"><i class="iconfont icon-search"></i></button>
+</div></form></section><section id="recommended_posts-8" class="widget Recommended_Posts"><div class="widget-title">相关文章</div>
+<div class="list-grid list-grid-padding list-bordered list-bordered-padding my-n3">
+<div class="list-item py-3">
+<div class="media media-4x3 col-4"> <a href="https://www.vmgirls.com/13615.html" target="_blank" class="media-content" style='background-image:url("data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7")' data-bg="url('https://static.vmgirls.com/image/2020/02/2020022410300260-scaled.jpeg')" data-nclazyload="true"></a>
+</div>
+<div class="list-content">
+<div class="list-body"> <a href="https://www.vmgirls.com/13615.html" target="_blank" class="list-title text-sm h-2x">悄悄话说给自己听</a>
+</div>
+<div class="list-footer text-muted text-xs m-0"><div>21小时前</div></div>
+</div>
+</div>
+<div class="list-item py-3">
+<div class="media media-4x3 col-4"> <a href="https://www.vmgirls.com/13591.html" target="_blank" class="media-content" style='background-image:url("data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7")' data-bg="url('https://static.vmgirls.com/image/2020/02/2020022012351052-scaled.jpeg')" data-nclazyload="true"></a>
+</div>
+<div class="list-content">
+<div class="list-body"> <a href="https://www.vmgirls.com/13591.html" target="_blank" class="list-title text-sm h-2x">春日小甜心</a>
+</div>
+<div class="list-footer text-muted text-xs m-0"><div>5天前</div></div>
+</div>
+</div>
+<div class="list-item py-3">
+<div class="media media-4x3 col-4"> <a href="https://www.vmgirls.com/13540.html" target="_blank" class="media-content" style='background-image:url("data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7")' data-bg="url('https://static.vmgirls.com/image/2020/02/2020020411520076-scaled.jpeg')" data-nclazyload="true"></a>
+</div>
+<div class="list-content">
+<div class="list-body"> <a href="https://www.vmgirls.com/13540.html" target="_blank" class="list-title text-sm h-2x">你是暖阳啊</a>
+</div>
+<div class="list-footer text-muted text-xs m-0"><div>3周前</div></div>
+</div>
+</div>
+<div class="list-item py-3">
+<div class="media media-4x3 col-4"> <a href="https://www.vmgirls.com/13506.html" target="_blank" class="media-content" style='background-image:url("data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7")' data-bg="url('https://static.vmgirls.com/image/2020/01/2020013014540358-scaled.jpeg')" data-nclazyload="true"></a>
+</div>
+<div class="list-content">
+<div class="list-body"> <a href="https://www.vmgirls.com/13506.html" target="_blank" class="list-title text-sm h-2x">你眼里的小星星</a>
+</div>
+<div class="list-footer text-muted text-xs m-0"><div>4周前</div></div>
+</div>
+</div>
+</div></section><section id="recommended_posts-6" class="widget Recommended_Posts"><div class="widget-title">最近更新</div>
+<div class="list-grid list-grid-padding list-bordered list-bordered-padding my-n3">
+<div class="list-item py-3">
+<div class="media media-4x3 col-4"> <a href="https://www.vmgirls.com/13615.html" target="_blank" class="media-content" style='background-image:url("data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7")' data-bg="url('https://static.vmgirls.com/image/2020/02/2020022410300260-scaled.jpeg')" data-nclazyload="true"></a>
+</div>
+<div class="list-content">
+<div class="list-body"> <a href="https://www.vmgirls.com/13615.html" target="_blank" class="list-title text-sm h-2x">悄悄话说给自己听</a>
+</div>
+<div class="list-footer text-muted text-xs m-0"><div>21小时前</div></div>
+</div>
+</div>
+<div class="list-item py-3">
+<div class="media media-4x3 col-4"> <a href="https://www.vmgirls.com/13591.html" target="_blank" class="media-content" style='background-image:url("data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7")' data-bg="url('https://static.vmgirls.com/image/2020/02/2020022012351052-scaled.jpeg')" data-nclazyload="true"></a>
+</div>
+<div class="list-content">
+<div class="list-body"> <a href="https://www.vmgirls.com/13591.html" target="_blank" class="list-title text-sm h-2x">春日小甜心</a>
+</div>
+<div class="list-footer text-muted text-xs m-0"><div>5天前</div></div>
+</div>
+</div>
+<div class="list-item py-3">
+<div class="media media-4x3 col-4"> <a href="https://www.vmgirls.com/13540.html" target="_blank" class="media-content" style='background-image:url("data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7")' data-bg="url('https://static.vmgirls.com/image/2020/02/2020020411520076-scaled.jpeg')" data-nclazyload="true"></a>
+</div>
+<div class="list-content">
+<div class="list-body"> <a href="https://www.vmgirls.com/13540.html" target="_blank" class="list-title text-sm h-2x">你是暖阳啊</a>
+</div>
+<div class="list-footer text-muted text-xs m-0"><div>3周前</div></div>
+</div>
+</div>
+<div class="list-item py-3">
+<div class="media media-4x3 col-4"> <a href="https://www.vmgirls.com/13506.html" target="_blank" class="media-content" style='background-image:url("data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7")' data-bg="url('https://static.vmgirls.com/image/2020/01/2020013014540358-scaled.jpeg')" data-nclazyload="true"></a>
+</div>
+<div class="list-content">
+<div class="list-body"> <a href="https://www.vmgirls.com/13506.html" target="_blank" class="list-title text-sm h-2x">你眼里的小星星</a>
+</div>
+<div class="list-footer text-muted text-xs m-0"><div>4周前</div></div>
+</div>
+</div>
+<div class="list-item py-3">
+<div class="media media-4x3 col-4"> <a href="https://www.vmgirls.com/13487.html" target="_blank" class="media-content" style='background-image:url("data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7")' data-bg="url('https://static.vmgirls.com/image/2020/01/2020012508051310-scaled.jpeg')" data-nclazyload="true"></a>
+</div>
+<div class="list-content">
+<div class="list-body"> <a href="https://www.vmgirls.com/13487.html" target="_blank" class="list-title text-sm h-2x">你与星河,皆可收藏</a>
+</div>
+<div class="list-footer text-muted text-xs m-0"><div>1月前</div></div>
+</div>
+</div>
+<div class="list-item py-3">
+<div class="media media-4x3 col-4"> <a href="https://www.vmgirls.com/13433.html" target="_blank" class="media-content" style='background-image:url("data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7")' data-bg="url('https://static.vmgirls.com/image/2020/01/2020010609400065-scaled.jpeg')" data-nclazyload="true"></a>
+</div>
+<div class="list-content">
+<div class="list-body"> <a href="https://www.vmgirls.com/13433.html" target="_blank" class="list-title text-sm h-2x">只想在你身边静静地发呆</a>
+</div>
+<div class="list-footer text-muted text-xs m-0"><div>2月前</div></div>
+</div>
+</div>
+</div></section><section id="recommended_posts-7" class="widget Recommended_Posts"><div class="widget-title">热门文章</div>
+<div class="list-grid list-grid-padding list-bordered list-bordered-padding my-n3">
+<div class="list-item py-3">
+<div class="media media-4x3 col-4"> <a href="https://www.vmgirls.com/13615.html" target="_blank" class="media-content" style='background-image:url("data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7")' data-bg="url('https://static.vmgirls.com/image/2020/02/2020022410300260-scaled.jpeg')" data-nclazyload="true"></a>
+</div>
+<div class="list-content">
+<div class="list-body"> <a href="https://www.vmgirls.com/13615.html" target="_blank" class="list-title text-sm h-2x">悄悄话说给自己听</a>
+</div>
+<div class="list-footer text-muted text-xs m-0"><div>21小时前</div></div>
+</div>
+</div>
+<div class="list-item py-3">
+<div class="media media-4x3 col-4"> <a href="https://www.vmgirls.com/13506.html" target="_blank" class="media-content" style='background-image:url("data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7")' data-bg="url('https://static.vmgirls.com/image/2020/01/2020013014540358-scaled.jpeg')" data-nclazyload="true"></a>
+</div>
+<div class="list-content">
+<div class="list-body"> <a href="https://www.vmgirls.com/13506.html" target="_blank" class="list-title text-sm h-2x">你眼里的小星星</a>
+</div>
+<div class="list-footer text-muted text-xs m-0"><div>4周前</div></div>
+</div>
+</div>
+<div class="list-item py-3">
+<div class="media media-4x3 col-4"> <a href="https://www.vmgirls.com/13591.html" target="_blank" class="media-content" style='background-image:url("data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7")' data-bg="url('https://static.vmgirls.com/image/2020/02/2020022012351052-scaled.jpeg')" data-nclazyload="true"></a>
+</div>
+<div class="list-content">
+<div class="list-body"> <a href="https://www.vmgirls.com/13591.html" target="_blank" class="list-title text-sm h-2x">春日小甜心</a>
+</div>
+<div class="list-footer text-muted text-xs m-0"><div>5天前</div></div>
+</div>
+</div>
+<div class="list-item py-3">
+<div class="media media-4x3 col-4"> <a href="https://www.vmgirls.com/13540.html" target="_blank" class="media-content" style='background-image:url("data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7")' data-bg="url('https://static.vmgirls.com/image/2020/02/2020020411520076-scaled.jpeg')" data-nclazyload="true"></a>
+</div>
+<div class="list-content">
+<div class="list-body"> <a href="https://www.vmgirls.com/13540.html" target="_blank" class="list-title text-sm h-2x">你是暖阳啊</a>
+</div>
+<div class="list-footer text-muted text-xs m-0"><div>3周前</div></div>
+</div>
+</div>
+<div class="list-item py-3">
+<div class="media media-4x3 col-4"> <a href="https://www.vmgirls.com/13487.html" target="_blank" class="media-content" style='background-image:url("data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7")' data-bg="url('https://static.vmgirls.com/image/2020/01/2020012508051310-scaled.jpeg')" data-nclazyload="true"></a>
+</div>
+<div class="list-content">
+<div class="list-body"> <a href="https://www.vmgirls.com/13487.html" target="_blank" class="list-title text-sm h-2x">你与星河,皆可收藏</a>
+</div>
+<div class="list-footer text-muted text-xs m-0"><div>1月前</div></div>
+</div>
+</div>
+</div></section><section id="tag_cloud-2" class="widget widget_tag_cloud"><div class="widget-title">热门标签</div>
+<div class="tagcloud">
+<a href="https://www.vmgirls.com/tag/jk" class="tag-cloud-link tag-link-68 tag-link-position-1" style="font-size: 13.15523465704pt;" aria-label="JK (20个项目)">JK<span class="tag-link-count"> (20)</span></a> <a href="https://www.vmgirls.com/tag/%e4%ba%8c%e6%ac%a1%e5%85%83" class="tag-cloud-link tag-link-57 tag-link-position-2" style="font-size: 10.779783393502pt;" aria-label="二次元 (6个项目)">二次元<span class="tag-link-count"> (6)</span></a> <a href="https://www.vmgirls.com/tag/%e5%88%9d%e6%81%8b" class="tag-cloud-link tag-link-78 tag-link-position-3" style="font-size: 10.779783393502pt;" aria-label="初恋 (6个项目)">初恋<span class="tag-link-count"> (6)</span></a> <a href="https://www.vmgirls.com/tag/%e5%8f%a4%e9%a3%8e" class="tag-cloud-link tag-link-40 tag-link-position-4" style="font-size: 9.5162454873646pt;" aria-label="古风 (3个项目)">古风<span class="tag-link-count"> (3)</span></a> <a href="https://www.vmgirls.com/tag/%e5%8f%af%e7%88%b1" class="tag-cloud-link tag-link-41 tag-link-position-5" style="font-size: 20.028880866426pt;" aria-label="可爱 (479个项目)">可爱<span class="tag-link-count"> (479)</span></a> <a href="https://www.vmgirls.com/tag/%e5%94%af%e7%be%8e" class="tag-cloud-link tag-link-55 tag-link-position-6" style="font-size: 10.425992779783pt;" aria-label="唯美 (5个项目)">唯美<span class="tag-link-count"> (5)</span></a> <a href="https://www.vmgirls.com/tag/%e5%9b%9e%e5%bf%86" class="tag-cloud-link tag-link-13 tag-link-position-7" style="font-size: 10.425992779783pt;" aria-label="回忆 (5个项目)">回忆<span class="tag-link-count"> (5)</span></a> <a href="https://www.vmgirls.com/tag/%e5%a4%8d%e5%8f%a4" class="tag-cloud-link tag-link-74 tag-link-position-8" style="font-size: 9.5162454873646pt;" aria-label="复古 (3个项目)">复古<span class="tag-link-count"> (3)</span></a> <a href="https://www.vmgirls.com/tag/%e5%a5%b3%e7%a5%9e" class="tag-cloud-link tag-link-22 tag-link-position-9" style="font-size: 19.321299638989pt;" aria-label="女神 (344个项目)">女神<span class="tag-link-count"> (344)</span></a> <a href="https://www.vmgirls.com/tag/%e5%a6%b9%e7%ba%b8" class="tag-cloud-link tag-link-37 tag-link-position-10" style="font-size: 20.888086642599pt;" aria-label="妹纸 (703个项目)">妹纸<span class="tag-link-count"> (703)</span></a> <a href="https://www.vmgirls.com/tag/beauty" class="tag-cloud-link tag-link-35 tag-link-position-11" style="font-size: 22pt;" aria-label="小姐姐 (1,169个项目)">小姐姐<span class="tag-link-count"> (1169)</span></a> <a href="https://www.vmgirls.com/tag/%e5%b0%8f%e6%b8%85%e6%96%b0" class="tag-cloud-link tag-link-27 tag-link-position-12" style="font-size: 22pt;" aria-label="小清新 (1,173个项目)">小清新<span class="tag-link-count"> (1173)</span></a> <a href="https://www.vmgirls.com/tag/%e5%b0%8f%e7%8e%8b%e5%ad%90" class="tag-cloud-link tag-link-4 tag-link-position-13" style="font-size: 8pt;" aria-label="小王子 (1个项目)">小王子<span class="tag-link-count"> (1)</span></a> <a href="https://www.vmgirls.com/tag/%e5%b0%91%e5%a5%b3" class="tag-cloud-link tag-link-42 tag-link-position-14" style="font-size: 22pt;" aria-label="少女 (1,180个项目)">少女<span class="tag-link-count"> (1180)</span></a> <a href="https://www.vmgirls.com/tag/%e5%b0%a4%e5%85%8b%e9%87%8c%e9%87%8c" class="tag-cloud-link tag-link-91 tag-link-position-15" style="font-size: 8pt;" aria-label="尤克里里 (1个项目)">尤克里里<span class="tag-link-count"> (1)</span></a> <a href="https://www.vmgirls.com/tag/%e5%b9%bd%e9%bb%98" class="tag-cloud-link tag-link-9 tag-link-position-16" style="font-size: 8.9097472924188pt;" aria-label="幽默 (2个项目)">幽默<span class="tag-link-count"> (2)</span></a> <a href="https://www.vmgirls.com/tag/%e5%bf%83%e6%83%85" class="tag-cloud-link tag-link-76 tag-link-position-17" style="font-size: 8.9097472924188pt;" aria-label="心情 (2个项目)">心情<span class="tag-link-count"> (2)</span></a> <a href="https://www.vmgirls.com/tag/%e6%83%85%e6%84%9f" class="tag-cloud-link tag-link-14 tag-link-position-18" style="font-size: 9.5162454873646pt;" aria-label="情感 (3个项目)">情感<span class="tag-link-count"> (3)</span></a> <a href="https://www.vmgirls.com/tag/%e6%91%84%e5%bd%b1" class="tag-cloud-link tag-link-21 tag-link-position-19" style="font-size: 20.382671480144pt;" aria-label="摄影 (559个项目)">摄影<span class="tag-link-count"> (559)</span></a> <a href="https://www.vmgirls.com/tag/%e6%91%84%e5%bd%b1%e5%86%99%e7%9c%9f" class="tag-cloud-link tag-link-80 tag-link-position-20" style="font-size: 8pt;" aria-label="摄影写真 (1个项目)">摄影写真<span class="tag-link-count"> (1)</span></a> <a href="https://www.vmgirls.com/tag/%e6%96%87%e8%89%ba" class="tag-cloud-link tag-link-39 tag-link-position-21" style="font-size: 17.501805054152pt;" aria-label="文艺 (150个项目)">文艺<span class="tag-link-count"> (150)</span></a> <a href="https://www.vmgirls.com/tag/%e6%97%a5%e7%b3%bb" class="tag-cloud-link tag-link-28 tag-link-position-22" style="font-size: 21.646209386282pt;" aria-label="日系 (998个项目)">日系<span class="tag-link-count"> (998)</span></a> <a href="https://www.vmgirls.com/tag/%e6%9e%97%e5%b0%8f%e5%80%a9" class="tag-cloud-link tag-link-65 tag-link-position-23" style="font-size: 8pt;" aria-label="林小倩 (1个项目)">林小倩<span class="tag-link-count"> (1)</span></a> <a href="https://www.vmgirls.com/tag/%e6%a2%a6" class="tag-cloud-link tag-link-75 tag-link-position-24" style="font-size: 9.5162454873646pt;" aria-label="梦 (3个项目)">梦<span class="tag-link-count"> (3)</span></a> <a href="https://www.vmgirls.com/tag/%e6%a3%ae%e5%a5%b3" class="tag-cloud-link tag-link-38 tag-link-position-25" style="font-size: 19.270758122744pt;" aria-label="森女 (337个项目)">森女<span class="tag-link-count"> (337)</span></a> <a href="https://www.vmgirls.com/tag/%e6%a3%ae%e7%b3%bb" class="tag-cloud-link tag-link-58 tag-link-position-26" style="font-size: 17.552346570397pt;" aria-label="森系 (154个项目)">森系<span class="tag-link-count"> (154)</span></a> <a href="https://www.vmgirls.com/tag/%e6%a8%b1%e8%8a%b1" class="tag-cloud-link tag-link-69 tag-link-position-27" style="font-size: 10.425992779783pt;" aria-label="樱花 (5个项目)">樱花<span class="tag-link-count"> (5)</span></a> <a href="https://www.vmgirls.com/tag/%e6%b1%a4%e9%9f%b3%e7%92%87" class="tag-cloud-link tag-link-81 tag-link-position-28" style="font-size: 11.285198555957pt;" aria-label="汤音璇 (8个项目)">汤音璇<span class="tag-link-count"> (8)</span></a> <a href="https://www.vmgirls.com/tag/%e6%b8%85%e7%ba%af" class="tag-cloud-link tag-link-79 tag-link-position-29" style="font-size: 17.602888086643pt;" aria-label="清纯 (156个项目)">清纯<span class="tag-link-count"> (156)</span></a> <a href="https://www.vmgirls.com/tag/%e7%88%b1%e6%83%85" class="tag-cloud-link tag-link-6 tag-link-position-30" style="font-size: 9.5162454873646pt;" aria-label="爱情 (3个项目)">爱情<span class="tag-link-count"> (3)</span></a> <a href="https://www.vmgirls.com/tag/%e7%94%9c%e7%be%8e" class="tag-cloud-link tag-link-67 tag-link-position-31" style="font-size: 17.046931407942pt;" aria-label="甜美 (123个项目)">甜美<span class="tag-link-count"> (123)</span></a> <a href="https://www.vmgirls.com/tag/%e7%9f%ad%e5%8f%a5" class="tag-cloud-link tag-link-10 tag-link-position-32" style="font-size: 8.9097472924188pt;" aria-label="短句 (2个项目)">短句<span class="tag-link-count"> (2)</span></a> <a href="https://www.vmgirls.com/tag/%e7%a7%81%e6%88%bf" class="tag-cloud-link tag-link-53 tag-link-position-33" style="font-size: 18.41155234657pt;" aria-label="私房 (229个项目)">私房<span class="tag-link-count"> (229)</span></a> <a href="https://www.vmgirls.com/tag/%e7%a8%8b%e7%86%99%e5%aa%9b" class="tag-cloud-link tag-link-64 tag-link-position-34" style="font-size: 8pt;" aria-label="程熙媛 (1个项目)">程熙媛<span class="tag-link-count"> (1)</span></a> <a href="https://www.vmgirls.com/tag/%e7%bd%91%e7%bb%9c%e8%af%ad" class="tag-cloud-link tag-link-11 tag-link-position-35" style="font-size: 8pt;" aria-label="网络语 (1个项目)">网络语<span class="tag-link-count"> (1)</span></a> <a href="https://www.vmgirls.com/tag/%e7%bf%a0%e8%8a%b1" class="tag-cloud-link tag-link-56 tag-link-position-36" style="font-size: 8pt;" aria-label="翠花 (1个项目)">翠花<span class="tag-link-count"> (1)</span></a> <a href="https://www.vmgirls.com/tag/%e8%83%b6%e7%89%87" class="tag-cloud-link tag-link-70 tag-link-position-37" style="font-size: 8pt;" aria-label="胶片 (1个项目)">胶片<span class="tag-link-count"> (1)</span></a> <a href="https://www.vmgirls.com/tag/%e8%90%9d%e8%8e%89" class="tag-cloud-link tag-link-54 tag-link-position-38" style="font-size: 14.72202166065pt;" aria-label="萝莉 (42个项目)">萝莉<span class="tag-link-count"> (42)</span></a> <a href="https://www.vmgirls.com/tag/%e8%94%b7%e8%96%87" class="tag-cloud-link tag-link-71 tag-link-position-39" style="font-size: 8pt;" aria-label="蔷薇 (1个项目)">蔷薇<span class="tag-link-count"> (1)</span></a> <a href="https://www.vmgirls.com/tag/%e8%af%bb%e4%b9%a6" class="tag-cloud-link tag-link-5 tag-link-position-40" style="font-size: 11.942238267148pt;" aria-label="读书 (11个项目)">读书<span class="tag-link-count"> (11)</span></a> <a href="https://www.vmgirls.com/tag/%e8%bd%bb%e7%a7%81%e6%88%bf" class="tag-cloud-link tag-link-73 tag-link-position-41" style="font-size: 18.462093862816pt;" aria-label="轻私房 (235个项目)">轻私房<span class="tag-link-count"> (235)</span></a> <a href="https://www.vmgirls.com/tag/%e9%92%9f%e6%9b%bc%e8%8f%b2" class="tag-cloud-link tag-link-63 tag-link-position-42" style="font-size: 8.9097472924188pt;" aria-label="钟曼菲 (2个项目)">钟曼菲<span class="tag-link-count"> (2)</span></a> <a href="https://www.vmgirls.com/tag/%e9%9a%8f%e7%ac%94" class="tag-cloud-link tag-link-77 tag-link-position-43" style="font-size: 9.5162454873646pt;" aria-label="随笔 (3个项目)">随笔<span class="tag-link-count"> (3)</span></a> <a href="https://www.vmgirls.com/tag/%e9%9d%92%e6%98%a5" class="tag-cloud-link tag-link-15 tag-link-position-44" style="font-size: 19.472924187726pt;" aria-label="青春 (373个项目)">青春<span class="tag-link-count"> (373)</span></a>
+</div></section><section id="custom_html-2" class="widget_text widget widget_custom_html"><div class="widget-title">声明</div>
+<div class="textwidget custom-html-widget">
+<p style="text-align: left;">        本站所发资源大多来自国内图虫摄影，POCO摄影，网易摄影，网易乐乎，花瓣网及摄影师微博。所有作品均按照<a href="https://creativecommons.org/licenses/by-nc-nd/4.0/deed.zh" target="_blank" rel="nofollow noopener noreferrer">署名-非商业性使用-禁止演绎 4.0 国际 (CC BY-NC-ND 4.0)</a>协议进行转载。本人所发所有内容仅作为个人爱好分享所用，并无用作商业盈利之目的。所发内容如若侵犯了您的相关权利，请及时联系<a href="/cdn-cgi/l/email-protection#8be2e6cbe5eae5a5ecee">本人</a>删除相关内容，在此对您造成的不便深感抱歉，敬请原谅！</p>
+<p style="text-align: right;">特此申明！</p>
+</div></section></aside></div>
+</div>
+</div></main><div id="page-tabbar" class="page-tabbar"><div class="container d-flex flex-row justify-content-around align-items-center py-1 h-100"> <a class=" post-like py-2 d-inline-block" href="javascript:" data-action="like" data-id="12985"> <i class="text-xl iconfont icon-like"></i> <span class="font-theme badge badge-pill badge-danger like-count">114</span> </a> <a class="py-2 d-inline-block" id="btn-bigger-cover" href="javascript:;" data-id="12985"> <i class="text-xl text-height-xs iconfont icon-zhuanfa-"></i> </a>
+</div></div>
+<section class="list-related bg-light py-4 py-md-5"><div class="container">
+<div class="list-header h5 mb-3 mb-md-4">
+<i class="text-xl text-primary iconfont icon-listview mr-1"></i>相关文章</div>
+<div class="list-grouped list-scroll-x"><div class="row-md">
+<div class="col-6 col-md-3"><div class="list-item list-nice-overlay block custom-hover">
+<div class="media media-3x2"> <a href="https://www.vmgirls.com/13615.html" class="media-content custom-hover-img" style='background-image:url("data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7")' title="悄悄话说给自己听" data-bg="url('https://static.vmgirls.com/image/2020/02/2020022410300260-scaled.jpeg')" data-nclazyload="true"><span class="overlay"></span></a>
+</div>
+<div class="list-content"><div class="list-body"> <a href="https://www.vmgirls.com/13615.html" class="list-title h-2x">悄悄话说给自己听</a>
+</div></div>
+</div></div>
+<div class="col-6 col-md-3"><div class="list-item list-nice-overlay block custom-hover">
+<div class="media media-3x2"> <a href="https://www.vmgirls.com/13591.html" class="media-content custom-hover-img" style='background-image:url("data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7")' title="春日小甜心" data-bg="url('https://static.vmgirls.com/image/2020/02/2020022012351052-scaled.jpeg')" data-nclazyload="true"><span class="overlay"></span></a>
+</div>
+<div class="list-content"><div class="list-body"> <a href="https://www.vmgirls.com/13591.html" class="list-title h-2x">春日小甜心</a>
+</div></div>
+</div></div>
+<div class="col-6 col-md-3"><div class="list-item list-nice-overlay block custom-hover">
+<div class="media media-3x2"> <a href="https://www.vmgirls.com/13540.html" class="media-content custom-hover-img" style='background-image:url("data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7")' title="你是暖阳啊" data-bg="url('https://static.vmgirls.com/image/2020/02/2020020411520076-scaled.jpeg')" data-nclazyload="true"><span class="overlay"></span></a>
+</div>
+<div class="list-content"><div class="list-body"> <a href="https://www.vmgirls.com/13540.html" class="list-title h-2x">你是暖阳啊</a>
+</div></div>
+</div></div>
+<div class="col-6 col-md-3"><div class="list-item list-nice-overlay block custom-hover">
+<div class="media media-3x2"> <a href="https://www.vmgirls.com/13506.html" class="media-content custom-hover-img" style='background-image:url("data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7")' title="你眼里的小星星" data-bg="url('https://static.vmgirls.com/image/2020/01/2020013014540358-scaled.jpeg')" data-nclazyload="true"><span class="overlay"></span></a>
+</div>
+<div class="list-content"><div class="list-body"> <a href="https://www.vmgirls.com/13506.html" class="list-title h-2x">你眼里的小星星</a>
+</div></div>
+</div></div>
+</div></div>
+</div></section><footer class="footer bg-dark pt-3 pt-md-5"><div class="container">
+<div class="row my-n3">
+<div class="col-lg-6 pr-lg-5 py-3"><div class="footer-widget pr-lg-5">
+<div class="footer-widget-header">关于</div>
+<div class="footer-widget-content"><p>少女情怀总是诗，善于发现一切美好的事物,收集分享原创高清少女美图,优质唯美图片,小清新,美女,森系,日系,私房,摄影写真</p></div>
+<div class="footer-widget-social mx-n2 mt-2"> <a href="https://weibo.com/xuhanyu0526" target="_blank" class="weibo mx-1 mx-md-2"><i class="iconfont icon-weibo"></i></a> <a href="javascript:" class="single-popup weixin mx-1 mx-md-2" data-img="https://static.vmgirls.com/image/2020/02/2020020917130279.jpeg" data-title="我辣么可爱，求投食！" data-desc="支持一下吧！(#^.^#)"><i class="iconfont icon-wechat"></i></a> <a href="https://wpa.qq.com/msgrd?v=3&amp;uin=51695210&amp;site=qq&amp;menu=yes" target="_blank" class="mx-1 mx-md-2"><span><i class="iconfont icon-qq"></i></span></a> <a href="/cdn-cgi/l/email-protection#f39a9eb39d929ddd9496" target="_blank" class="mx-1 mx-md-2"><span><i class="iconfont icon-mail_fill"></i></span></a> <a href="https://t.me/Vmgirls" target="_blank" class="mx-1 mx-md-2"><span><i class="iconfont icon-facebook"></i></span></a> <a href="https://www.instagram.com/nange.cn" target="_blank" class="mx-1 mx-md-2"><span><i class="iconfont icon-instagram-fill"></i></span></a> <a href="https://www.twitter.com/PeinanXu" target="_blank" class="mx-1 mx-md-2"><span><i class="iconfont icon-twitter"></i></span></a>
+</div>
+</div></div>
+<div class="col-lg-3 py-3"><div class="footer-widget">
+<div class="footer-widget-header">友情链接</div>
+<div class="footer-widget-content"><div class="footer-widget-links"> <a href="http://www.jinriweidu.com" target="_blank">今日微读</a> <a href="https://www.nange.cn" target="_blank">楠格</a>
+</div></div>
+</div></div>
+<div class="col-lg-3 py-3"><div class="footer-widget">
+<div class="footer-widget-header">旗下站点</div>
+<div class="footer-widget-content"><div class="footer-widget-links"> <a href="https://shop.nange.cn/" target="_blank">楠格杂货店</a> <a href="https://music.nange.cn/" target="_blank">楠格音乐盒</a> <a href="https://nan.ge/" target="_blank">个人主页</a> <a href="http://chrome.vpsce.com/" target="_blank">Chrome 下载</a>
+</div></div>
+</div></div>
+</div>
+<div class="footer-copyright text-xs border-top border-secondary py-3 py-md-4 mt-3 mt-md-4"> Copyright © 2016-2020 <a href="https://www.vmgirls.com" title="唯美女生" rel="home">唯美女生</a> | <a href="https://www.vmgirls.com/sitemap.xml" title="XML站点地图" target="_blank">站点地图</a>
+</div>
+</div> <script data-cfasync="false" src="/cdn-cgi/scripts/5c5dd728/cloudflare-static/email-decode.min.js"></script><script>var _hmt = _hmt || [];
+(function() {
+  var hm = document.createElement("script");
+  hm.src = "https://hm.baidu.com/hm.js?a5eba7a40c339f057e1c5b5ac4ab4cc9";
+  var s = document.getElementsByTagName("script")[0]; 
+  s.parentNode.insertBefore(hm, s);
+})();</script><script data-no-minify="1" async src="https://www.vmgirls.com/wp-content/cache/busting/1/gtm-e8cae14ad6515af4fdc52f4e094eb95e.js"></script><script>window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'UA-127463675-2');</script></footer><aside class="sidebar-collapse"><div class="sidebar-mobile bg-light">
+<div class="sidebar-mobile-action bg-white"> <button type="button" class="link-action text-muted" id="sidebar-mobile-close"><i class="far fa-dot-circle" style="color: #2ccbe6;"></i></button>
+</div>
+<div class="sidebar-mobile-tab-menu"><ul id="mobile-tab-menu-id" class="mobile-tab-menu">
+<li id="menu-item-2762" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-home menu-item-2762"><a class="nav-link" target="_blank" rel="noopener noreferrer" href="https://www.vmgirls.com"><span class="iconfont" style="color: #2ccbe6;"></span> 首页</a></li>
+<li id="menu-item-2729" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-2729">
+<a class="nav-link" target="_blank" rel="noopener noreferrer"><span class="iconfont" style="color: #2ccbe6;"></span> 全部分类</a><ul class="sub-menu">
+<li id="menu-item-2730" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-has-children menu-item-2730"><a class="nav-link" target="_blank" rel="noopener noreferrer" href="https://www.vmgirls.com/photography">摄影写真</a></li>
+<li id="menu-item-2731" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-has-children menu-item-2731"><a class="nav-link" target="_blank" rel="noopener noreferrer" href="https://www.vmgirls.com/campus">校园美女</a></li>
+<li id="menu-item-2732" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-has-children menu-item-2732"><a class="nav-link" target="_blank" rel="noopener noreferrer" href="https://www.vmgirls.com/fresh">清新美女</a></li>
+<li id="menu-item-2733" class="menu-item menu-item-type-taxonomy menu-item-object-category current-post-ancestor current-menu-parent current-post-parent menu-item-has-children menu-item-2733"><a class="nav-link" target="_blank" rel="noopener noreferrer" href="https://www.vmgirls.com/pure">清纯少女</a></li>
+<li id="menu-item-3513" class="menu-item menu-item-type-taxonomy menu-item-object-category current-post-ancestor current-menu-parent current-post-parent menu-item-has-children menu-item-3513"><a class="nav-link" target="_blank" rel="noopener noreferrer" href="https://www.vmgirls.com/sweet">糖水</a></li>
+<li id="menu-item-2734" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-has-children menu-item-2734"><a class="nav-link" target="_blank" rel="noopener noreferrer" href="https://www.vmgirls.com/belles-lettres"><span class="iconfont" style="color: #2ccbe6;"></span> 随笔</a></li>
+<li id="menu-item-2735" class="menu-item menu-item-type-taxonomy menu-item-object-category current-post-ancestor current-menu-parent current-post-parent menu-item-has-children menu-item-2735"><a class="nav-link" target="_blank" rel="noopener noreferrer" href="https://www.vmgirls.com/youth">青春风</a></li>
+</ul>
+</li>
+<li id="menu-item-2725" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-2725">
+<a><span class="iconfont" style="color: #2ccbe6;"></span> 其他站点</a><ul class="sub-menu">
+<li id="menu-item-7835" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-7835"><a class="nav-link" target="_blank" rel="noopener noreferrer" href="https://shop.nange.cn/"><span class="iconfont" style="color: #2ccbe6;"></span> 楠格杂货店</a></li>
+<li id="menu-item-12319" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-12319"><a class="nav-link" target="_blank" rel="noopener noreferrer" href="https://www.nange.cn"><span class="iconfont" style="color: #2ccbe6;"></span> 楠格</a></li>
+</ul>
+</li>
+<li id="menu-item-3577" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3577"><a class="nav-link" target="_blank" rel="noopener noreferrer" href="https://www.vmgirls.com/about-us.html"><span class="iconfont" style="color: #2ccbe6;"></span> 关于</a></li>
+</ul></div>
+</div></aside><div id="search-popup-wrap">
+<div class="search-popup-cover bg-dark px-3 px-lg-5 py-5">
+<div class="bg-effect bg-cover nc-no-lazy" style="background-image: url('https://static.vmgirls.com/image/2019/10/5665E6D5-DF9B-475F-AAC8-DD9F689B71A9.jpeg')"> <span class="overlay"></span>
+</div>
+<form role="search" id="searchform" class="search-popup-form py-lg-5" method="get" action="https://www.vmgirls.com/"> <input class="form-control form-control-lg form-transparent" type="text" placeholder="请输入搜索关键词并按回车键…" name="s" id="s" required>
+</form>
+</div>
+<div class="search-key-push px-3 px-lg-5 py-3 py-lg-4">
+<div class="h6 mb-3">热门搜索</div>
+<ul class="nav nav-pills m-n1">
+<li class="nav-item p-1"><a href="/?s=JK" target="_blank" class="btn btn-light btn-sm">JK</a></li>
+<li class="nav-item p-1"><a href="/?s=%E5%B0%91%E5%A5%B3" target="_blank" class="btn btn-light btn-sm">少女</a></li>
+<li class="nav-item p-1"><a href="/?s=%E5%B0%8F%E5%A7%90%E5%A7%90" target="_blank" class="btn btn-light btn-sm">小姐姐</a></li>
+<li class="nav-item p-1"><a href="/?s=%E5%A6%B9%E7%BA%B8" target="_blank" class="btn btn-light btn-sm">妹纸</a></li>
+<li class="nav-item p-1"><a href="/?s=%E5%B0%8F%E6%B8%85%E6%96%B0" target="_blank" class="btn btn-light btn-sm">小清新</a></li>
+<li class="nav-item p-1"><a href="/?s=%E5%A5%B3%E7%A5%9E" target="_blank" class="btn btn-light btn-sm">女神</a></li>
+<li class="nav-item p-1"><a href="/?s=%E5%9B%9E%E5%BF%86" target="_blank" class="btn btn-light btn-sm">回忆</a></li>
+<li class="nav-item p-1"><a href="/?s=%E5%A4%8D%E5%8F%A4" target="_blank" class="btn btn-light btn-sm">复古</a></li>
+<li class="nav-item p-1"><a href="/?s=%E5%A5%B3%E7%A5%9E" target="_blank" class="btn btn-light btn-sm">女神</a></li>
+<li class="nav-item p-1"><a href="/?s=%E6%91%84%E5%BD%B1" target="_blank" class="btn btn-light btn-sm">摄影</a></li>
+<li class="nav-item p-1"><a href="/?s=%E6%96%87%E8%89%BA" target="_blank" class="btn btn-light btn-sm">文艺</a></li>
+<li class="nav-item p-1"><a href="/?s=%E5%A6%B9%E7%BA%B8" target="_blank" class="btn btn-light btn-sm">妹纸</a></li>
+<li class="nav-item p-1"><a href="/?s=%E4%BA%8C%E6%AC%A1%E5%85%83" target="_blank" class="btn btn-light btn-sm">二次元</a></li>
+<li class="nav-item p-1"><a href="/?s=%E5%8F%AF%E7%88%B1" target="_blank" class="btn btn-light btn-sm">可爱</a></li>
+</ul>
+</div>
+</div>
+<div id="author-popup-wrap"><div class="author-popup-cover">
+<div class="media media-16x9 bg-dark-gradient">
+<div class="bg-effect bg-dark-gradient bg-author"></div>
+<div class="bg-effect bg-cover" data-img="https://secure.gravatar.com/avatar/eb7f91a393b6c689e33a150bece47276?s=96&amp;d=https%3A%2F%2Fwww.vmgirls.com%2Fimage%2F2019%2F02%2FIMG_54681.jpg&amp;r=g"></div>
+</div>
+<div class="author-popup-meta mt-n5">
+<div class="px-4 pb-3 pb-md-4">
+<div class="d-flex align-items-center justify-content-center"> <a href="https://www.vmgirls.com/author/girls" class="flex-avatar mx-2 w-96" taget="_blank"> <img alt="" src="//gravatar.loli.net/avatar/eb7f91a393b6c689e33a150bece47276?s=96&amp;d=https%3A%2F%2Fwww.vmgirls.com%2Fimage%2F2019%2F02%2FIMG_54681.jpg&amp;r=g" srcset="//gravatar.loli.net/avatar/eb7f91a393b6c689e33a150bece47276?s=192&amp;d=https%3A%2F%2Fwww.vmgirls.com%2Fimage%2F2019%2F02%2FIMG_54681.jpg&amp;r=g 2x" class="avatar avatar-96 photo nc-no-lazy" height="96" width="96"></a>
+</div>
+<div class="text-center mt-3"> <a href="https://www.vmgirls.com/author/girls" class="h5" target="_blank"> <span>佩佩</span> </a><div class="d-block text-sm text-muted mt-2"><span class="h-2x">往事如何美好。但我们终究陌路。</span></div>
+</div>
+</div>
+<div class="row no-gutters text-center pb-3 pb-md-4"> <a href="https://www.vmgirls.com/author/girls" class="col" target="_blank"> <span class="font-theme text-lg d-block">31</span> <small class="text-xs text-muted">文章</small> </a><div class="col"> <span class="font-theme text-lg d-block">0</span> <small class="text-xs text-muted">评论</small>
+</div>
+<div class="col"> <span class="font-theme text-lg d-block">3K</span> <small class="text-xs text-muted">喜欢</small>
+</div>
+</div>
+</div>
+</div></div> <a id="nice-back-to-top" href="#"> <span class="icon-stack"> <i class="text-xs iconfont icon-un-collapse--o"></i> <span class="back-to-top-text">Top</span> </span> </a> <script type="text/javascript" src="https://static.vmgirls.com/wp-content/plugins/nicetheme-jimu/modules/jimu.js?ver=1.0" defer></script><script type="text/javascript" src="https://static.vmgirls.com/wp-content/plugins/nicetheme-jimu/modules/base/assets/highlight/highlight.pack.js?ver=1.0" defer></script><script type="text/javascript" src="https://static.vmgirls.com/wp-content/plugins/nicetheme-jimu/modules/base/assets/lazyload/lazyload.min.js?ver=1.0" defer></script><script type="text/javascript" src="https://static.vmgirls.com/wp-content/plugins/nicetheme-jimu/modules/base/assets/lightGallery/lib/picturefill.min.js?ver=1.0" defer></script><script type="text/javascript" src="https://static.vmgirls.com/wp-content/plugins/nicetheme-jimu/modules/base/assets/lightGallery/js/lightgallery-all.min.js?ver=1.0" defer></script><script type="text/javascript" src="https://www.vmgirls.com/wp-content/plugins/nicetheme-jimu/modules/base/assets/lightGallery/lib/jquery.mousewheel.min.js?ver=1.0" defer></script><script type="text/javascript" src="//qzonestyle.gtimg.cn/qzone/qzact/common/share/share.js?ver=1.0" defer></script><script type="text/javascript" src="https://static.vmgirls.com/wp-content/plugins/nicetheme-module-eacfc52cb4-NKYqqe/static/nice-poster.js?ver=1.0.3" defer></script><script type="text/javascript" src="https://static.vmgirls.com/wp-content/themes/Cosy/js/popper.min.js?ver=3.1.2" defer></script><script type="text/javascript" src="https://static.vmgirls.com/wp-content/themes/Cosy/js/bootstrap.min.js?ver=3.1.2" defer></script><script type="text/javascript" src="https://static.vmgirls.com/wp-content/themes/Cosy/js/plugins.min.js?ver=3.1.2" defer></script><script type="text/javascript" src="https://static.vmgirls.com/wp-content/themes/Cosy/js/ResizeSensor.min.js?ver=3.1.2" defer></script><script type="text/javascript" src="https://static.vmgirls.com/wp-content/themes/Cosy/js/theia-sticky-sidebar.min.js?ver=3.1.2" defer></script><script type="text/javascript" src="https://static.vmgirls.com/wp-content/themes/Cosy/js/nicetheme.js?ver=3.1.2" defer></script><script>(function(){
+                    var bp = document.createElement('script');
+                    var curProtocol = window.location.protocol.split(':')[0];
+                    if (curProtocol === 'https') {
+                        bp.src = 'https://zz.bdstatic.com/linksubmit/push.js';
+                    }
+                    else {
+                        bp.src = 'http://push.zhanzhang.baidu.com/push.js';
+                    }
+                    var s = document.getElementsByTagName("script")[0];
+                    s.parentNode.insertBefore(bp, s);
+                })();</script><script>setShareInfo({
+				title: '秋日温柔，人间理想',
+				summary: '◎摄影/后期：@萌琦琦M77
+- - - - - - - -
+秋日温柔，人间理想。',
+				pic: 'https://static.vmgirls.com/image/2019/10/5665E6D5-DF9B-475F-AAC8-DD9F689B71A9-1-scaled.jpeg',
+				url: 'https://www.vmgirls.com/12985.html',
+							WXconfig:{
+				swapTitleInWX: false,
+				appId: 'wxfc875ca4cbdf3b95',
+				timestamp: '1582615584',
+				nonceStr: 'kpDOHtpygnZM7cM4',
+				signature: '27cf561096b4365ac3a64d84d1a806f99b071b56'
+			}
+			});</script><script>window.lazyLoadOptions={elements_selector:"iframe[data-lazy-src]",data_src:"lazy-src",data_srcset:"lazy-srcset",data_sizes:"lazy-sizes",class_loading:"lazyloading",class_loaded:"lazyloaded",threshold:300,callback_loaded:function(element){if(element.tagName==="IFRAME"&&element.dataset.rocketLazyload=="fitvidscompatible"){if(element.classList.contains("lazyloaded")){if(typeof window.jQuery!="undefined"){if(jQuery.fn.fitVids){jQuery(element).parent().fitVids()}}}}}};window.addEventListener('LazyLoad::Initialized',function(e){var lazyLoadInstance=e.detail.instance;if(window.MutationObserver){var observer=new MutationObserver(function(mutations){var image_count=0;var iframe_count=0;var rocketlazy_count=0;mutations.forEach(function(mutation){for(i=0;i<mutation.addedNodes.length;i++){if(typeof mutation.addedNodes[i].getElementsByTagName!=='function'){return}
+if(typeof mutation.addedNodes[i].getElementsByClassName!=='function'){return}
+images=mutation.addedNodes[i].getElementsByTagName('img');is_image=mutation.addedNodes[i].tagName=="IMG";iframes=mutation.addedNodes[i].getElementsByTagName('iframe');is_iframe=mutation.addedNodes[i].tagName=="IFRAME";rocket_lazy=mutation.addedNodes[i].getElementsByClassName('rocket-lazyload');image_count+=images.length;iframe_count+=iframes.length;rocketlazy_count+=rocket_lazy.length;if(is_image){image_count+=1}
+if(is_iframe){iframe_count+=1}}});if(image_count>0||iframe_count>0||rocketlazy_count>0){lazyLoadInstance.update()}});var b=document.getElementsByTagName("body")[0];var config={childList:!0,subtree:!0};observer.observe(b,config)}},!1)</script><script data-no-minify="1" async src="https://static.vmgirls.com/wp-content/plugins/wp-rocket/assets/js/lazyload/12.0/lazyload.min.js"></script><script>function lazyLoadThumb(e){var t='<img src="https://i.ytimg.com/vi/ID/hqdefault.jpg" alt="" width="480" height="360">',a='<div class="play">';return t.replace("ID",e)+a}function lazyLoadYoutubeIframe(){var e=document.createElement("iframe"),t="ID?autoplay=1";t+=0===this.dataset.query.length?'':'&'+this.dataset.query;e.setAttribute("src",t.replace("ID",this.dataset.src)),e.setAttribute("frameborder","0"),e.setAttribute("allowfullscreen","1"),e.setAttribute("allow", "accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture"),this.parentNode.replaceChild(e,this)}document.addEventListener("DOMContentLoaded",function(){var e,t,a=document.getElementsByClassName("rll-youtube-player");for(t=0;t<a.length;t++)e=document.createElement("div"),e.setAttribute("data-id",a[t].dataset.id),e.setAttribute("data-query", a[t].dataset.query),e.setAttribute("data-src", a[t].dataset.src),e.innerHTML=lazyLoadThumb(a[t].dataset.id),e.onclick=lazyLoadYoutubeIframe,a[t].appendChild(e)});</script>
+</body>
+</html>
+
+【记录时间】2020-02-25 16:42:43
+
+【运行记录】位置：1
+['https://static.vmgirls.com/image/2019/10/470B6B0D-609A-4A84-A533-351AF30F3927-1-scaled.jpeg', 'https://static.vmgirls.com/image/2019/10/E5F964DF-BEC8-4399-90FF-5131A1D5F406-1-scaled.jpeg', 'https://static.vmgirls.com/image/2019/10/5665E6D5-DF9B-475F-AAC8-DD9F689B71A9-1-scaled.jpeg', 'https://static.vmgirls.com/image/2019/10/8FC5182A-1C7C-467C-8C5D-0618D825C1AF-1-scaled.jpeg', 'https://static.vmgirls.com/image/2019/10/90DBAC73-6785-4653-9E7D-6EABBCEE3134-1-scaled.jpeg', 'https://static.vmgirls.com/image/2019/10/E1DF3578-2865-430B-9518-AA7EB7C05459-1-scaled.jpeg', 'https://static.vmgirls.com/image/2019/10/FDF53E13-D836-4E4D-B1E1-28555D3EBBE4-1-scaled.jpeg', 'https://static.vmgirls.com/image/2019/10/A67B2C2E-CF20-42A2-B00C-D09BEBDB6D69-1-scaled.jpeg', 'https://static.vmgirls.com/image/2019/10/14BB45B2-0FCD-4502-BE4F-AC4DC3C2B772-1-scaled.jpeg', 'https://static.vmgirls.com/image/2019/10/A15D1787-CB78-4EAE-A44E-FB725E7E7344-1-scaled.jpeg', 'https://static.vmgirls.com/image/2019/10/31187C1E-1EA1-4B18-A196-D311A122D012-1-scaled.jpeg', 'https://static.vmgirls.com/image/2019/10/FCFD06E3-B94D-49D0-8195-D750CE1D8827-1-scaled.jpeg', 'https://static.vmgirls.com/image/2019/10/762D97D1-17E1-4928-8F7D-DCE7C0093C38-1-scaled.jpeg', 'https://static.vmgirls.com/image/2019/10/1DC490C0-F289-4B01-A8AD-61F86B0179EE-1-scaled.jpeg', 'https://static.vmgirls.com/image/2019/10/DCEA6769-86EB-4118-A317-A4D31B13CA31-1-scaled.jpeg', 'https://static.vmgirls.com/image/2019/10/6FCC04DD-B7E1-493F-9834-BE221DD085CE-1-scaled.jpeg', 'https://static.vmgirls.com/image/2019/10/4CEA267D-B604-4D61-AC0F-A9839BB63DF5-1-scaled.jpeg', 'https://static.vmgirls.com/image/2019/10/87C29B66-ECC0-492F-8F01-BBC1C9412D2D-1-scaled.jpeg']
+【记录时间】2020-02-25 17:06:23
+
+【运行记录】位置：1
+['https://static.vmgirls.com/image/2019/10/470B6B0D-609A-4A84-A533-351AF30F3927-1-scaled.jpeg', 'https://static.vmgirls.com/image/2019/10/E5F964DF-BEC8-4399-90FF-5131A1D5F406-1-scaled.jpeg', 'https://static.vmgirls.com/image/2019/10/5665E6D5-DF9B-475F-AAC8-DD9F689B71A9-1-scaled.jpeg', 'https://static.vmgirls.com/image/2019/10/8FC5182A-1C7C-467C-8C5D-0618D825C1AF-1-scaled.jpeg', 'https://static.vmgirls.com/image/2019/10/90DBAC73-6785-4653-9E7D-6EABBCEE3134-1-scaled.jpeg', 'https://static.vmgirls.com/image/2019/10/E1DF3578-2865-430B-9518-AA7EB7C05459-1-scaled.jpeg', 'https://static.vmgirls.com/image/2019/10/FDF53E13-D836-4E4D-B1E1-28555D3EBBE4-1-scaled.jpeg', 'https://static.vmgirls.com/image/2019/10/A67B2C2E-CF20-42A2-B00C-D09BEBDB6D69-1-scaled.jpeg', 'https://static.vmgirls.com/image/2019/10/14BB45B2-0FCD-4502-BE4F-AC4DC3C2B772-1-scaled.jpeg', 'https://static.vmgirls.com/image/2019/10/A15D1787-CB78-4EAE-A44E-FB725E7E7344-1-scaled.jpeg', 'https://static.vmgirls.com/image/2019/10/31187C1E-1EA1-4B18-A196-D311A122D012-1-scaled.jpeg', 'https://static.vmgirls.com/image/2019/10/FCFD06E3-B94D-49D0-8195-D750CE1D8827-1-scaled.jpeg', 'https://static.vmgirls.com/image/2019/10/762D97D1-17E1-4928-8F7D-DCE7C0093C38-1-scaled.jpeg', 'https://static.vmgirls.com/image/2019/10/1DC490C0-F289-4B01-A8AD-61F86B0179EE-1-scaled.jpeg', 'https://static.vmgirls.com/image/2019/10/DCEA6769-86EB-4118-A317-A4D31B13CA31-1-scaled.jpeg', 'https://static.vmgirls.com/image/2019/10/6FCC04DD-B7E1-493F-9834-BE221DD085CE-1-scaled.jpeg', 'https://static.vmgirls.com/image/2019/10/4CEA267D-B604-4D61-AC0F-A9839BB63DF5-1-scaled.jpeg', 'https://static.vmgirls.com/image/2019/10/87C29B66-ECC0-492F-8F01-BBC1C9412D2D-1-scaled.jpeg']
+【记录时间】2020-02-25 17:14:44
+
+【运行记录】位置：2
+https://static.vmgirls.com/image/2019/10/470B6B0D-609A-4A84-A533-351AF30F3927-1-scaled.jpeg
+【记录时间】2020-02-25 17:14:44
+
+【运行记录】位置：2
+https://static.vmgirls.com/image/2019/10/E5F964DF-BEC8-4399-90FF-5131A1D5F406-1-scaled.jpeg
+【记录时间】2020-02-25 17:14:44
+
+【运行记录】位置：2
+https://static.vmgirls.com/image/2019/10/5665E6D5-DF9B-475F-AAC8-DD9F689B71A9-1-scaled.jpeg
+【记录时间】2020-02-25 17:14:44
+
+【运行记录】位置：2
+https://static.vmgirls.com/image/2019/10/8FC5182A-1C7C-467C-8C5D-0618D825C1AF-1-scaled.jpeg
+【记录时间】2020-02-25 17:14:44
+
+【运行记录】位置：2
+https://static.vmgirls.com/image/2019/10/90DBAC73-6785-4653-9E7D-6EABBCEE3134-1-scaled.jpeg
+【记录时间】2020-02-25 17:14:44
+
+【运行记录】位置：2
+https://static.vmgirls.com/image/2019/10/E1DF3578-2865-430B-9518-AA7EB7C05459-1-scaled.jpeg
+【记录时间】2020-02-25 17:14:44
+
+【运行记录】位置：2
+https://static.vmgirls.com/image/2019/10/FDF53E13-D836-4E4D-B1E1-28555D3EBBE4-1-scaled.jpeg
+【记录时间】2020-02-25 17:14:44
+
+【运行记录】位置：2
+https://static.vmgirls.com/image/2019/10/A67B2C2E-CF20-42A2-B00C-D09BEBDB6D69-1-scaled.jpeg
+【记录时间】2020-02-25 17:14:44
+
+【运行记录】位置：2
+https://static.vmgirls.com/image/2019/10/14BB45B2-0FCD-4502-BE4F-AC4DC3C2B772-1-scaled.jpeg
+【记录时间】2020-02-25 17:14:44
+
+【运行记录】位置：2
+https://static.vmgirls.com/image/2019/10/A15D1787-CB78-4EAE-A44E-FB725E7E7344-1-scaled.jpeg
+【记录时间】2020-02-25 17:14:44
+
+【运行记录】位置：2
+https://static.vmgirls.com/image/2019/10/31187C1E-1EA1-4B18-A196-D311A122D012-1-scaled.jpeg
+【记录时间】2020-02-25 17:14:44
+
+【运行记录】位置：2
+https://static.vmgirls.com/image/2019/10/FCFD06E3-B94D-49D0-8195-D750CE1D8827-1-scaled.jpeg
+【记录时间】2020-02-25 17:14:44
+
+【运行记录】位置：2
+https://static.vmgirls.com/image/2019/10/762D97D1-17E1-4928-8F7D-DCE7C0093C38-1-scaled.jpeg
+【记录时间】2020-02-25 17:14:44
+
+【运行记录】位置：2
+https://static.vmgirls.com/image/2019/10/1DC490C0-F289-4B01-A8AD-61F86B0179EE-1-scaled.jpeg
+【记录时间】2020-02-25 17:14:44
+
+【运行记录】位置：2
+https://static.vmgirls.com/image/2019/10/DCEA6769-86EB-4118-A317-A4D31B13CA31-1-scaled.jpeg
+【记录时间】2020-02-25 17:14:44
+
+【运行记录】位置：2
+https://static.vmgirls.com/image/2019/10/6FCC04DD-B7E1-493F-9834-BE221DD085CE-1-scaled.jpeg
+【记录时间】2020-02-25 17:14:44
+
+【运行记录】位置：2
+https://static.vmgirls.com/image/2019/10/4CEA267D-B604-4D61-AC0F-A9839BB63DF5-1-scaled.jpeg
+【记录时间】2020-02-25 17:14:44
+
+【运行记录】位置：2
+https://static.vmgirls.com/image/2019/10/87C29B66-ECC0-492F-8F01-BBC1C9412D2D-1-scaled.jpeg
+【记录时间】2020-02-25 17:14:44
+
+【运行记录】位置：1
+网页已请求
+【记录时间】2020-02-25 17:26:24
+
+【运行记录】位置：2
+['https://static.vmgirls.com/image/2019/10/470B6B0D-609A-4A84-A533-351AF30F3927-1-scaled.jpeg', 'https://static.vmgirls.com/image/2019/10/E5F964DF-BEC8-4399-90FF-5131A1D5F406-1-scaled.jpeg', 'https://static.vmgirls.com/image/2019/10/5665E6D5-DF9B-475F-AAC8-DD9F689B71A9-1-scaled.jpeg', 'https://static.vmgirls.com/image/2019/10/8FC5182A-1C7C-467C-8C5D-0618D825C1AF-1-scaled.jpeg', 'https://static.vmgirls.com/image/2019/10/90DBAC73-6785-4653-9E7D-6EABBCEE3134-1-scaled.jpeg', 'https://static.vmgirls.com/image/2019/10/E1DF3578-2865-430B-9518-AA7EB7C05459-1-scaled.jpeg', 'https://static.vmgirls.com/image/2019/10/FDF53E13-D836-4E4D-B1E1-28555D3EBBE4-1-scaled.jpeg', 'https://static.vmgirls.com/image/2019/10/A67B2C2E-CF20-42A2-B00C-D09BEBDB6D69-1-scaled.jpeg', 'https://static.vmgirls.com/image/2019/10/14BB45B2-0FCD-4502-BE4F-AC4DC3C2B772-1-scaled.jpeg', 'https://static.vmgirls.com/image/2019/10/A15D1787-CB78-4EAE-A44E-FB725E7E7344-1-scaled.jpeg', 'https://static.vmgirls.com/image/2019/10/31187C1E-1EA1-4B18-A196-D311A122D012-1-scaled.jpeg', 'https://static.vmgirls.com/image/2019/10/FCFD06E3-B94D-49D0-8195-D750CE1D8827-1-scaled.jpeg', 'https://static.vmgirls.com/image/2019/10/762D97D1-17E1-4928-8F7D-DCE7C0093C38-1-scaled.jpeg', 'https://static.vmgirls.com/image/2019/10/1DC490C0-F289-4B01-A8AD-61F86B0179EE-1-scaled.jpeg', 'https://static.vmgirls.com/image/2019/10/DCEA6769-86EB-4118-A317-A4D31B13CA31-1-scaled.jpeg', 'https://static.vmgirls.com/image/2019/10/6FCC04DD-B7E1-493F-9834-BE221DD085CE-1-scaled.jpeg', 'https://static.vmgirls.com/image/2019/10/4CEA267D-B604-4D61-AC0F-A9839BB63DF5-1-scaled.jpeg', 'https://static.vmgirls.com/image/2019/10/87C29B66-ECC0-492F-8F01-BBC1C9412D2D-1-scaled.jpeg']
+【记录时间】2020-02-25 17:26:24
+
