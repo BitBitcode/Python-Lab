@@ -14,7 +14,6 @@ import Kiana_record
 
 
 # 记录
-i = 1
 file_path = "C:\\GitHub\\Python-Lab\\爬取唯美女生网\\log.txt"
 
 
@@ -23,7 +22,7 @@ file_path = "C:\\GitHub\\Python-Lab\\爬取唯美女生网\\log.txt"
 # content = requests.get("https://www.vmgirls.com/12985.html")    # content 为获取的内容
 # print("【直接请求】不采取伪装头部的做法，请求网页时服务器识别的“headers”为：\n", content.request.headers)
 # print("【检查点：1】\n")
-# Kiana_record.rec_solo(file_path, content.request.headers, i)
+# Kiana_record.rec_solo(file_path, content.request.headers)
 # i = i + 1
 
 #（2）伪装头部（反爬）
@@ -37,15 +36,13 @@ content = requests.get("https://www.vmgirls.com/12985.html", headers = headers_c
 html_code = content.text
 # print("【伪装头部】请求到网页的源代码为：\n", html_code)
 # print("【检查点：2】\n")
-# Kiana_record.rec_solo(file_path, html_code, i)
-# i = i + 1
+# Kiana_record.rec_solo(file_path, html_code)
 
 # 【解析网页】
 # 这里用的是正则表达式来寻找所有图片的链接地址
 images_urls = re.findall('<a href="(.*?)" alt=".*?" title=".*?">', html_code)
 print(images_urls)
-Kiana_record.rec_solo(file_path, images_urls, i)
-i = i + 1
+Kiana_record.rec_solo(file_path, images_urls)
 print("【检查点：3】\n")
 
 
@@ -57,6 +54,5 @@ for single_url in images_urls:
     response_content = requests.get(single_url, headers = headers_camouflage)
     with open(save_name, "wb") as image_file:
         image_file.write(response_content.content)
-
 
 # 创建文件夹保存
