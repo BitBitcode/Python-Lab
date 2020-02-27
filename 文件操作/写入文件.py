@@ -1,7 +1,6 @@
 # 导入 datetime 库
 import datetime
 
-
 output_file = open("C:\\GitHub\\Python-Lab\\文件操作\\output.txt",
                    "a", encoding="utf-8")
 # 注意：

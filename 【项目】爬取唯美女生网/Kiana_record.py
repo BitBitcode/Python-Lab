@@ -22,7 +22,7 @@ Copyright (c) BitBitcode. All rights reserved.
 '''
 
 
-#【】
+#【作者】
 __author__ = "BitBitcode"
 
 
