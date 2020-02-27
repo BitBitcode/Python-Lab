@@ -1,5 +1,6 @@
-import time
 import Kiana_record
+import time
+
 
 path = "C:\\GitHub\\Python-Lab\\【项目】爬取唯美女生网\\record_test.txt"
 
@@ -23,3 +24,4 @@ Kiana_record.rec_solo(path, C)
 time.sleep(1)
 print(D)
 Kiana_record.rec_solo(path, D)
+

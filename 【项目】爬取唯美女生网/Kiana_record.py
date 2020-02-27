@@ -1,3 +1,7 @@
+#!/usr/bin/env python3
+# -*- coding: utf-8 -*-
+
+
 '''
 【Python代码运行日志记录模块】
 模块名：Kiana_record.py
@@ -72,6 +76,7 @@ def rec_solo(record_path, origin_content):
 # rec_solo(p, "占个位置")
 
 
+
 #【函数】记录多条日志
 def rec_batch():
     """
@@ -81,5 +86,5 @@ def rec_batch():
         · 
     【返回值】
     """
-
     pass
+
