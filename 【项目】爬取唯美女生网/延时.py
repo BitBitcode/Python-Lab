@@ -1,4 +1,4 @@
-import Kiana_record
+import Kiana.record
 import time
 
 
@@ -11,17 +11,17 @@ D = "很快就好"
 
 
 print(A)
-Kiana_record.rec_solo(path, A)
+Kiana.record.rec_solo(path, A)
 
 time.sleep(1)
 print(B)
-Kiana_record.rec_solo(path, B)
+Kiana.record.rec_solo(path, B)
 
 time.sleep(1)
 print(C)
-Kiana_record.rec_solo(path, C)
+Kiana.record.rec_solo(path, C)
 
 time.sleep(1)
 print(D)
-Kiana_record.rec_solo(path, D)
+Kiana.record.rec_solo(path, D)
 

@@ -1,13 +1,13 @@
 #!/usr/bin/env python3
 # -*- coding: utf-8 -*-
 
-
 '''
 【Python代码运行日志记录模块】
-模块名：Kiana_record.py
+
+模块名：Kiana.record.py
 简介：
     ·帮助记录运行中的一些内容，否则关闭终端内容全无
-库函数：
+模块函数：
     ·rec_solo(record_path, origin_content, i)：记录单条日志
     ·rec_batch()：记录多条日志
 开发计划（Todo List）：
@@ -20,6 +20,7 @@
     ·开源地址：https://github.com/BitBitcode
 创建日期：2020.2.25
 更新日志：
+    ·2020.2.28：形成包
 
 Copyright (c) BitBitcode. All rights reserved.
 
@@ -28,6 +29,10 @@ Copyright (c) BitBitcode. All rights reserved.
 
 #【作者】
 __author__ = "BitBitcode"
+
+__name__ = "record"
+#【】
+__file__ = "C:\\GitHub\\Python-Lab\\Kiana\\record.py"
 
 
 #【依赖库】
