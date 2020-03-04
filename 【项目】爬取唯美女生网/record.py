@@ -31,7 +31,7 @@ Copyright (c) BitBitcode. All rights reserved.
 __author__ = "BitBitcode"
 
 __name__ = "record"
-#【】
+
 __file__ = "C:\\GitHub\\Python-Lab\\Kiana\\record.py"
 
 
@@ -71,16 +71,6 @@ def rec_solo(record_path, origin_content):
     # 返回值
     return None
 
-#【测试】
-
-# p = "C:\\GitHub\\Python-Lab\\【项目】爬取唯美女生网\\record_test.txt"
-# r = "测试：这是一条记录"
-# i = 1
-
-# rec_solo(p, r)
-# rec_solo(p, "占个位置")
-
-
 
 #【函数】记录多条日志
 def rec_batch():
@@ -93,3 +83,15 @@ def rec_batch():
     """
     pass
 
+
+
+# 这里放置测试代码，当且仅当直接运行模块的 .py 文件时才会执行
+if __name__ == '__main__':
+    
+    # 测试函数 rec_solo()
+    p = "C:\\GitHub\\Python-Lab\\【项目】爬取唯美女生网\\record_test.txt"
+    r = "测试：这是一条记录"
+    i = 1
+
+    rec_solo(p, r)
+    rec_solo(p, "占个位置")
